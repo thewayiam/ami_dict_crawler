@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
 from time import sleep
 from random import randint
-import codecs
 import re
-import urllib
-import urllib2
 from urlparse import urljoin
 import scrapy
-from scrapy.http import Request, FormRequest
 from scrapy.selector import Selector
 
 from selenium import webdriver
@@ -36,10 +32,8 @@ class Spider(scrapy.Spider):
         li_terms = self.driver.find_element_by_xpath('//li[@id="li_terms"]/a')
         li_terms.click()
         sleep(randint(1, 2))
-#       with codecs.open("log/terms.htm", "w", encoding="utf-8") as f:
-#           f.write(self.driver.page_source)
         start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
-        for i, start_letter in enumerate(start_letters):
+        for start_letter in start_letters:
             start_letter.click()
             try:
                 element = WebDriverWait(self.driver, 10).until(
@@ -47,10 +41,11 @@ class Spider(scrapy.Spider):
                 )
             except:
                 print start_letter.text
-                continue
+                sleep(randint(4, 5))
+                pass
             sleep(randint(1, 2))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
-            for i, term in enumerate(terms):
+            for term in terms:
                 term.click()
                 try:
                     element = WebDriverWait(self.driver, 10).until(
@@ -59,7 +54,8 @@ class Spider(scrapy.Spider):
                 except:
                     print start_letter.text
                     print term.text
-                    continue
+                    sleep(randint(4, 5))
+                    pass
                 sleep(randint(1, 2))
                 data = {'examples': []}
                 data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
@@ -85,5 +81,3 @@ class Spider(scrapy.Spider):
                         'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
                     })
                 yield data
-#           with codecs.open("log/%s.htm" % start_letter.text, "w", encoding="utf-8") as f:
-#               f.write(self.driver.page_source)
