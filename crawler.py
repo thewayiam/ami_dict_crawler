@@ -41,18 +41,25 @@ class Spider(scrapy.Spider):
         start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
         for i, start_letter in enumerate(start_letters):
             start_letter.click()
-            element = WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
-            )
+            try:
+                element = WebDriverWait(self.driver, 10).until(
+                    EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
+                )
+            except:
+                print start_letter.text
+                continue
             sleep(randint(1, 2))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for i, term in enumerate(terms):
-                print start_letter.text
-                print term.text
                 term.click()
-                element = WebDriverWait(self.driver, 5).until(
-                    EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
-                )
+                try:
+                    element = WebDriverWait(self.driver, 10).until(
+                        EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
+                    )
+                except:
+                    print start_letter.text
+                    print term.text
+                    continue
                 sleep(randint(1, 2))
                 data = {'examples': []}
                 data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
