@@ -43,7 +43,7 @@ class Spider(scrapy.Spider):
                 print start_letter.text
                 sleep(randint(4, 5))
                 pass
-            sleep(randint(1, 2))
+            sleep(randint(4, 5))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
                 term.click()
@@ -58,7 +58,11 @@ class Spider(scrapy.Spider):
                     pass
                 sleep(randint(1, 2))
                 data = {'examples': []}
-                data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
+                try:
+                    data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
+                except:
+                    print 'no name: %s' % term.text
+                    continue
                 try:
                     data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
                 except:
@@ -68,10 +72,9 @@ class Spider(scrapy.Spider):
                     data['source'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Source"]/a[@class="ws_term"]').text
                 except:
                     data['source'] = None
-                examples = self.driver.find_elements_by_xpath('//div[@class="concon"]/div')
                 descriptions = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[1]')]
                 sentences = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
-                pronounces = [urljoin(response.url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a')]
+                pronounces = [urljoin(response.url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
                 zh_Hants = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
                 for i in range(len(descriptions)):
                     data['examples'].append({
