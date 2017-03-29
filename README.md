@@ -4,10 +4,19 @@ crawler of http://e-dictionary.apc.gov.tw/ami/Search.htm
 JSON output: https://thewayiam.github.io/ami_dict_crawler/data/data.json
 
 ## 抓
-
+### Chrome driver
 裝[chrome driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)，而且放佇`PATH`
 ```
-sudo apt-get install -y xvfb
+echo 'check latest version of driver:'
+curl "http://chromedriver.storage.googleapis.com/LATEST_RELEASE"
+sudo mkdir /var/chromedriver && cd /var/chromedriver
+echo 'replace version number in below link, we use 2.28 in this moment'
+sudo wget "http://chromedriver.storage.googleapis.com/2.28/chromedriver_linux64.zip"
+sudo unzip chromedriver_linux64.zip
+```
+### 安裝
+```
+sudo apt-get install -y xvfb libpython3-dev
 virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip # 設置環境檔
 pip install scrapy selenium pyvirtualdisplay
 ```
@@ -15,8 +24,9 @@ pip install scrapy selenium pyvirtualdisplay
 ```
 scrapy runspider crawler.py -t json -o data/ami.json 
 ```
+
 ### 其他族語
-請將`{代號}`換成需要的族語
+請將`{代號}`換成需要的族語，預設為`阿美語`
 ```
 scrapy runspider crawler.py -t json -o data/{代號}.json -a lang={代號}
 ```
