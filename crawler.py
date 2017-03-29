@@ -19,16 +19,16 @@ from pyvirtualdisplay import Display
 class Spider(scrapy.Spider):
     name = "ami"
     allowed_domains = ["e-dictionary.apc.gov.tw"]
-    start_urls = [
-        "http://e-dictionary.apc.gov.tw/ami/Search.htm",
-    ]
     download_delay = 0
 
-    def __init__(self, ad=None, *args, **kwargs):
+    def __init__(self, lang='ami', ad=None, *args, **kwargs):
         super(Spider, self).__init__(*args, **kwargs)
         self.display = Display(visible=0, size=(800, 600))
         self.display.start()
         self.driver = webdriver.Chrome("/var/chromedriver/chromedriver")
+        self.start_urls = [
+            "http://e-dictionary.apc.gov.tw/%s/Search.htm" % lang
+        ]
 
     def parse(self, response):
         self.driver.get(response.url)
