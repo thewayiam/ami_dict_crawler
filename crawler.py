@@ -2,7 +2,10 @@
 from time import sleep
 from random import randint
 import re
-from urlparse import urljoin
+try:
+    from urlparse import urljoin
+except:
+    from urllib.parse import urljoin
 import scrapy
 from scrapy.selector import Selector
 
@@ -40,7 +43,7 @@ class Spider(scrapy.Spider):
                     EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
                 )
             except:
-                print start_letter.text
+                print(start_letter.text)
                 sleep(randint(4, 5))
                 pass
             sleep(randint(4, 5))
@@ -52,8 +55,8 @@ class Spider(scrapy.Spider):
                         EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
                     )
                 except:
-                    print start_letter.text
-                    print term.text
+                    print(start_letter.text)
+                    print(term.text)
                     sleep(randint(4, 5))
                     pass
                 sleep(randint(1, 2))
@@ -61,7 +64,7 @@ class Spider(scrapy.Spider):
                 try:
                     data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
                 except:
-                    print 'no name: %s' % term.text
+                    print('no name: %s' % term.text)
                     continue
                 try:
                     data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
