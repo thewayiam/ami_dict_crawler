@@ -2,7 +2,10 @@
 from time import sleep
 from random import randint
 import re
-from urlparse import urljoin
+try:
+    from urlparse import urljoin
+except:
+    from urllib.parse import urljoin
 import scrapy
 from scrapy.selector import Selector
 
@@ -16,16 +19,16 @@ from pyvirtualdisplay import Display
 class Spider(scrapy.Spider):
     name = "ami"
     allowed_domains = ["e-dictionary.apc.gov.tw"]
-    start_urls = [
-        "http://e-dictionary.apc.gov.tw/ami/Search.htm",
-    ]
     download_delay = 0
 
-    def __init__(self, ad=None, *args, **kwargs):
+    def __init__(self, lang='ami', ad=None, *args, **kwargs):
         super(Spider, self).__init__(*args, **kwargs)
         self.display = Display(visible=0, size=(800, 600))
         self.display.start()
         self.driver = webdriver.Chrome("/var/chromedriver/chromedriver")
+        self.start_urls = [
+            "http://e-dictionary.apc.gov.tw/%s/Search.htm" % lang
+        ]
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -33,6 +36,7 @@ class Spider(scrapy.Spider):
         li_terms.click()
         sleep(randint(1, 2))
         start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
+        previous_name = None
         for start_letter in start_letters:
             start_letter.click()
             try:
@@ -40,9 +44,10 @@ class Spider(scrapy.Spider):
                     EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
                 )
             except:
-                print start_letter.text
+                print(start_letter.text)
                 sleep(randint(4, 5))
                 pass
+            self.must_stale(previous_name)
             sleep(randint(4, 5))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
@@ -52,16 +57,20 @@ class Spider(scrapy.Spider):
                         EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
                     )
                 except:
-                    print start_letter.text
-                    print term.text
+                    print(start_letter.text)
+                    print(term.text)
                     sleep(randint(4, 5))
                     pass
+                self.must_stale(previous_name)
                 sleep(randint(1, 2))
                 data = {'examples': []}
                 try:
-                    data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
-                except:
-                    print 'no name: %s' % term.text
+                    previous_name = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
+                    data['name'] = previous_name.text
+                except Exception as err:
+                    # pyu 的 ' 無資料
+                    print('no name: %s' % term.text)
+                    print(err)
                     continue
                 try:
                     data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
@@ -84,3 +93,13 @@ class Spider(scrapy.Spider):
                         'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
                     })
                 yield data
+
+    def must_stale(self, previous_name):
+        if previous_name is not None:
+            try:
+                element = WebDriverWait(self.driver, 100).until(
+                    EC.staleness_of(previous_name)
+                )
+            except:
+                print('did not update!!')
+                sleep(randint(100, 200))
