@@ -46,7 +46,7 @@ class Spider(scrapy.Spider):
                 print(start_letter.text)
                 sleep(randint(4, 5))
                 pass
-            sleep(randint(4, 5))
+            sleep(randint(40, 50))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
                 term.click()
