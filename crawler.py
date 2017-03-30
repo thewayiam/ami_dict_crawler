@@ -36,24 +36,26 @@ class Spider(scrapy.Spider):
         li_terms.click()
         sleep(randint(1, 2))
         start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
-        previous_name = None
+        previous_terms = None
+        previous_name_element = None
         for start_letter in start_letters:
             start_letter.click()
             try:
-                element = WebDriverWait(self.driver, 10).until(
+                element = WebDriverWait(self.driver, 100).until(
                     EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
                 )
             except:
                 print(start_letter.text)
                 sleep(randint(4, 5))
                 pass
-            self.must_stale(previous_name)
+            self.must_stale(previous_terms, start_letter.text)
+#             self.must_stale(previous_name_element, start_letter.text)
             sleep(randint(4, 5))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
                 term.click()
                 try:
-                    element = WebDriverWait(self.driver, 10).until(
+                    element = WebDriverWait(self.driver, 100).until(
                         EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
                     )
                 except:
@@ -61,12 +63,14 @@ class Spider(scrapy.Spider):
                     print(term.text)
                     sleep(randint(4, 5))
                     pass
-                self.must_stale(previous_name)
+                self.must_stale(
+                    previous_name_element, start_letter.text + ' ' + term.text
+                )
                 sleep(randint(1, 2))
                 data = {'examples': []}
                 try:
-                    previous_name = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
-                    data['name'] = previous_name.text
+                    previous_name_element = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
+                    data['name'] = previous_name_element.text
                 except Exception as err:
                     # pyu 的 ' 無資料
                     print('no name: %s' % term.text)
@@ -93,13 +97,14 @@ class Spider(scrapy.Spider):
                         'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
                     })
                 yield data
+            previous_terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
 
-    def must_stale(self, previous_name):
-        if previous_name is not None:
+    def must_stale(self, previous_element, message):
+        if previous_element is not None:
             try:
                 element = WebDriverWait(self.driver, 100).until(
-                    EC.staleness_of(previous_name)
+                    EC.staleness_of(previous_element)
                 )
             except:
-                print('did not update!!')
+                print('%s did not update!!' % message)
                 sleep(randint(100, 200))
