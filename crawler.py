@@ -36,6 +36,7 @@ class Spider(scrapy.Spider):
         li_terms.click()
         sleep(randint(1, 2))
         start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
+        previous_name = None
         for start_letter in start_letters:
             start_letter.click()
             try:
@@ -46,7 +47,8 @@ class Spider(scrapy.Spider):
                 print(start_letter.text)
                 sleep(randint(4, 5))
                 pass
-            sleep(randint(40, 50))
+            self.must_stale(previous_name)
+            sleep(randint(4, 5))
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
                 term.click()
@@ -59,11 +61,14 @@ class Spider(scrapy.Spider):
                     print(term.text)
                     sleep(randint(4, 5))
                     pass
+                self.must_stale(previous_name)
                 sleep(randint(1, 2))
                 data = {'examples': []}
                 try:
-                    data['name'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span').text
+                    previous_name = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
+                    data['name'] = previous_name.text
                 except:
+                    # pyu 的 ' 無資料
                     print('no name: %s' % term.text)
                     continue
                 try:
@@ -87,3 +92,13 @@ class Spider(scrapy.Spider):
                         'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
                     })
                 yield data
+
+    def must_stale(self, previous_name):
+        if previous_name is not None:
+            try:
+                element = WebDriverWait(self.driver, 100).until(
+                    EC.staleness_of(previous_name)
+                )
+            except:
+                print('did not update!!')
+                sleep(randint(100, 200))
