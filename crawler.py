@@ -67,9 +67,10 @@ class Spider(scrapy.Spider):
                 try:
                     previous_name = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
                     data['name'] = previous_name.text
-                except:
+                except Exception as err:
                     # pyu 的 ' 無資料
                     print('no name: %s' % term.text)
+                    print(err)
                     continue
                 try:
                     data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
