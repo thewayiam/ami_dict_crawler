@@ -102,9 +102,8 @@ class Spider(scrapy.Spider):
     def must_stale(self, previous_element, message):
         if previous_element is not None:
             try:
-                element = WebDriverWait(self.driver, 100).until(
+                element = WebDriverWait(self.driver, 3600).until(
                     EC.staleness_of(previous_element)
                 )
             except:
                 print('%s did not update!!' % message)
-                sleep(randint(100, 200))
