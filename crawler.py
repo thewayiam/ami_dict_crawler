@@ -2,6 +2,7 @@
 from time import sleep
 from random import randint
 import re
+from selenium.common.exceptions import TimeoutException
 try:
     from urlparse import urljoin
 except:
@@ -30,43 +31,59 @@ class Spider(scrapy.Spider):
             "http://e-dictionary.apc.gov.tw/%s/Search.htm" % lang
         ]
 
-    def parse(self, response):
-        self.driver.get(response.url)
+    def click_to_word_list(self):
         li_terms = self.driver.find_element_by_xpath('//li[@id="li_terms"]/a')
         li_terms.click()
-        sleep(randint(1, 2))
-        start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
-        previous_terms = None
-        previous_name_element = None
-        for start_letter in start_letters:
-            start_letter.click()
-            try:
-                element = WebDriverWait(self.driver, 100).until(
-                    EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
-                )
-            except:
-                print(start_letter.text)
-                sleep(randint(4, 5))
-                pass
-            self.must_stale(previous_terms, start_letter.text)
-#             self.must_stale(previous_name_element, start_letter.text)
+        try:
+            WebDriverWait(self.driver, 100).until(
+                EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
+            )
+        except:
+            print('oGHC_Term_Area no found!!')
             sleep(randint(4, 5))
+
+    def parse(self, response):
+        self.driver.get(response.url)
+        self.click_to_word_list()
+        start_letters = self.driver.find_elements_by_xpath(
+            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
+        for i, _start_letter in enumerate(start_letters):
+            meta = {
+                'cookiejar': "%s_%d" % ('ami', i),
+                'start_letter': i
+            }
+            yield scrapy.Request(response.url, meta=meta, dont_filter=True, callback=self.parse_list)
+
+    def parse_list(self, response):
+        self.driver.get(response.url)
+        self.click_to_word_list()
+
+        previous_terms = None
+        start_letters = self.driver.find_elements_by_xpath(
+            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
+        for i, start_letter in enumerate(start_letters):
+            if i != response.meta['start_letter']:
+                continue
+            previous_terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
+            start_letter.click()
+            self.must_stale(previous_terms[0], start_letter.text)
+            
+            previous_name_element = None
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
                 term.click()
                 try:
-                    element = WebDriverWait(self.driver, 100).until(
+                    WebDriverWait(self.driver, 10).until(
                         EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
                     )
                 except:
                     print(start_letter.text)
                     print(term.text)
                     sleep(randint(4, 5))
-                    pass
+                    
                 self.must_stale(
                     previous_name_element, start_letter.text + ' ' + term.text
                 )
-                sleep(randint(1, 2))
                 data = {'examples': []}
                 try:
                     previous_name_element = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
@@ -97,13 +114,13 @@ class Spider(scrapy.Spider):
                         'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
                     })
                 yield data
-            previous_terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
 
     def must_stale(self, previous_element, message):
         if previous_element is not None:
             try:
-                element = WebDriverWait(self.driver, 3600).until(
+                WebDriverWait(self.driver, 20).until(
                     EC.staleness_of(previous_element)
                 )
-            except:
+            except TimeoutException:
                 print('%s did not update!!' % message)
+        sleep(randint(1, 2))
