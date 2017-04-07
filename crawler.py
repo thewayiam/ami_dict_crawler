@@ -46,32 +46,45 @@ class Spider(scrapy.Spider):
         self.driver.get(response.url)
         self.click_to_word_list()
         start_letters = self.driver.find_elements_by_xpath(
-            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
+            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option'
+        )
+        url_list = []
         for i, _start_letter in enumerate(start_letters):
-            meta = {
-                'cookiejar': "%s_%d" % ('ami', i),
-                'start_letter': i
-            }
-            yield scrapy.Request(response.url, meta=meta, dont_filter=True, callback=self.parse_list)
+            url_list.append((response.url, i))
+        for response_url, index in url_list:
+            yield from self.parse_list(response_url, index)
 
-    def parse_list(self, response):
-        self.driver.get(response.url)
+    def parse_list(self, response_url, index):
+        print('%d index' % index)
+        self.driver.get(response_url)
         self.click_to_word_list()
 
         previous_terms = None
         start_letters = self.driver.find_elements_by_xpath(
             '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
         for i, start_letter in enumerate(start_letters):
-            if i != response.meta['start_letter']:
+            if i != index:
                 continue
-            previous_terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
+            previous_terms = self.driver.find_elements_by_xpath(
+                '//a[@class="w_term"]')
             start_letter.click()
-            self.must_stale(previous_terms[0], start_letter.text)
+            try:
+                self.must_stale(previous_terms[0], start_letter.text)
+            except IndexError:
+                sleep(randint(4, 5))
             
             previous_name_element = None
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
             for term in terms:
-                term.click()
+                try:
+                    print('%s ready' % start_letter.text)
+                    term.click()
+                except:
+                    print('%s failed' % term.text)
+                    raise RuntimeError('%s failed' % term.text)
+                else:
+                    print('%s ok' % term.text)
+                    
                 try:
                     WebDriverWait(self.driver, 10).until(
                         EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
@@ -94,7 +107,7 @@ class Spider(scrapy.Spider):
                     print(err)
                     continue
                 try:
-                    data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
+                    data['pronounce'] = urljoin(response_url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
                 except:
                     data['pronounce'] = None
                 data['frequency'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Freq"]').text
@@ -104,7 +117,7 @@ class Spider(scrapy.Spider):
                     data['source'] = None
                 descriptions = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[1]')]
                 sentences = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
-                pronounces = [urljoin(response.url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
+                pronounces = [urljoin(response_url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
                 zh_Hants = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
                 for i in range(len(descriptions)):
                     data['examples'].append({
@@ -123,4 +136,4 @@ class Spider(scrapy.Spider):
                 )
             except TimeoutException:
                 print('%s did not update!!' % message)
-        sleep(randint(1, 2))
+        sleep(randint(4, 5))
