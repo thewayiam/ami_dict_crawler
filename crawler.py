@@ -62,7 +62,7 @@ class Spider(scrapy.Spider):
                 else:
                     break
 
-    def parse_list(self, response_url, index,index_in_wordlist):
+    def parse_list(self, response_url, index, index_in_wordlist):
         print('%d index' % index)
         self.driver.get(response_url)
         self.click_to_word_list()
@@ -75,70 +75,20 @@ class Spider(scrapy.Spider):
                 continue
             previous_terms = self.driver.find_elements_by_xpath(
                 '//a[@class="w_term"]'
-                )
+            )
             start_letter.click()
             try:
                 self.must_stale(previous_terms[0], start_letter.text)
             except IndexError:
                 sleep(randint(4, 5))
-            
+
             previous_name_element = None
             terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
-            for j,term in terms:
+            for j, term in enumerate(terms):
+                if j < index_in_wordlist:
+                        continue
                 try:
-                    if j<index_in_wordlist:
-                        continue
-                    try:
-                        print('%s ready' % start_letter.text)
-                        term.click()
-                    except:
-                        print('%s failed' % term.text)
-                        raise RuntimeError('%s failed' % term.text)
-                    else:
-                        print('%s ok' % term.text)
-                        
-                    try:
-                        WebDriverWait(self.driver, 10).until(
-                            EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
-                        )
-                    except:
-                        print(start_letter.text)
-                        print(term.text)
-                        sleep(randint(4, 5))
-                        
-                    self.must_stale(
-                        previous_name_element, start_letter.text + ' ' + term.text
-                    )
-                    data = {'examples': []}
-                    try:
-                        previous_name_element = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
-                        data['name'] = previous_name_element.text
-                    except Exception as err:
-                        # pyu 的 ' 無資料
-                        print('no name: %s' % term.text)
-                        print(err)
-                        continue
-                    try:
-                        data['pronounce'] = urljoin(response_url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
-                    except:
-                        data['pronounce'] = None
-                    data['frequency'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Freq"]').text
-                    try:
-                        data['source'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Source"]/a[@class="ws_term"]').text
-                    except:
-                        data['source'] = None
-                    descriptions = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[1]')]
-                    sentences = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
-                    pronounces = [urljoin(response_url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
-                    zh_Hants = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
-                    for i in range(len(descriptions)):
-                        data['examples'].append({
-                            'description': descriptions[i],
-                            'sentence': sentences[i] if len(sentences) > i else None,
-                            'pronounce': pronounces[i] if len(pronounces) > i else None,
-                            'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
-                        })
-                    yield data
+                    yield self.get_data(response_url, start_letter, term, previous_name_element)
                 except:
                     err = RuntimeError()
                     err.index_in_wordlist = j
@@ -153,3 +103,67 @@ class Spider(scrapy.Spider):
             except TimeoutException:
                 print('%s did not update!!' % message)
         sleep(randint(4, 5))
+
+    def get_data(self, response_url, start_letter, term, previous_name_element):
+        try:
+            print('%s ready' % start_letter.text)
+            term.click()
+        except:
+            print('%s failed' % term.text)
+            raise RuntimeError('%s failed' % term.text)
+        else:
+            print('%s ok' % term.text)
+
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located(
+                    (By.XPATH, '//span[text()="%s"]' % term.text)
+                )
+            )
+        except:
+            print(start_letter.text)
+            print(term.text)
+            sleep(randint(4, 5))
+
+        self.must_stale(
+            previous_name_element, start_letter.text + ' ' + term.text
+        )
+        data = {'examples': []}
+#         try:
+        previous_name_element = self.driver.find_element_by_xpath(
+            '//div[@id="oGHC_Term"]/span'
+        )
+        data['name'] = previous_name_element.text
+#         except Exception as err:
+#             # pyu 的 ' 無資料
+#             print('no name: %s' % term.text)
+#             print(err)
+#             continue
+        try:
+            data['pronounce'] = urljoin(response_url, self.driver.find_element_by_xpath(
+                '//div[@id="oGHC_Term"]/a').get_attribute('rel'))
+        except:
+            data['pronounce'] = None
+        data['frequency'] = self.driver.find_element_by_xpath(
+            '//div[@id="oGHC_Freq"]').text
+        try:
+            data['source'] = self.driver.find_element_by_xpath(
+                '//div[@id="oGHC_Source"]/a[@class="ws_term"]').text
+        except:
+            data['source'] = None
+        descriptions = [x.text for x in self.driver.find_elements_by_xpath(
+            '//div[@class="block"]/div[1]')]
+        sentences = [x.text for x in self.driver.find_elements_by_xpath(
+            '//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
+        pronounces = [urljoin(response_url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath(
+            '//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
+        zh_Hants = [x.text for x in self.driver.find_elements_by_xpath(
+            '//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
+        for i in range(len(descriptions)):
+            data['examples'].append({
+                'description': descriptions[i],
+                'sentence': sentences[i] if len(sentences) > i else None,
+                'pronounce': pronounces[i] if len(pronounces) > i else None,
+                'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
+            })
+        return data
