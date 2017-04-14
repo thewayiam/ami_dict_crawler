@@ -57,8 +57,12 @@ class Spider(scrapy.Spider):
                 try:
                     yield from self.parse_list(response_url, index, index_in_wordlist)
                 except RuntimeError as err:
+                    print(err)
                     index_in_wordlist = err.index_in_wordlist
                     sleep(randint(10, 20))
+                except Exception as err:
+                    print(err)
+                    sleep(randint(100, 200))
                 else:
                     break
 
