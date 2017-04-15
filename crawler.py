@@ -68,6 +68,7 @@ class Spider(scrapy.Spider):
 
     def parse_list(self, response_url, index, index_in_wordlist):
         print('%d index' % index)
+        self.driver.refresh()
         self.driver.get(response_url)
         self.click_to_word_list()
 
