@@ -59,15 +59,13 @@ class Spider(scrapy.Spider):
                 except RuntimeError as err:
                     print(err)
                     index_in_wordlist = err.index_in_wordlist
-                    sleep(randint(10, 20))
-                except Exception as err:
-                    print(err)
                     sleep(randint(100, 200))
                 else:
                     break
 
     def parse_list(self, response_url, index, index_in_wordlist):
         print('%d index' % index)
+        self.driver.delete_all_cookies()
         self.driver.refresh()
         self.driver.get(response_url)
         self.click_to_word_list()
