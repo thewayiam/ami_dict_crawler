@@ -10,158 +10,91 @@ except:
 import scrapy
 from scrapy.selector import Selector
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from pyvirtualdisplay import Display
-
 
 class Spider(scrapy.Spider):
     name = "ami"
     allowed_domains = ["e-dictionary.apc.gov.tw"]
     download_delay = 0
+    辭典網址 = 'http://e-dictionary.apc.gov.tw/{}/Search.htm'
+    目錄網址 = 'http://e-dictionary.apc.gov.tw/{}/TermsMenu.htm'
+    詞條網址 = 'http://e-dictionary.apc.gov.tw/{}/Term.htm'
 
     def __init__(self, lang='ami', ad=None, *args, **kwargs):
         super(Spider, self).__init__(*args, **kwargs)
-        self.display = Display(visible=0, size=(800, 600))
-        self.display.start()
-        self.driver = webdriver.Chrome("/var/chromedriver/chromedriver")
-        self.start_urls = [
-            "http://e-dictionary.apc.gov.tw/%s/Search.htm" % lang
-        ]
-
-    def click_to_word_list(self):
-        li_terms = self.driver.find_element_by_xpath('//li[@id="li_terms"]/a')
-        li_terms.click()
-        try:
-            WebDriverWait(self.driver, 100).until(
-                EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
-            )
-        except:
-            print('oGHC_Term_Area no found!!')
-            sleep(randint(4, 5))
+        self.start_urls = [self.辭典網址.format(lang)]
+        self.lang = lang
 
     def parse(self, response):
-        self.driver.get(response.url)
-        self.click_to_word_list()
-        start_letters = self.driver.find_elements_by_xpath(
+        for 目錄選項 in Selector(response).xpath(
             '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option'
-        )
-        url_list = []
-        for i, _start_letter in enumerate(start_letters):
-            url_list.append((response.url, i))
-        for response_url, index in url_list:
-            index_in_wordlist = 0
-            while True:
-                try:
-                    yield from self.parse_list(response_url, index, index_in_wordlist)
-                except RuntimeError as err:
-                    print(err)
-                    index_in_wordlist = err.index_in_wordlist
-                    sleep(randint(100, 200))
-                else:
-                    break
-
-    def parse_list(self, response_url, index, index_in_wordlist):
-        print('%d index' % index)
-        self.driver.delete_all_cookies()
-        self.driver.refresh()
-        self.driver.get(response_url)
-        self.click_to_word_list()
-
-        previous_terms = None
-        start_letters = self.driver.find_elements_by_xpath(
-            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
-        for i, start_letter in enumerate(start_letters):
-            if i != index:
-                continue
-            previous_terms = self.driver.find_elements_by_xpath(
-                '//a[@class="w_term"]'
+        ):
+            字首 = 目錄選項.xpath('text()').extract_first()
+            編號 = 目錄選項.xpath('@value').extract_first()
+            meta = {
+                #                 'cookiejar': "%s_%d" % (self.lang, i),
+                '字首': 字首,
+                '目錄編號': 編號,
+            }
+            yield scrapy.FormRequest(
+                self.目錄網址.format(self.lang, 編號),
+                method='POST',
+                formdata={'tsid': 編號},
+                meta=meta, dont_filter=True,
+                callback=self.掠目錄,
             )
-            start_letter.click()
-            try:
-                self.must_stale(previous_terms[0], start_letter.text)
-            except IndexError:
-                sleep(randint(4, 5))
+            break
 
-            previous_name_element = None
-            terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
-            for j, term in enumerate(terms):
-                if j < index_in_wordlist:
-                        continue
-                try:
-                    yield self.get_data(response_url, start_letter, term, previous_name_element)
-                except:
-                    err = RuntimeError()
-                    err.index_in_wordlist = j
-                    raise err
-
-    def must_stale(self, previous_element, message):
-        if previous_element is not None:
-            try:
-                WebDriverWait(self.driver, 20).until(
-                    EC.staleness_of(previous_element)
-                )
-            except TimeoutException:
-                print('%s did not update!!' % message)
-        sleep(randint(4, 5))
-
-    def get_data(self, response_url, start_letter, term, previous_name_element):
-        try:
-            print('%s ready' % start_letter.text)
-            term.click()
-        except:
-            print('%s failed' % term.text)
-            raise RuntimeError('%s failed' % term.text)
-        else:
-            print('%s ok' % term.text)
-
-        try:
-            WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located(
-                    (By.XPATH, '//span[text()="%s"]' % term.text)
-                )
+    def 掠目錄(self, response):
+        for 詞條選項 in Selector(response).xpath('//a[@class="w_term"]'):
+            self.logger.info('sui2ss')
+            詞條編號 = 詞條選項.xpath('@rel').extract_first()
+            詞條名 = 詞條選項.xpath('text()').extract_first()
+            meta = {
+                #                 'cookiejar': "%s_%d" % (self.lang, i),
+                '詞條名': 詞條名,
+            }
+            yield scrapy.FormRequest(
+                self.詞條網址.format(self.lang, 詞條編號),
+                method='POST',
+                formdata={'did': 詞條編號, 'fun': ''},
+                meta=meta, dont_filter=True,
+                callback=self.掠詞條,
             )
-        except:
-            print(start_letter.text)
-            print(term.text)
-            sleep(randint(4, 5))
+            break
 
-        self.must_stale(
-            previous_name_element, start_letter.text + ' ' + term.text
-        )
+    def 掠詞條(self, response):
+        這詞條 = Selector(response)
         data = {'examples': []}
-#         try:
-        previous_name_element = self.driver.find_element_by_xpath(
-            '//div[@id="oGHC_Term"]/span'
-        )
-        data['name'] = previous_name_element.text
-#         except Exception as err:
-#             # pyu 的 ' 無資料
-#             print('no name: %s' % term.text)
-#             print(err)
-#             continue
+        data['name'] = 這詞條.xpath(
+            '//div[@id="oGHC_Term"]/span/text()'
+        ).extract_first()
         try:
-            data['pronounce'] = urljoin(response_url, self.driver.find_element_by_xpath(
-                '//div[@id="oGHC_Term"]/a').get_attribute('rel'))
+            data['pronounce'] = urljoin(
+                response.url,
+                這詞條.xpath('//div[@id="oGHC_Term"]/a/@rel').extract_first()
+            )
         except:
             data['pronounce'] = None
-        data['frequency'] = self.driver.find_element_by_xpath(
-            '//div[@id="oGHC_Freq"]').text
+        data['frequency'] = ''.join(
+            這詞條.xpath('//div[@id="oGHC_Freq"]/descendant::text()').extract()
+        )
+
         try:
-            data['source'] = self.driver.find_element_by_xpath(
-                '//div[@id="oGHC_Source"]/a[@class="ws_term"]').text
+            data['source'] = (
+                這詞條
+                .xpath('//div[@id="oGHC_Source"]/a[@class="ws_term"]/text()').
+                extract_first()
+            )
         except:
             data['source'] = None
-        descriptions = [x.text for x in self.driver.find_elements_by_xpath(
-            '//div[@class="block"]/div[1]')]
-        sentences = [x.text for x in self.driver.find_elements_by_xpath(
-            '//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
-        pronounces = [urljoin(response_url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath(
-            '//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
-        zh_Hants = [x.text for x in self.driver.find_elements_by_xpath(
-            '//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
+        descriptions = [''.join(x.xpath('descendant::text()').extract())
+                        for x in 這詞條.xpath('//div[@class="block"]/div[1]')]
+        sentences = [''.join(x.xpath('descendant::text()').extract()).strip()
+                     for x in 這詞條.xpath('//div[@class="block"]/div[2]/table/tr[1]/td')]
+        pronounces = [urljoin(response.url, x.extract()) for x in 這詞條.xpath(
+            '//div[@class="block"]/div[2]/table/tr[1]/td/a[@class="play"]/@rel')]
+        zh_Hants = [''.join(x.xpath('text()').extract()) for x in 這詞條.xpath(
+            '//div[@class="block"]/div[2]/table/tr[2]/td')]
         for i in range(len(descriptions)):
             data['examples'].append({
                 'description': descriptions[i],
