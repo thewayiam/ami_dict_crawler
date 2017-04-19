@@ -45,8 +45,8 @@ class Spider(scrapy.Spider):
             break
 
     def 掠目錄(self, response):
+        self.logger.debug('掠 {} 的目錄'.format(response.meta['字首']))
         for 詞條選項 in Selector(response).xpath('//a[@class="w_term"]'):
-            self.logger.info('sui2ss')
             詞條編號 = 詞條選項.xpath('@rel').extract_first()
             詞條名 = 詞條選項.xpath('text()').extract_first()
             meta = {
@@ -63,6 +63,7 @@ class Spider(scrapy.Spider):
             break
 
     def 掠詞條(self, response):
+        self.logger.debug('掠 {} 詞條'.format(response.meta['詞條名']))
         這詞條 = Selector(response)
         data = {'examples': []}
         data['name'] = 這詞條.xpath(
