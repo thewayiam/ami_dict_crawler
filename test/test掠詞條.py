@@ -7,9 +7,6 @@ import scrapy
 
 class 掠網頁試驗(TestCase):
 
-    #     def test_系統維護中(self):
-    #         self.系統維護中回應
-    #         self.fail()
     def setUp(self):
         self.要求 = scrapy.http.Request(
             'http://e-dictionary.apc.gov.tw/ais/Term.htm',
@@ -102,6 +99,15 @@ class 掠網頁試驗(TestCase):
         )
         結果 = Spider().掠詞條(rr)
         self.assertEqual(結果['pronounce'], None)
+
+    def test_系統維護中(self):
+        rr = scrapy.http.TextResponse(
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.系統維護中回應.encode(),
+            encoding='utf-8',
+            request=self.要求,
+        )
+        self.assertIsNone(Spider().掠詞條(rr))
 
     系統維護中回應 = '<div align=center>系統維護中，請稍候再試!</div>'
     正常回應 = '''
