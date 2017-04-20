@@ -42,7 +42,6 @@ class Spider(scrapy.Spider):
                 meta=meta, dont_filter=True,
                 callback=self.掠目錄,
             )
-            break
 
     def 掠目錄(self, response):
         self.logger.debug('掠 {} 的目錄'.format(response.meta['字首']))
@@ -60,7 +59,6 @@ class Spider(scrapy.Spider):
                 meta=meta, dont_filter=True,
                 callback=self.掠詞條,
             )
-            break
 
     def 掠詞條(self, response):
         self.logger.debug('掠 {} 詞條'.format(response.meta['詞條名']))
