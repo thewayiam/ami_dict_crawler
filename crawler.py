@@ -71,6 +71,9 @@ class Spider(scrapy.Spider):
         data['name'] = 這詞條.xpath(
             '//div[@id="oGHC_Term"]/span/text()'
         ).extract_first()
+        if data['name'] is None:
+            self.logger.warning('{} 詞條無資料'.format(response.meta['詞條名']))
+            return
         try:
             data['pronounce'] = urljoin(
                 response.url,
