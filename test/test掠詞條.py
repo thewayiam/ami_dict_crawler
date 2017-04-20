@@ -10,10 +10,19 @@ class 掠網頁試驗(TestCase):
     #     def test_系統維護中(self):
     #         self.系統維護中回應
     #         self.fail()
+    def setUp(self):
+        self.要求 = scrapy.http.Request(
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            meta={'詞條名': '詞條名'},
+        )
 
     def test_正常詞條(self):
         rr = scrapy.http.TextResponse(
-            'http://e-dictionary.apc.gov.tw/ais/Term.htm', body=self.正常回應.encode(), encoding='utf-8')
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.正常回應.encode(),
+            encoding='utf-8',
+            request=self.要求,
+        )
         結果 = Spider().掠詞條(rr)
         self.assertIn('examples', 結果)
         self.assertEqual(結果['name'], "a:su'")
@@ -24,7 +33,11 @@ class 掠網頁試驗(TestCase):
 
     def test_有例句詞條(self):
         rr = scrapy.http.TextResponse(
-            'http://e-dictionary.apc.gov.tw/ais/Term.htm', body=self.例句回應.encode(), encoding='utf-8')
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.例句回應.encode(),
+            encoding='utf-8',
+            request=self.要求,
+        )
         結果 = Spider().掠詞條(rr)
         答案 = {
             "source": "ahowid",
@@ -45,7 +58,10 @@ class 掠網頁試驗(TestCase):
 
     def test_兩句例句(self):
         rr = scrapy.http.TextResponse(
-            'http://e-dictionary.apc.gov.tw/ais/Term.htm', body=self.無source有兩句.encode(), encoding='utf-8'
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.無source有兩句.encode(),
+            encoding='utf-8',
+            request=self.要求,
         )
         結果 = Spider().掠詞條(rr)
         答案 = [
@@ -69,10 +85,23 @@ class 掠網頁試驗(TestCase):
 
     def test_無source(self):
         rr = scrapy.http.TextResponse(
-            'http://e-dictionary.apc.gov.tw/ais/Term.htm', body=self.無source有兩句.encode(), encoding='utf-8'
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.無source有兩句.encode(),
+            encoding='utf-8',
+            request=self.要求,
         )
         結果 = Spider().掠詞條(rr)
         self.assertEqual(結果['source'], None)
+
+    def test_無發音回應(self):
+        rr = scrapy.http.TextResponse(
+            'http://e-dictionary.apc.gov.tw/ais/Term.htm',
+            body=self.無發音回應.encode(),
+            encoding='utf-8',
+            request=self.要求,
+        )
+        結果 = Spider().掠詞條(rr)
+        self.assertEqual(結果['pronounce'], None)
 
     系統維護中回應 = '<div align=center>系統維護中，請稍候再試!</div>'
     正常回應 = '''
@@ -200,4 +229,47 @@ class 掠網頁試驗(TestCase):
 <div id="oGHC_TermsTree" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254485" title="1.堆集晒過的穀子,2.集中；集合,3.會議">'opo</a>　<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="259491" title="1.聚集的">masa'opoay</a>　<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259492" title="1.集合的">misa'opoay</a>　<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259493" title="1.集合起來">pasa'opoen</a>　<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259494" title="1.去聚集">pisa'opo</a>　<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259495" title="1.會議,2.聚集；集合">sa'opo</a>　<ul></li></ul></li></ul></div>
 <div id="oGHC_TermsTreeDE" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254485">'opo</a>　1.堆集晒過的穀子,2.集中；集合,3.會議<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="259491">masa'opoay</a>　1.聚集的<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259492">misa'opoay</a>　1.集合的<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259493">pasa'opoen</a>　1.集合起來<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259494">pisa'opo</a>　1.去聚集<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259495">sa'opo</a>　1.會議,2.聚集；集合<ul></li></ul></li></ul></div>
 <div id="oGHC_TermsTreeSer" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254485">'opo</a>　1.堆集晒過的穀子,2.集中；集合,3.會議<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="259491">masa'opoay</a>　1.聚集的<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259492">misa'opoay</a>　1.集合的<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259493">pasa'opoen</a>　1.集合起來<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259494">pisa'opo</a>　1.去聚集<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="259495">sa'opo</a>　1.會議,2.聚集；集合<ul></li></ul></li></ul></div>
+'''
+    無發音回應 = '''
+    
+
+<div id="oGHC_Deatail">
+    <div id="oGHC_FB"></div>
+    <div id="oGHC_Term_Area" class="words">
+        
+        <div id="oGHC_Term" class="term"><span>dopohen</span></div>
+        
+        <div id="oGHC_Freq" class="freq">詞頻：<span class="term_freq">★</span>(0)</div>
+        <div id="oGHC_Source" class="source">來源：<a href="javascript:void(0)" class="ws_term" rel="254870">dopoh</a>　/　<a href="javascript:void(0)" class="troot" rel="dopohen">詞根結構▼</a></div>
+    </div>
+    <hr class="spline" />
+    <div class="e_con">
+        
+        <div class="concon">
+            
+            <div class="block"><div><strong>解釋1</strong>：孜孜不倦；勤奮</div><div class="word_detail"><table class="tb06"><tr class="st"><td>”Dopohen a <a href="javascript:void(0)" title="1.工作；上班" rel="260336" class="dsl_term">matayal</a>! ” saan <a href="javascript:void(0)" title="1.格位標記（主格）" rel="255421" class="dsl_term">ko</a> tawki. </td></tr><tr><td>老闆說：「工作要勤奮！」</td></tr></table></div></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <div id="oGHC_Opinion" class="op257456"></div>
+        </div>
+        
+        <div class="history">
+            
+            <div id="oGHC_Image" class="pic"></div>
+            <div id="oGHC_History" class="hislist"><table class="tbhis"><th>瀏覽歷程</th><tr><td><a href="javascript:void(0)" rel="254787" class="his_term">da'at</td></tr><tr><td><a href="javascript:void(0)" rel="256440" class="his_term">aahowiden</td></tr><tr><td><a href="javascript:void(0)" rel="254271" class="his_term">'a'am</td></tr><tr><td><a href="javascript:void(0)" rel="254485" class="his_term">'opo</td></tr><tr><td><a href="javascript:void(0)" rel="259489" class="his_term">'opiren</td></tr><tr><td><a href="javascript:void(0)" rel="255776" class="his_term">ocong</td></tr><tr><td><a href="javascript:void(0)" rel="254511" class="his_term">ahowid</td></tr><tr><td><a href="javascript:void(0)" rel="254552" class="his_term">ca</td></tr><tr><td><a href="javascript:void(0)" rel="254622" class="his_term">carekah</td></tr><tr><td><a href="javascript:void(0)" rel="254620" class="his_term">cara</td></tr></table></div>
+        </div>
+        
+    </div>
+</div>
+<div id="oGHC_PopWin" class="pop_up"></div>
+<div id="oGHC_TermsTree" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254870" title="1.殷勤工作；勤奮">dopoh</a>　<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="257456" title="1.孜孜不倦；勤奮">dopohen</a>　<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="257457" title="1.孜孜不倦；勤奮">madopoh</a>　<ul></li></ul></li></ul></div>
+<div id="oGHC_TermsTreeDE" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254870">dopoh</a>　1.殷勤工作；勤奮<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="257456">dopohen</a>　1.孜孜不倦；勤奮<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="257457">madopoh</a>　1.孜孜不倦；勤奮<ul></li></ul></li></ul></div>
+<div id="oGHC_TermsTreeSer" class="terms_tree"><ul id="tree"><li><a href="javascript:void(0)" class="tree_term" rel="254870">dopoh</a>　1.殷勤工作；勤奮<ul><li>　<a href="javascript:void(0)" class="tree_term" rel="257456">dopohen</a>　1.孜孜不倦；勤奮<ul></li><li>　<a href="javascript:void(0)" class="tree_term" rel="257457">madopoh</a>　1.孜孜不倦；勤奮<ul></li></ul></li></ul></div>
 '''

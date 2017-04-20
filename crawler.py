@@ -74,12 +74,10 @@ class Spider(scrapy.Spider):
         if data['name'] is None:
             self.logger.warning('{} 詞條無資料'.format(response.meta['詞條名']))
             return
-        try:
-            data['pronounce'] = urljoin(
-                response.url,
-                這詞條.xpath('//div[@id="oGHC_Term"]/a/@rel').extract_first()
-            )
-        except:
+        詞條音檔路徑 = 這詞條.xpath('//div[@id="oGHC_Term"]/a/@rel').extract_first()
+        if 詞條音檔路徑:
+            data['pronounce'] = urljoin(response.url, 詞條音檔路徑)
+        else:
             data['pronounce'] = None
         data['frequency'] = ''.join(
             這詞條.xpath('//div[@id="oGHC_Freq"]/descendant::text()').extract()
