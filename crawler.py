@@ -19,6 +19,10 @@ class Spider(scrapy.Spider):
     目錄網址 = 'http://e-dictionary.apc.gov.tw/{}/TermsMenu.htm'
     詞條網址 = 'http://e-dictionary.apc.gov.tw/{}/Term.htm'
 
+    custom_settings = {
+        'FEED_EXPORT_ENCODING': 'utf-8',
+    }
+
     def __init__(self, lang='ami', ad=None, *args, **kwargs):
         super(Spider, self).__init__(*args, **kwargs)
         self.start_urls = [self.辭典網址.format(lang)]

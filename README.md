@@ -22,13 +22,13 @@ pip install scrapy selenium pyvirtualdisplay
 ```
 爬阿美語
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/ami.json 
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/ami.json 
 ```
 
 ### 其他族語
 請將`{代號}`換成需要的族語，預設為`阿美語`
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/{代號}.json -a lang={代號}
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/{代號}.json -a lang={代號}
 ```
 #### 代號別
 ```
@@ -51,65 +51,65 @@ scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t j
 ```
 #### 阿美語 ami
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/ami.json -a lang=ami
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/ami.json -a lang=ami
 ```
 #### 泰雅語 tay
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/tay.json -a lang=tay
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/tay.json -a lang=tay
 ```
 #### 排灣語 pwn
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/pwn.json -a lang=pwn
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/pwn.json -a lang=pwn
 ```
 #### 布農語 bnn
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/bnn.json -a lang=bnn
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/bnn.json -a lang=bnn
 ```
 #### 卑南語 pyu
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/pyu.json -a lang=pyu
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/pyu.json -a lang=pyu
 ```
 #### 魯凱語 dru
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/dru.json -a lang=dru
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/dru.json -a lang=dru
 ```
 #### 鄒語 tsu
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/tsu.json -a lang=tsu
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/tsu.json -a lang=tsu
 ```
 #### 賽夏語 xsy
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/xsy.json -a lang=xsy
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/xsy.json -a lang=xsy
 ```
 #### 雅美語 tao
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/tao.json -a lang=tao
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/tao.json -a lang=tao
 ```
 #### 邵語 ssf
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/ssf.json -a lang=ssf
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/ssf.json -a lang=ssf
 ```
 #### 噶瑪蘭語 ckv
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/ckv.json -a lang=ckv
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/ckv.json -a lang=ckv
 ```
 #### 太魯閣語 trv
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/trv.json -a lang=trv
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/trv.json -a lang=trv
 ```
 #### 撒奇萊雅語 ais
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/ais.json -a lang=ais
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/ais.json -a lang=ais
 ```
 #### 賽德克語 sdq
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/sdq.json -a lang=sdq
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/sdq.json -a lang=sdq
 ```
 #### 拉阿魯哇語 sxr
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/sxr.json -a lang=sxr
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/sxr.json -a lang=sxr
 ```
 #### 卡那卡那富語 xnb
 ```
-scrapy runspider crawler.py -s FEED_EXPORT_ENCODING=utf-8 -s LOG_LEVEL=INFO -t json -o data/xnb.json -a lang=xnb
+scrapy runspider crawler.py -s LOG_LEVEL=INFO -t json -o data/xnb.json -a lang=xnb
 ```
