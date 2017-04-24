@@ -658,20 +658,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：練習；學習",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-ladam",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-ladam2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：習慣",
         "pronounce": null,
         "sentence": null,
@@ -681,6 +667,20 @@
     "frequency": "詞頻：★(0)",
     "name": "-ladam",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-ladam1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：練習；學習",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-ladam",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-ladam2_{1}.mp3",
     "source": null
   },
   {
@@ -1000,20 +1000,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：突擊",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-lribak",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-lribak2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：最先",
         "pronounce": null,
         "sentence": null,
@@ -1023,6 +1009,20 @@
     "frequency": "詞頻：★(0)",
     "name": "-lribak",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-lribak1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：突擊",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-lribak",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-lribak2_{1}.mp3",
     "source": null
   },
   {
@@ -1376,20 +1376,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：常常",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-rayas",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-rayas2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：平平",
         "pronounce": null,
         "sentence": null,
@@ -1399,6 +1385,20 @@
     "frequency": "詞頻：★(0)",
     "name": "-rayas",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-rayas1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：常常",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-rayas",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-rayas2_{1}.mp3",
     "source": null
   },
   {
@@ -1626,6 +1626,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：間隔",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-sede",
+    "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：假日",
         "pronounce": null,
         "sentence": null,
@@ -1647,20 +1661,6 @@
     "frequency": "詞頻：★(0)",
     "name": "-sede",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/-sede_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：間隔",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-sede",
-    "pronounce": null,
     "source": null
   },
   {
@@ -2234,20 +2234,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：語助詞",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a2_{1}_@_1.1.mp3",
-        "sentence": "amelri idrini a!",
-        "zh_Hant": "不是這個啦！"
-      }
-    ],
-    "frequency": "詞頻：★★★★(627)",
-    "name": "a",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：主格標記",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a1_{1}_@_1.1.mp3",
         "sentence": "a muwauma i namalri.",
@@ -2257,6 +2243,20 @@
     "frequency": "詞頻：★★★★(627)",
     "name": "a",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：語助詞",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a2_{1}_@_1.1.mp3",
+        "sentence": "amelri idrini a!",
+        "zh_Hant": "不是這個啦！"
+      }
+    ],
+    "frequency": "詞頻：★★★★(627)",
+    "name": "a",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/a2_{1}.mp3",
     "source": null
   },
   {
@@ -2318,20 +2318,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：要讀(唸)的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan2_{1}_@_1.1.mp3",
-        "sentence": "sadru driya ku aaipan na tilin.",
-        "zh_Hant": "我要唸的書還很多。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "aaipan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan2_{1}.mp3",
-    "source": "aip"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：要數的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan1_{1}_@_1.1.mp3",
         "sentence": "a aaipan nadri na adang?",
@@ -2341,6 +2327,20 @@
     "frequency": "詞頻：★(2)",
     "name": "aaipan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan1_{1}.mp3",
+    "source": "aip"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：要讀(唸)的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan2_{1}_@_1.1.mp3",
+        "sentence": "sadru driya ku aaipan na tilin.",
+        "zh_Hant": "我要唸的書還很多。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "aaipan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aaipan2_{1}.mp3",
     "source": "aip"
   },
   {
@@ -3510,20 +3510,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：唸；讀",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip2_{1}_@_1.1.mp3",
-        "sentence": "makakuda yu kadri? uwa aip dra tilin.",
-        "zh_Hant": "你在這裡做什麼？去唸書。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "aip",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：數數",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip1_{1}_@_1.1.mp3",
         "sentence": "uwa aip kemay dra sa palru dra saleman.",
@@ -3533,6 +3519,20 @@
     "frequency": "詞頻：★(3)",
     "name": "aip",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：唸；讀",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip2_{1}_@_1.1.mp3",
+        "sentence": "makakuda yu kadri? uwa aip dra tilin.",
+        "zh_Hant": "你在這裡做什麼？去唸書。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "aip",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aip2_{1}.mp3",
     "source": null
   },
   {
@@ -3566,6 +3566,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：數(命令)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu1_{1}_@_1.1.mp3",
+        "sentence": "munuma lra na musama? uwa aipu driya!",
+        "zh_Hant": "剩下多少？去數一下！"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "aipu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu1_{1}.mp3",
+    "source": "aip"
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：讀(唸)(命令)",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu2_{1}_@_1.1.mp3",
         "sentence": "aipu tu tigami kan bau na mainayan!",
@@ -3581,20 +3595,6 @@
     "frequency": "詞頻：★(3)",
     "name": "aipu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu2_{1}.mp3",
-    "source": "aip"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：數(命令)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu1_{1}_@_1.1.mp3",
-        "sentence": "munuma lra na musama? uwa aipu driya!",
-        "zh_Hant": "剩下多少？去數一下！"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "aipu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/aipu1_{1}.mp3",
     "source": "aip"
   },
   {
@@ -6579,20 +6579,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：稻穀",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr2_{1}_@_1.1.mp3",
-        "sentence": "ilangu driya na asalr. ta patriyapanan andaman.",
-        "zh_Hant": "把明天我們要舂打的稻穀拿去磨(用穀殼機脫穀)。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "asalr",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：再；又",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr1_{1}_@_1.1.mp3",
         "sentence": "asalr driya tremakaw dra paisu a! maaya yu dra kipuwakepukan.",
@@ -6608,6 +6594,20 @@
     "frequency": "詞頻：★(2)",
     "name": "asalr",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：稻穀",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr2_{1}_@_1.1.mp3",
+        "sentence": "ilangu driya na asalr. ta patriyapanan andaman.",
+        "zh_Hant": "把明天我們要舂打的稻穀拿去磨(用穀殼機脫穀)。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "asalr",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/asalr2_{1}.mp3",
     "source": null
   },
   {
@@ -9331,20 +9331,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：屋簷；走廊",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay2_{1}_@_1.1.mp3",
-        "sentence": "maaudalr. kaita kurebalriya i baybay.",
-        "zh_Hant": "下雨了，我們一起到屋簷下躲雨。"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "baybay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：晾",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay1_{1}_@_1.1.mp3",
         "sentence": "uwa baybay dra kiruwaruwan!",
@@ -9354,6 +9340,20 @@
     "frequency": "詞頻：★(10)",
     "name": "baybay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：屋簷；走廊",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay2_{1}_@_1.1.mp3",
+        "sentence": "maaudalr. kaita kurebalriya i baybay.",
+        "zh_Hant": "下雨了，我們一起到屋簷下躲雨。"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "baybay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/baybay2_{1}.mp3",
     "source": null
   },
   {
@@ -14903,6 +14903,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：鍋巴",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr1_{1}_@_1.1.mp3",
+        "sentence": "sagar ku mekan dra drelretr.",
+        "zh_Hant": "我喜歡吃鍋巴。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "drelretr",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：燙貼",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr2_{1}_@_1.1.mp3",
         "sentence": "uwa drelretr dra tikuy dra betriil lra!",
@@ -14918,20 +14932,6 @@
     "frequency": "詞頻：★(3)",
     "name": "drelretr",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：鍋巴",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr1_{1}_@_1.1.mp3",
-        "sentence": "sagar ku mekan dra drelretr.",
-        "zh_Hant": "我喜歡吃鍋巴。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "drelretr",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/drelretr1_{1}.mp3",
     "source": null
   },
   {
@@ -19243,6 +19243,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：主格",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 1_{1}_@_1.1.mp3",
+        "sentence": "maraasatr kanku i Singan.",
+        "zh_Hant": "Singan(男)長得比我高。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(1648)",
+    "name": "i ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：處所格",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 2_{1}_@_1.1.mp3",
         "sentence": "auka ku i Dripung mudradrangiya anmareami.",
@@ -19266,20 +19280,6 @@
     "frequency": "詞頻：★★★★(1648)",
     "name": "i ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：主格",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 1_{1}_@_1.1.mp3",
-        "sentence": "maraasatr kanku i Singan.",
-        "zh_Hant": "Singan(男)長得比我高。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(1648)",
-    "name": "i ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/i 1_{1}.mp3",
     "source": null
   },
   {
@@ -21249,20 +21249,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：痠麻",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay2_{1}_@_1.1.mp3",
-        "sentence": "paetreng ku pareadrar matengadraw i, tu iyaburengay ku dapalr.",
-        "zh_Hant": "我翹著腳坐很久時，我的腳就痠麻了。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "iyaburengay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：長螞蟻",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay1_{1}_@_1.1.mp3",
         "sentence": "ku abakay dra walru ku aliyutr i, tu iyaburengay.",
@@ -21273,6 +21259,20 @@
     "name": "iyaburengay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay1_{1}.mp3",
     "source": "iyabureng"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：痠麻",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay2_{1}_@_1.1.mp3",
+        "sentence": "paetreng ku pareadrar matengadraw i, tu iyaburengay ku dapalr.",
+        "zh_Hant": "我翹著腳坐很久時，我的腳就痠麻了。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "iyaburengay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/iyaburengay2_{1}.mp3",
+    "source": null
   },
   {
     "examples": [
@@ -34475,20 +34475,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：要反擊的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan2_{1}_@_1.1.mp3",
-        "sentence": "an tu kainabayaw ta dra trau i, amanay driya ta lalibunan!",
-        "zh_Hant": "別人對我們好，我們還有什麼要反擊的呢！"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "lalibunan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan2_{1}.mp3",
-    "source": "-libun"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：賺錢的地方",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan1_{1}_@_1.1.mp3",
         "sentence": "ulraya isuwa a lalibunan?",
@@ -34499,6 +34485,20 @@
     "name": "lalibunan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan1_{1}.mp3",
     "source": "libun"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：要反擊的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan2_{1}_@_1.1.mp3",
+        "sentence": "an tu kainabayaw ta dra trau i, amanay driya ta lalibunan!",
+        "zh_Hant": "別人對我們好，我們還有什麼要反擊的呢！"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "lalibunan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/lalibunan2_{1}.mp3",
+    "source": "-libun"
   },
   {
     "examples": [
@@ -34991,20 +34991,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：膽小",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak2_{1}_@_1.1.mp3",
-        "sentence": "idri latak i, kaababetes yu dranu malatakan i!",
-        "zh_Hant": "你這個膽小鬼，你會被自己的膽小打敗呢！（字面意：你這個膽小鬼，你會因自己的膽小而休克呢！）"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "latak",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：楊桃",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak1_{1}_@_1.1.mp3",
         "sentence": "tu sinalem na latak kan namalri kadri bakabak i, salaw dalreu tu buwa!",
@@ -35026,6 +35012,20 @@
     "frequency": "詞頻：★(4)",
     "name": "latak",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：膽小",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak2_{1}_@_1.1.mp3",
+        "sentence": "idri latak i, kaababetes yu dranu malatakan i!",
+        "zh_Hant": "你這個膽小鬼，你會被自己的膽小打敗呢！（字面意：你這個膽小鬼，你會因自己的膽小而休克呢！）"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "latak",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/latak2_{1}.mp3",
     "source": null
   },
   {
@@ -39435,20 +39435,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：讀(唸)了",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip2_{1}_@_1.1.mp3",
-        "sentence": "maip ku lra kandru na temaradripung na tilin.",
-        "zh_Hant": "我唸了那本日文書。"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "maip",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip2_{1}.mp3",
-    "source": "aip"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：數了",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip1_{1}_@_1.1.mp3",
         "sentence": "maip ku palru dra makaiwa.",
@@ -39458,6 +39444,20 @@
     "frequency": "詞頻：★(10)",
     "name": "maip",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip1_{1}.mp3",
+    "source": "aip"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：讀(唸)了",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip2_{1}_@_1.1.mp3",
+        "sentence": "maip ku lra kandru na temaradripung na tilin.",
+        "zh_Hant": "我唸了那本日文書。"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "maip",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/maip2_{1}.mp3",
     "source": "aip"
   },
   {
@@ -45303,20 +45303,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：反擊了",
-        "pronounce": null,
-        "sentence": "tu pakepatranay yu kan aliu i, melibun yu?",
-        "zh_Hant": "你的朋友把你摔倒，你有還手(反擊)嗎？"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "melibun",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/melibun2_{1}.mp3",
-    "source": "-libun"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：賺錢",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/melibun1_{1}_@_1.1.mp3",
         "sentence": "uniyan ta dra uma. an adri ta melibun i, amanay ta kababaawan?",
@@ -45327,6 +45313,20 @@
     "name": "melibun",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/melibun1_{1}.mp3",
     "source": "libun"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：反擊了",
+        "pronounce": null,
+        "sentence": "tu pakepatranay yu kan aliu i, melibun yu?",
+        "zh_Hant": "你的朋友把你摔倒，你有還手(反擊)嗎？"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "melibun",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/melibun2_{1}.mp3",
+    "source": "-libun"
   },
   {
     "examples": [
@@ -52327,20 +52327,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：晉級",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus2_{1}_@_1.1.mp3",
-        "sentence": "muketrep miasma dra miyalruwatr na maradawan na mulapus kandri kana ami.",
-        "zh_Hant": "今年有十五位晉級的青少年組。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "mulapus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus2_{1}.mp3",
-    "source": "lapus"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：脫落了",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus1_{1}_@_1.1.mp3",
         "sentence": "mulapus nu tatilu. betebetu driya masalr!",
@@ -52350,6 +52336,20 @@
     "frequency": "詞頻：★(4)",
     "name": "mulapus",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus1_{1}.mp3",
+    "source": "lapus"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：晉級",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus2_{1}_@_1.1.mp3",
+        "sentence": "muketrep miasma dra miyalruwatr na maradawan na mulapus kandri kana ami.",
+        "zh_Hant": "今年有十五位晉級的青少年組。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "mulapus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/mulapus2_{1}.mp3",
     "source": "lapus"
   },
   {
@@ -54227,20 +54227,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：辣",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana2_{1}_@_1.1.mp3",
-        "sentence": "pakamelri nana a lingkiw.",
-        "zh_Hant": "小辣椒特別的辣。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(43)",
-    "name": "nana",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：痛",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana1_{1}_@_1.1.mp3",
         "sentence": "a manay ku inekanan? daw nana ku tiyalr?",
@@ -54250,6 +54236,20 @@
     "frequency": "詞頻：★★★★(43)",
     "name": "nana",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：辣",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana2_{1}_@_1.1.mp3",
+        "sentence": "pakamelri nana a lingkiw.",
+        "zh_Hant": "小辣椒特別的辣。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(43)",
+    "name": "nana",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/nana2_{1}.mp3",
     "source": null
   },
   {
@@ -54861,6 +54861,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：鬍鬚",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis1_{1}_@_1.1.mp3",
+        "sentence": "lralrak yu driya. adri kabelakasi nu ngisngis! maidrang an menau ta.",
+        "zh_Hant": "你還年輕，不要留長鬍子！看起來會很老氣。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "ngisngis",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：啃",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis2_{1}_@_1.1.mp3",
         "sentence": "uwa ngisngis dra asepan!",
@@ -54876,20 +54890,6 @@
     "frequency": "詞頻：★(3)",
     "name": "ngisngis",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：鬍鬚",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis1_{1}_@_1.1.mp3",
-        "sentence": "lralrak yu driya. adri kabelakasi nu ngisngis! maidrang an menau ta.",
-        "zh_Hant": "你還年輕，不要留長鬍子！看起來會很老氣。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "ngisngis",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/ngisngis1_{1}.mp3",
     "source": null
   },
   {
@@ -55709,6 +55709,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：讓…數了",
+        "pronounce": null,
+        "sentence": "niyam paaipaw dra walru na temakakesi.",
+        "zh_Hant": "我們讓學生數糖果。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "paaipaw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/paaipaw1_{1}.mp3",
+    "source": "aip"
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：讓…讀(唸)了",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/paaipaw2_{1}_@_1.1.mp3",
         "sentence": "niyam paaipaw na lralrak kana aipan palribak.",
@@ -55724,20 +55738,6 @@
     "frequency": "詞頻：★(2)",
     "name": "paaipaw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/paaipaw2_{1}.mp3",
-    "source": "aip"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：讓…數了",
-        "pronounce": null,
-        "sentence": "niyam paaipaw dra walru na temakakesi.",
-        "zh_Hant": "我們讓學生數糖果。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "paaipaw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/paaipaw1_{1}.mp3",
     "source": "aip"
   },
   {
@@ -62387,20 +62387,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：辣得很",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana2_{1}_@_1.1.mp3",
-        "sentence": "panana tu nanayan kandri na kamangulr.",
-        "zh_Hant": "這辣椒辣得很。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "panana",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana2_{1}.mp3",
-    "source": "nana"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：刻薄；犀利",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana1_{1}_@_1.1.mp3",
         "sentence": "taytaw i, panana an marengay dra trau.",
@@ -62410,6 +62396,20 @@
     "frequency": "詞頻：★(5)",
     "name": "panana",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana1_{1}.mp3",
+    "source": "nana"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：辣得很",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana2_{1}_@_1.1.mp3",
+        "sentence": "panana tu nanayan kandri na kamangulr.",
+        "zh_Hant": "這辣椒辣得很。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "panana",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/panana2_{1}.mp3",
     "source": "nana"
   },
   {
@@ -75421,20 +75421,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：打電話了",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayay2_{1}_@_1.1.mp3",
-        "sentence": "ku pusalayay i bau na babayan. daw adri tu kituludri?",
-        "zh_Hant": " 我打電話給你姊姊，她為什麼不接電話呢？"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "pusalayay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayay2_{1}.mp3",
-    "source": "salay"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使…拉線了",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayay1_{1}_@_1.1.mp3",
         "sentence": "ku pusalayay i dradraya dra tuwasu. sapayan na kappa lra!",
@@ -75449,15 +75435,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：打電話(命令)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayi2_{1}_@_1.1.mp3",
-        "sentence": "matrina a udalr i Tabuwalri kema. pusalayi driya kiyumalr i!",
-        "zh_Hant": " 據說Tabuwalri (地名，太麻里)雨勢很大，打個電話問看看！"
+        "description": "解釋1：打電話了",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayay2_{1}_@_1.1.mp3",
+        "sentence": "ku pusalayay i bau na babayan. daw adri tu kituludri?",
+        "zh_Hant": " 我打電話給你姊姊，她為什麼不接電話呢？"
       }
     ],
     "frequency": "詞頻：★(2)",
-    "name": "pusalayi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayi2_{1}.mp3",
+    "name": "pusalayay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayay2_{1}.mp3",
     "source": "salay"
   },
   {
@@ -75472,6 +75458,20 @@
     "frequency": "詞頻：★(2)",
     "name": "pusalayi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayi1_{1}.mp3",
+    "source": "salay"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：打電話(命令)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayi2_{1}_@_1.1.mp3",
+        "sentence": "matrina a udalr i Tabuwalri kema. pusalayi driya kiyumalr i!",
+        "zh_Hant": " 據說Tabuwalri (地名，太麻里)雨勢很大，打個電話問看看！"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "pusalayi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/pusalayi2_{1}.mp3",
     "source": "salay"
   },
   {
@@ -78569,20 +78569,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：黃瓜",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi2_{1}_@_1.1.mp3",
-        "sentence": "parparu aw ramesu dra iyam na runi!",
-        "zh_Hant": "把黃瓜拍打後加鹽巴揉！"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "runi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鳴音",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi1_{1}_@_1.1.mp3",
         "sentence": "kilrengawi tu runi kana kuliling! kamawan dra semasenay.",
@@ -78592,6 +78578,20 @@
     "frequency": "詞頻：★(3)",
     "name": "runi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：黃瓜",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi2_{1}_@_1.1.mp3",
+        "sentence": "parparu aw ramesu dra iyam na runi!",
+        "zh_Hant": "把黃瓜拍打後加鹽巴揉！"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "runi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/runi2_{1}.mp3",
     "source": null
   },
   {
@@ -85247,20 +85247,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：推(催促)了",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudraw2_{1}_@_1.1.mp3",
-        "sentence": "i Lramigay i, maagelr dra aukayan i Katripulr. tu sudrsudraw ku dra aalrang.",
-        "zh_Hant": "Lramigay(男)急著去Katripulr(部落名，知本)，她來催促我做伴去。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "sudrsudraw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudraw2_{1}.mp3",
-    "source": "-sudrsudr"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：剷了",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudraw1_{1}_@_1.1.mp3",
         "sentence": "tu sudrsudraw lra na sapuk kan tinataw Ariwanes.",
@@ -85275,15 +85261,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：推(催促)(命令)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudru2_{1}_@_1.1.mp3",
-        "sentence": "i Simura i matrelre. sudrsudru dar an semaluwan! an puwari muka i takesian.",
-        "zh_Hant": "Simura(男)動作很慢，早上要催促他！否則來不及上學。"
+        "description": "解釋1：推(催促)了",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudraw2_{1}_@_1.1.mp3",
+        "sentence": "i Lramigay i, maagelr dra aukayan i Katripulr. tu sudrsudraw ku dra aalrang.",
+        "zh_Hant": "Lramigay(男)急著去Katripulr(部落名，知本)，她來催促我做伴去。"
       }
     ],
     "frequency": "詞頻：★(2)",
-    "name": "sudrsudru",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudru2_{1}.mp3",
+    "name": "sudrsudraw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudraw2_{1}.mp3",
     "source": "-sudrsudr"
   },
   {
@@ -85299,6 +85285,20 @@
     "name": "sudrsudru",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudru1_{1}.mp3",
     "source": "sudrsudr"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：推(催促)(命令)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudru2_{1}_@_1.1.mp3",
+        "sentence": "i Simura i matrelre. sudrsudru dar an semaluwan! an puwari muka i takesian.",
+        "zh_Hant": "Simura(男)動作很慢，早上要催促他！否則來不及上學。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "sudrsudru",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sudrsudru2_{1}.mp3",
+    "source": "-sudrsudr"
   },
   {
     "examples": [
@@ -85547,20 +85547,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：膝蓋",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal2_{1}_@_1.1.mp3",
-        "sentence": "maidrang lra i mulri na mainayan. adri makeser tu sungal. misalrekudran kemakawang.",
-        "zh_Hant": "爺爺年紀大了，膝蓋無力，所以拿拐杖走路。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "sungal",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：敬拜；鞠躬；敬禮；致敬",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal1_{1}_@_1.1.mp3",
         "sentence": "puludus lra nu tinakesian. uwa sungal kana sinsi! semangalan kayu.",
@@ -85570,6 +85556,20 @@
     "frequency": "詞頻：★(5)",
     "name": "sungal",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：膝蓋",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal2_{1}_@_1.1.mp3",
+        "sentence": "maidrang lra i mulri na mainayan. adri makeser tu sungal. misalrekudran kemakawang.",
+        "zh_Hant": "爺爺年紀大了，膝蓋無力，所以拿拐杖走路。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "sungal",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/sungal2_{1}.mp3",
     "source": null
   },
   {
@@ -91089,20 +91089,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：拍打",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra2_{1}_@_1.1.mp3",
-        "sentence": "uwa traetra dratu iyab kandru na walrak!",
-        "zh_Hant": "去拍打那個小孩的肩膀！"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "traetra",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鎖頭；鎖",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra1_{1}_@_1.1.mp3",
         "sentence": "tu traetra kantu salikidr kana Salawsi i, salaw matrina.",
@@ -91112,6 +91098,20 @@
     "frequency": "詞頻：★(3)",
     "name": "traetra",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：拍打",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra2_{1}_@_1.1.mp3",
+        "sentence": "uwa traetra dratu iyab kandru na walrak!",
+        "zh_Hant": "去拍打那個小孩的肩膀！"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "traetra",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/traetra2_{1}.mp3",
     "source": null
   },
   {
@@ -94625,20 +94625,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：雕刻",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu2_{1}_@_1.1.mp3",
-        "sentence": "uwa tuetu dra barasa dra pakababulayan i salikidr!",
-        "zh_Hant": "去雕要裝飾大門的石塊！"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tuetu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：啄；鑿",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu1_{1}_@_1.1.mp3",
         "sentence": "uwa tuetu dra basikaw!",
@@ -94648,6 +94634,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tuetu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：雕刻",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu2_{1}_@_1.1.mp3",
+        "sentence": "uwa tuetu dra barasa dra pakababulayan i salikidr!",
+        "zh_Hant": "去雕要裝飾大門的石塊！"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tuetu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pyu/tuetu2_{1}.mp3",
     "source": null
   },
   {

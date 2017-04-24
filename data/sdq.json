@@ -7770,20 +7770,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：他們(代名詞)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sdq/daha2_{1}_@_1.1.mp3",
-        "sentence": "Ye ku ado bsiyaq meniq ngerac di, kika ini ku daha klai di.",
-        "zh_Hant": "或許我在外面太久了，所以他們已不認得我了。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(679)",
-    "name": "daha",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sdq/daha2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：二(數詞)",
         "pronounce": null,
         "sentence": "Daha ba pusu pnhmaan na tgibu tama mu.",
@@ -7793,6 +7779,20 @@
     "frequency": "詞頻：★★★★(679)",
     "name": "daha",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：他們(代名詞)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sdq/daha2_{1}_@_1.1.mp3",
+        "sentence": "Ye ku ado bsiyaq meniq ngerac di, kika ini ku daha klai di.",
+        "zh_Hant": "或許我在外面太久了，所以他們已不認得我了。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(679)",
+    "name": "daha",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sdq/daha2_{1}.mp3",
     "source": null
   },
   {

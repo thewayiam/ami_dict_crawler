@@ -12,7 +12,10 @@ def main():
             with open(join(資料夾, 檔名)) as 檔案:
                 for 一逝 in 檔案.readlines():
                     全部資料.append(json.loads(一逝))
-            排好結果 = sorted(全部資料, key=lambda 資料: (資料['name']))
+            排好結果 = sorted(
+                全部資料,
+                key=lambda 資料: (資料['name'], 資料['pronounce'] or '')
+            )
             with open(join(資料夾, 檔名[:-5]), 'w') as 檔案:
                 json.dump(
                     排好結果, 檔案,

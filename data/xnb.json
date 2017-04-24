@@ -8818,6 +8818,13 @@
     "source": null
   },
   {
+    "examples": [],
+    "frequency": "詞頻：★(0)",
+    "name": "'iarʉ",
+    "pronounce": null,
+    "source": null
+  },
+  {
     "examples": [
       {
         "description": "解釋1：雌性生殖器",
@@ -8829,13 +8836,6 @@
     "frequency": "詞頻：★(1)",
     "name": "'iarʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'iarx1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [],
-    "frequency": "詞頻：★(0)",
-    "name": "'iarʉ",
-    "pronounce": null,
     "source": null
   },
   {
@@ -9161,6 +9161,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：垃圾；雜削",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu1_{1}_@_1.1.mp3",
+        "sentence": "iikita Kanakanavu noo masiaka kita cau “ 'ucu ” misee, kan tia aka cʉpʉʉng nipasiaka musu cau.",
+        "zh_Hant": "我們卡那卡那富如果罵人說「垃圾」，被你罵的人會非常難過的。"
+      }
+    ],
+    "frequency": "詞頻：★★ (14)",
+    "name": "'ucu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：鬼",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu2_{1}_@_1.1.mp3",
         "sentence": "mamarang mita, makaa ka'aan pokariikari poisua 'ucu tamna kari.",
@@ -9176,20 +9190,6 @@
     "frequency": "詞頻：★★ (14)",
     "name": "'ucu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：垃圾；雜削",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu1_{1}_@_1.1.mp3",
-        "sentence": "iikita Kanakanavu noo masiaka kita cau “ 'ucu ” misee, kan tia aka cʉpʉʉng nipasiaka musu cau.",
-        "zh_Hant": "我們卡那卡那富如果罵人說「垃圾」，被你罵的人會非常難過的。"
-      }
-    ],
-    "frequency": "詞頻：★★ (14)",
-    "name": "'ucu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'ucu1_{1}.mp3",
     "source": null
   },
   {
@@ -10024,20 +10024,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：煙",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx2_{1}_@_1.1.mp3",
-        "sentence": "aravaria to'onaa, 'ituumuru curu nesua 'ʉrʉvʉ.",
-        "zh_Hant": "換位置，那裡煙太多了。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "'ʉrʉvʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：祭司；巫師",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx1_{1}_@_1.1.mp3",
         "sentence": "tumatimana ku, 'una kan 'ʉrʉvʉ na tanasʉn mita miana.",
@@ -10053,6 +10039,20 @@
     "frequency": "詞頻：★(2)",
     "name": "'ʉrʉvʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：煙",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx2_{1}_@_1.1.mp3",
+        "sentence": "aravaria to'onaa, 'ituumuru curu nesua 'ʉrʉvʉ.",
+        "zh_Hant": "換位置，那裡煙太多了。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "'ʉrʉvʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/'xrxvx2_{1}.mp3",
     "source": null
   },
   {
@@ -13737,13 +13737,7 @@
   {
     "examples": [
       {
-        "description": "解釋1：歌",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/cani2_{1}_@_1.1.mp3",
-        "sentence": "tavara'ʉ kara kasu paracani cani Kanakaniavu?",
-        "zh_Hant": "你會唱卡那卡那富族的歌嗎?"
-      },
-      {
-        "description": "備註",
+        "description": "解釋1：一；首次；歌",
         "pronounce": null,
         "sentence": null,
         "zh_Hant": null
@@ -13751,7 +13745,7 @@
     ],
     "frequency": "詞頻：★★★★(67)",
     "name": "cani",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/cani2_{1}.mp3",
+    "pronounce": null,
     "source": null
   },
   {
@@ -13777,7 +13771,13 @@
   {
     "examples": [
       {
-        "description": "解釋1：一；首次；歌",
+        "description": "解釋1：歌",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/cani2_{1}_@_1.1.mp3",
+        "sentence": "tavara'ʉ kara kasu paracani cani Kanakaniavu?",
+        "zh_Hant": "你會唱卡那卡那富族的歌嗎?"
+      },
+      {
+        "description": "備註",
         "pronounce": null,
         "sentence": null,
         "zh_Hant": null
@@ -13785,7 +13785,7 @@
     ],
     "frequency": "詞頻：★★★★(67)",
     "name": "cani",
-    "pronounce": null,
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/cani2_{1}.mp3",
     "source": null
   },
   {
@@ -15578,6 +15578,13 @@
     "source": null
   },
   {
+    "examples": [],
+    "frequency": "詞頻：★★★★(48)",
+    "name": "curu",
+    "pronounce": null,
+    "source": null
+  },
+  {
     "examples": [
       {
         "description": "解釋1：真的；的確；非常；太",
@@ -15595,13 +15602,6 @@
     "frequency": "詞頻：★★★★(48)",
     "name": "curu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/curu_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [],
-    "frequency": "詞頻：★★★★(48)",
-    "name": "curu",
-    "pronounce": null,
     "source": null
   },
   {
@@ -18053,20 +18053,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：魚簍",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa2_{1}_@_1.1.mp3",
-        "sentence": "miana mamarang mita, noo tiain pinaarupu ia, tia mavici kasa, tasʉ'a nipinarupua vutuukuru.",
-        "zh_Hant": "以前我們老人家釣魚的時候，會攜帶魚簍來放置所釣的魚。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "kasa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：斗笠",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa1_{1}_@_1.1.mp3",
         "sentence": "miana noo arapipining putukikio ia, paira kim pacancani makakasa.",
@@ -18082,6 +18068,20 @@
     "frequency": "詞頻：★(0)",
     "name": "kasa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：魚簍",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa2_{1}_@_1.1.mp3",
+        "sentence": "miana mamarang mita, noo tiain pinaarupu ia, tia mavici kasa, tasʉ'a nipinarupua vutuukuru.",
+        "zh_Hant": "以前我們老人家釣魚的時候，會攜帶魚簍來放置所釣的魚。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "kasa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kasa2_{1}.mp3",
     "source": null
   },
   {
@@ -20232,13 +20232,6 @@
     "source": null
   },
   {
-    "examples": [],
-    "frequency": "詞頻：★(0)",
-    "name": "kʉkʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kxkx2-_{1}.mp3",
-    "source": null
-  },
-  {
     "examples": [
       {
         "description": "解釋1：腿",
@@ -20250,6 +20243,13 @@
     "frequency": "詞頻：★(8)",
     "name": "kʉkʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kxkx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [],
+    "frequency": "詞頻：★(0)",
+    "name": "kʉkʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/kxkx2-_{1}.mp3",
     "source": null
   },
   {
@@ -37868,20 +37868,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：曬；晾",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari2_{1}_@_1.1.mp3",
-        "sentence": "te ku pari viaru.",
-        "zh_Hant": " 我要曬玉米。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "pari",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：膽",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari1_{1}_@_1.1.mp3",
         "sentence": "una cau manmaan kumakʉʉn vunai tamna pari, neen kusai vanain?",
@@ -37897,6 +37883,20 @@
     "frequency": "詞頻：★(1)",
     "name": "pari",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：曬；晾",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari2_{1}_@_1.1.mp3",
+        "sentence": "te ku pari viaru.",
+        "zh_Hant": " 我要曬玉米。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "pari",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pari2_{1}.mp3",
     "source": null
   },
   {
@@ -38892,6 +38892,13 @@
     "source": null
   },
   {
+    "examples": [],
+    "frequency": "詞頻：★(0)",
+    "name": "pepe",
+    "pronounce": null,
+    "source": null
+  },
+  {
     "examples": [
       {
         "description": "解釋1：糯米糕",
@@ -38903,13 +38910,6 @@
     "frequency": "詞頻：★(9)",
     "name": "pepe",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/pepe1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [],
-    "frequency": "詞頻：★(0)",
-    "name": "pepe",
-    "pronounce": null,
     "source": null
   },
   {
@@ -41962,6 +41962,13 @@
     "source": null
   },
   {
+    "examples": [],
+    "frequency": "詞頻：★(0)",
+    "name": "ravuku",
+    "pronounce": null,
+    "source": null
+  },
+  {
     "examples": [
       {
         "description": "解釋1：砂子",
@@ -41973,13 +41980,6 @@
     "frequency": "詞頻：★(2)",
     "name": "ravuku",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/ravuku1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [],
-    "frequency": "詞頻：★(0)",
-    "name": "ravuku",
-    "pronounce": null,
     "source": null
   },
   {
@@ -43042,13 +43042,6 @@
     "source": null
   },
   {
-    "examples": [],
-    "frequency": "詞頻：★(0)",
-    "name": "saniivari",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/saniivari2-_{1}.mp3",
-    "source": null
-  },
-  {
     "examples": [
       {
         "description": "解釋1：另一面",
@@ -43066,6 +43059,13 @@
     "frequency": "詞頻：★(1)",
     "name": "saniivari",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/saniivari1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [],
+    "frequency": "詞頻：★(0)",
+    "name": "saniivari",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/saniivari2-_{1}.mp3",
     "source": null
   },
   {
@@ -44551,14 +44551,14 @@
     "examples": [],
     "frequency": "詞頻：★(0)",
     "name": "singsing",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/singsing2-_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/singsing1-_{1}.mp3",
     "source": null
   },
   {
     "examples": [],
     "frequency": "詞頻：★(0)",
     "name": "singsing",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/singsing1-_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xnb/singsing2-_{1}.mp3",
     "source": null
   },
   {

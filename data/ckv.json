@@ -1092,20 +1092,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：門檻",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/Raqatan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：衍生名詞",
-        "zh_Hant": "門上的門檻要跨過去。   "
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "Raqatan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/Raqatan2_{1}.mp3",
-    "source": "Raqat"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：跨過",
         "pronounce": null,
         "sentence": "焦點：受事",
@@ -1115,6 +1101,20 @@
     "frequency": "詞頻：★(2)",
     "name": "Raqatan",
     "pronounce": null,
+    "source": "Raqat"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：門檻",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/Raqatan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：衍生名詞",
+        "zh_Hant": "門上的門檻要跨過去。   "
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "Raqatan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/Raqatan2_{1}.mp3",
     "source": "Raqat"
   },
   {
@@ -7510,20 +7510,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：給",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/bulan_{1}_@_1.1.mp3",
-        "sentence": "焦點：受事",
-        "zh_Hant": "我的孩子每個月給我生活費(錢)。"
-      }
-    ],
-    "frequency": "詞頻：★★★(21)",
-    "name": "bulan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/bulan_{1}.mp3",
-    "source": "bula"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：月",
         "pronounce": null,
         "sentence": "bulan zau utulu banged melaziw.",
@@ -7534,6 +7520,20 @@
     "name": "bulan",
     "pronounce": null,
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：給",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/bulan_{1}_@_1.1.mp3",
+        "sentence": "焦點：受事",
+        "zh_Hant": "我的孩子每個月給我生活費(錢)。"
+      }
+    ],
+    "frequency": "詞頻：★★★(21)",
+    "name": "bulan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/bulan_{1}.mp3",
+    "source": "bula"
   },
   {
     "examples": [
@@ -8298,20 +8298,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：非常、太超過",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames2_{1}_@_1.1.mp3",
-        "sentence": "tazungan melaziw tu uwalubetin laluyan, missi dames.",
-        "zh_Hant": "女人超過八十公斤，太胖了。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(38)",
-    "name": "dames",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：珍惜、勤勞",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames1_{1}_@_1.1.mp3",
         "sentence": "dames ika niizaw na baqi bai tu Ribang.",
@@ -8321,6 +8307,20 @@
     "frequency": "詞頻：★★★★(38)",
     "name": "dames",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：非常、太超過",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames2_{1}_@_1.1.mp3",
+        "sentence": "tazungan melaziw tu uwalubetin laluyan, missi dames.",
+        "zh_Hant": "女人超過八十公斤，太胖了。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(38)",
+    "name": "dames",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/dames2_{1}.mp3",
     "source": null
   },
   {
@@ -13396,15 +13396,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：敲",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung3_{1}_@_1.1.mp3",
-        "sentence": "kungkung ika ineb na, yau u mai tu lazat ta leppawan.",
-        "zh_Hant": "去敲門，看看有沒有人在家。"
+        "description": "解釋1：木桶",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung1_{1}_@_1.1.mp3",
+        "sentence": "ala ka tu kungkung sasepezan tu zanum!",
+        "zh_Hant": "去拿木桶來裝水！"
       }
     ],
     "frequency": "詞頻：★(6)",
     "name": "kungkung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung1_{1}.mp3",
     "source": null
   },
   {
@@ -13424,15 +13424,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：木桶",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung1_{1}_@_1.1.mp3",
-        "sentence": "ala ka tu kungkung sasepezan tu zanum!",
-        "zh_Hant": "去拿木桶來裝水！"
+        "description": "解釋1：敲",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung3_{1}_@_1.1.mp3",
+        "sentence": "kungkung ika ineb na, yau u mai tu lazat ta leppawan.",
+        "zh_Hant": "去敲門，看看有沒有人在家。"
       }
     ],
     "frequency": "詞頻：★(6)",
     "name": "kungkung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/kungkung3_{1}.mp3",
     "source": null
   },
   {
@@ -14070,20 +14070,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：車廂(火車)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu2_{1}_@_1.1.mp3",
-        "sentence": "simseset lazat ta langu na qitun.",
-        "zh_Hant": "車廂裡擠滿了人。   "
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "langu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：飼料槽",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu1_{1}_@_1.1.mp3",
         "sentence": "sapaqunian langu zau?",
@@ -14093,6 +14079,20 @@
     "frequency": "詞頻：★(2)",
     "name": "langu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：車廂(火車)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu2_{1}_@_1.1.mp3",
+        "sentence": "simseset lazat ta langu na qitun.",
+        "zh_Hant": "車廂裡擠滿了人。   "
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "langu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/langu2_{1}.mp3",
     "source": null
   },
   {
@@ -14983,20 +14983,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：手",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lima2_{1}_@_1.1.mp3",
-        "sentence": "A: manna tabuan su lima su? B: meluzit lima ku, matabu ti.",
-        "zh_Hant": "A：你的手為什麼包起來？B：我的手受傷，就包起來了。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(102)",
-    "name": "lima",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lima2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：五 (只有在數數時才會使用的形式)",
         "pronounce": null,
         "sentence": null,
@@ -15006,6 +14992,20 @@
     "frequency": "詞頻：★★★★(102)",
     "name": "lima",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lima1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：手",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lima2_{1}_@_1.1.mp3",
+        "sentence": "A: manna tabuan su lima su? B: meluzit lima ku, matabu ti.",
+        "zh_Hant": "A：你的手為什麼包起來？B：我的手受傷，就包起來了。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(102)",
+    "name": "lima",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lima2_{1}.mp3",
     "source": null
   },
   {
@@ -15227,20 +15227,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：鐵罐、膠罐",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung2_{1}_@_1.1.mp3",
-        "sentence": "ninanuman su ay lingkung naRin pisapatan baqsiw.",
-        "zh_Hant": "你喝過的鐵罐不要隨便亂丟。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "lingkung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：蓮花",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung1_{1}_@_1.1.mp3",
         "sentence": "simqena taytan lingkung.",
@@ -15250,6 +15236,20 @@
     "frequency": "詞頻：★(3)",
     "name": "lingkung",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：鐵罐、膠罐",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung2_{1}_@_1.1.mp3",
+        "sentence": "ninanuman su ay lingkung naRin pisapatan baqsiw.",
+        "zh_Hant": "你喝過的鐵罐不要隨便亂丟。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "lingkung",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lingkung2_{1}.mp3",
     "source": null
   },
   {
@@ -15785,20 +15785,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：塑膠袋",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus2_{1}_@_1.1.mp3",
-        "sentence": "ala ka tu lulus sasepezan ku tu baut.",
-        "zh_Hant": "去拿塑膠袋我要裝魚用的。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "lulus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：膀胱",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus1_{1}_@_1.1.mp3",
         "sentence": "sabettu lulus na, Rayngu semmum.",
@@ -15808,6 +15794,20 @@
     "frequency": "詞頻：★(2)",
     "name": "lulus",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：塑膠袋",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus2_{1}_@_1.1.mp3",
+        "sentence": "ala ka tu lulus sasepezan ku tu baut.",
+        "zh_Hant": "去拿塑膠袋我要裝魚用的。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "lulus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/lulus2_{1}.mp3",
     "source": null
   },
   {
@@ -22771,20 +22771,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：很珍惜、很勤勞",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/medames1_{1}_@_1.1.mp3",
-        "sentence": "焦點：主事",
-        "zh_Hant": "我媽媽很珍惜她的東西。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "medames",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/medames1_{1}.mp3",
-    "source": "dames"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：認真",
         "pronounce": null,
         "sentence": "medames ita temaqsi qawman qanengi nitaqsian ta.",
@@ -22795,6 +22781,20 @@
     "name": "medames",
     "pronounce": null,
     "source": "padames"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：很珍惜、很勤勞",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/medames1_{1}_@_1.1.mp3",
+        "sentence": "焦點：主事",
+        "zh_Hant": "我媽媽很珍惜她的東西。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "medames",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/medames1_{1}.mp3",
+    "source": "dames"
   },
   {
     "examples": [
@@ -23737,20 +23737,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：催眠",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/melina2_{1}_@_1.1.mp3",
-        "sentence": "suppaR melina tu lazat aizipna.",
-        "zh_Hant": "他很會催眠別人。 "
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "melina",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/melina2_{1}.mp3",
-    "source": "lina-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：唱搖籃曲",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/melina1_{1}_@_1.1.mp3",
         "sentence": "焦點：主事",
@@ -23767,6 +23753,20 @@
     "name": "melina",
     "pronounce": null,
     "source": "lina"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：催眠",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/melina2_{1}_@_1.1.mp3",
+        "sentence": "suppaR melina tu lazat aizipna.",
+        "zh_Hant": "他很會催眠別人。 "
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "melina",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/melina2_{1}.mp3",
+    "source": "lina-"
   },
   {
     "examples": [
@@ -27051,20 +27051,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：討厭，不喜歡",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes2_{1}_@_1.1.mp3",
-        "sentence": "焦點：主事",
-        "zh_Hant": "我不喜歡蟑螂。"
-      }
-    ],
-    "frequency": "詞頻：★(6)",
-    "name": "mipes",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes2_{1}.mp3",
-    "source": "qipes-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：討厭",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes1_{1}_@_1.1.mp3",
         "sentence": "mipes isu timaizipana, sastaR ti mipes aizipna timaisuan, ussa ni?",
@@ -27075,6 +27061,20 @@
     "name": "mipes",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes1_{1}.mp3",
     "source": "ipes-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：討厭，不喜歡",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes2_{1}_@_1.1.mp3",
+        "sentence": "焦點：主事",
+        "zh_Hant": "我不喜歡蟑螂。"
+      }
+    ],
+    "frequency": "詞頻：★(6)",
+    "name": "mipes",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/mipes2_{1}.mp3",
+    "source": "qipes-"
   },
   {
     "examples": [
@@ -29413,20 +29413,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：拉掉頭髮(已經發生)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRaus_{1}_@_1.1.mp3",
-        "sentence": "saqepeR niRaus ni umus tu buqes ku.",
-        "zh_Hant": "我的頭髮被Umus拉掉了一把。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "niRaus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRaus_{1}.mp3",
-    "source": "Raus-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：舀起來",
         "pronounce": null,
         "sentence": "niRaus na tina ku ta salangan ay siti zau.",
@@ -29437,6 +29423,20 @@
     "name": "niRaus",
     "pronounce": null,
     "source": "Raus"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：拉掉頭髮(已經發生)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRaus_{1}_@_1.1.mp3",
+        "sentence": "saqepeR niRaus ni umus tu buqes ku.",
+        "zh_Hant": "我的頭髮被Umus拉掉了一把。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "niRaus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRaus_{1}.mp3",
+    "source": "Raus-"
   },
   {
     "examples": [
@@ -29455,20 +29455,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：拉頭髮",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan_{1}_@_1.1.mp3",
-        "sentence": "niRausan su buqes ku tazian ay, mai ti tu buqes.",
-        "zh_Hant": "我這裡沒有頭髮了，是被妳拉掉的。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "niRausan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan_{1}.mp3",
-    "source": "Raus-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：舀起來(已經發生的)",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan1_{1}_@_1.1.mp3",
         "sentence": "niRausan ku yateng zau.",
@@ -29479,6 +29465,20 @@
     "name": "niRausan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan1_{1}.mp3",
     "source": "Rausan"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：拉頭髮",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan_{1}_@_1.1.mp3",
+        "sentence": "niRausan su buqes ku tazian ay, mai ti tu buqes.",
+        "zh_Hant": "我這裡沒有頭髮了，是被妳拉掉的。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "niRausan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/niRausan_{1}.mp3",
+    "source": "Raus-"
   },
   {
     "examples": [
@@ -38573,20 +38573,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：用力",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padames3_{1}_@_1.1.mp3",
-        "sentence": "padames ika tembes aizipna.",
-        "zh_Hant": "用力拉他。"
-      }
-    ],
-    "frequency": "詞頻：★★ (17)",
-    "name": "padames",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padames3_{1}.mp3",
-    "source": "dames"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：更加",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padames2_{1}_@_1.1.mp3",
         "sentence": "paRamesan ta tu tani niRamaz ya naned padames nengi qanan.",
@@ -38601,15 +38587,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：很用力",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padamesan2_{1}_@_1.1.mp3",
-        "sentence": "padamesan ku tembes maketun ti Rais 'nay.",
-        "zh_Hant": "我用力拉那條繩子就斷了。"
+        "description": "解釋1：用力",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padames3_{1}_@_1.1.mp3",
+        "sentence": "padames ika tembes aizipna.",
+        "zh_Hant": "用力拉他。"
       }
     ],
-    "frequency": "詞頻：★(5)",
-    "name": "padamesan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padamesan2_{1}.mp3",
+    "frequency": "詞頻：★★ (17)",
+    "name": "padames",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padames3_{1}.mp3",
     "source": "dames"
   },
   {
@@ -38624,6 +38610,20 @@
     "frequency": "詞頻：★(5)",
     "name": "padamesan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padamesan1_{1}.mp3",
+    "source": "dames"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：很用力",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padamesan2_{1}_@_1.1.mp3",
+        "sentence": "padamesan ku tembes maketun ti Rais 'nay.",
+        "zh_Hant": "我用力拉那條繩子就斷了。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "padamesan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/padamesan2_{1}.mp3",
     "source": "dames"
   },
   {
@@ -40487,20 +40487,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：借",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway1_{1}_@_1.1.mp3",
-        "sentence": "焦點：使役",
-        "zh_Hant": "(他)不想借錢給我。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(34)",
-    "name": "paliway",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：賠",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway2_{1}_@_1.1.mp3",
         "sentence": "Rapsian su Ribang ku paliway iku tu tasu ay.",
@@ -40510,6 +40496,34 @@
     "frequency": "詞頻：★★★★(34)",
     "name": "paliway",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：換",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway3_{1}_@_1.1.mp3",
+        "sentence": "qumni isu paliway tu tasu ay qitun?",
+        "zh_Hant": "你什麼時候換新車的？"
+      }
+    ],
+    "frequency": "詞頻：★★★★(34)",
+    "name": "paliway",
+    "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：借",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway1_{1}_@_1.1.mp3",
+        "sentence": "焦點：使役",
+        "zh_Hant": "(他)不想借錢給我。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(34)",
+    "name": "paliway",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway1_{1}.mp3",
     "source": null
   },
   {
@@ -40525,20 +40539,6 @@
     "name": "paliway",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway_{1}.mp3",
     "source": "liway"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：換",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/paliway3_{1}_@_1.1.mp3",
-        "sentence": "qumni isu paliway tu tasu ay qitun?",
-        "zh_Hant": "你什麼時候換新車的？"
-      }
-    ],
-    "frequency": "詞頻：★★★★(34)",
-    "name": "paliway",
-    "pronounce": null,
-    "source": null
   },
   {
     "examples": [
@@ -43972,20 +43972,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：獵人",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：衍生名詞",
-        "zh_Hant": "我爸爸是獵人。 "
-      }
-    ],
-    "frequency": "詞頻：★★ (14)",
-    "name": "pasalawan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan2_{1}.mp3",
-    "source": "salaw"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使...獵",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan1_{1}_@_1.1.mp3",
         "sentence": "焦點：使役",
@@ -43995,6 +43981,20 @@
     "frequency": "詞頻：★★ (14)",
     "name": "pasalawan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan1_{1}.mp3",
+    "source": "salaw"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：獵人",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：衍生名詞",
+        "zh_Hant": "我爸爸是獵人。 "
+      }
+    ],
+    "frequency": "詞頻：★★ (14)",
+    "name": "pasalawan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/pasalawan2_{1}.mp3",
     "source": "salaw"
   },
   {
@@ -47290,20 +47290,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：老師",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan2_{1}_@_1.1.mp3",
-        "sentence": "patudan niaq ibabaw melabulil, mazemun temanuz ay timaizipana.",
-        "zh_Hant": "我們的老師又高又帥，有很多人追他。"
-      }
-    ],
-    "frequency": "詞頻：★★★(28)",
-    "name": "patudan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan2_{1}.mp3",
-    "source": "tud"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：教",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan1_{1}_@_1.1.mp3",
         "sentence": "焦點：受事",
@@ -47313,6 +47299,20 @@
     "frequency": "詞頻：★★★(28)",
     "name": "patudan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan1_{1}.mp3",
+    "source": "tud"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：老師",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan2_{1}_@_1.1.mp3",
+        "sentence": "patudan niaq ibabaw melabulil, mazemun temanuz ay timaizipana.",
+        "zh_Hant": "我們的老師又高又帥，有很多人追他。"
+      }
+    ],
+    "frequency": "詞頻：★★★(28)",
+    "name": "patudan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/patudan2_{1}.mp3",
     "source": "tud"
   },
   {
@@ -68427,20 +68427,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：梯子",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/saRuRan2_{1}_@_1.1.mp3",
-        "sentence": "ibabaw lineng zau, ala ka tu saRuRan.",
-        "zh_Hant": "這個圍牆很高，去拿梯子。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "saRuRan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/saRuRan2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：下坡、下樓梯",
         "pronounce": null,
         "sentence": "sukaw saRuRan lazan zau.",
@@ -68451,6 +68437,20 @@
     "name": "saRuRan",
     "pronounce": null,
     "source": "saRuR"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：梯子",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/saRuRan2_{1}_@_1.1.mp3",
+        "sentence": "ibabaw lineng zau, ala ka tu saRuRan.",
+        "zh_Hant": "這個圍牆很高，去拿梯子。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "saRuRan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/saRuRan2_{1}.mp3",
+    "source": null
   },
   {
     "examples": [
@@ -73069,20 +73069,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：說",
-        "pronounce": null,
-        "sentence": "sanu na baqi ku masang mai kalingunan ku.",
-        "zh_Hant": "我祖父以前說的話我沒有忘記。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "sanu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/sanu1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：味道",
         "pronounce": null,
         "sentence": "mai tu sanu.",
@@ -73098,6 +73084,20 @@
     "frequency": "詞頻：★(7)",
     "name": "sanu",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：說",
+        "pronounce": null,
+        "sentence": "sanu na baqi ku masang mai kalingunan ku.",
+        "zh_Hant": "我祖父以前說的話我沒有忘記。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "sanu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/sanu1_{1}.mp3",
     "source": null
   },
   {
@@ -81317,20 +81317,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：噁心(髒)",
-        "pronounce": null,
-        "sentence": "dasam lima na, sidap iku temayta.",
-        "zh_Hant": "他的手很髒，我看了很噁心。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "sidap",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/sidap1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：癢",
         "pronounce": null,
         "sentence": "maytis iku sikiwan sidap.",
@@ -81340,6 +81326,20 @@
     "frequency": "詞頻：★(2)",
     "name": "sidap",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：噁心(髒)",
+        "pronounce": null,
+        "sentence": "dasam lima na, sidap iku temayta.",
+        "zh_Hant": "他的手很髒，我看了很噁心。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "sidap",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/sidap1_{1}.mp3",
     "source": null
   },
   {
@@ -93572,20 +93572,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：梯子",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/zaqisan_{1}_@_1.1.mp3",
-        "sentence": "qatiw ka aisu ketun tu tenayan, sasangian tu zaqisan.",
-        "zh_Hant": "你去砍竹子，要做梯子用。"
-      }
-    ],
-    "frequency": "詞頻：★(6)",
-    "name": "zaqisan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/zaqisan_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：爬上(樹)",
         "pronounce": null,
         "sentence": "焦點：受事",
@@ -93596,6 +93582,20 @@
     "name": "zaqisan",
     "pronounce": null,
     "source": "zaqis "
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：梯子",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/zaqisan_{1}_@_1.1.mp3",
+        "sentence": "qatiw ka aisu ketun tu tenayan, sasangian tu zaqisan.",
+        "zh_Hant": "你去砍竹子，要做梯子用。"
+      }
+    ],
+    "frequency": "詞頻：★(6)",
+    "name": "zaqisan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ckv/zaqisan_{1}.mp3",
+    "source": null
   },
   {
     "examples": [

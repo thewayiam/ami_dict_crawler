@@ -2101,6 +2101,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：爸爸,父親",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama1_{1}_@_1.1.mp3",
+        "sentence": "naak a ama amutusi hudun muribush.",
+        "zh_Hant": "我的爸爸要去山上打獵。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(124)",
+    "name": "ama",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：叔父,伯父",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama2_{1}_@_1.1.mp3",
         "sentence": "ama Kilash ti Tuba wa pan'amaan.",
@@ -2116,20 +2130,6 @@
     "frequency": "詞頻：★★★★(124)",
     "name": "ama",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：爸爸,父親",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama1_{1}_@_1.1.mp3",
-        "sentence": "naak a ama amutusi hudun muribush.",
-        "zh_Hant": "我的爸爸要去山上打獵。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(124)",
-    "name": "ama",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ama1_{1}.mp3",
     "source": null
   },
   {
@@ -4439,20 +4439,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：開始",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "ara",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ara2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：拿,取",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ara1_{1}_@_1.1.mp3",
         "sentence": "ata tu ara tuali ya lhai thithu ihun.",
@@ -4462,6 +4448,20 @@
     "frequency": "詞頻：★(10)",
     "name": "ara",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ara1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：開始",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "ara",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ara2_{1}.mp3",
     "source": null
   },
   {
@@ -5179,20 +5179,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：空的,空無一物,空盪盪",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★★★★(53)",
-    "name": "az'az",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/az'az2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：全部,所有,都是",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/az'az1_{1}_@_1.1.mp3",
         "sentence": "kahiwan Zintun a pruq az'az yamin Thau a pruq.",
@@ -5202,6 +5188,20 @@
     "frequency": "詞頻：★★★★(53)",
     "name": "az'az",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/az'az1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：空的,空無一物,空盪盪",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★★★★(53)",
+    "name": "az'az",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/az'az2_{1}.mp3",
     "source": null
   },
   {
@@ -5522,20 +5522,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：厲聲責罵,大聲責備,亂吼亂叫",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban2_{1}_@_1.1.mp3",
-        "sentence": "antu thithu muririw, ata tu baramban!",
-        "zh_Hant": "他沒有錯，不要大聲責罵！"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "baramban",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：冇骨消（植物名）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban1_{1}_@_1.1.mp3",
         "sentence": "baramban a bukay mapuzipuzi, kanuniza thithu a bunlhaz maqulhaqulha.",
@@ -5545,6 +5531,20 @@
     "frequency": "詞頻：★(1)",
     "name": "baramban",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：厲聲責罵,大聲責備,亂吼亂叫",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban2_{1}_@_1.1.mp3",
+        "sentence": "antu thithu muririw, ata tu baramban!",
+        "zh_Hant": "他沒有錯，不要大聲責罵！"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "baramban",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/baramban2_{1}.mp3",
     "source": null
   },
   {
@@ -5927,20 +5927,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：灰塵",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul2_{1}_@_1.1.mp3",
-        "sentence": "ata sa pruq a bulbul tu finshiqii! matbulbul!",
-        "zh_Hant": "不要讓灰塵揚播，會蒙上灰塵！"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "bulbul",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：酒麴,麴母",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul1_{1}_@_1.1.mp3",
         "sentence": "ya kmalawa sa bulbul antu mararabaza.",
@@ -5950,6 +5936,20 @@
     "frequency": "詞頻：★(4)",
     "name": "bulbul",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：灰塵",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul2_{1}_@_1.1.mp3",
+        "sentence": "ata sa pruq a bulbul tu finshiqii! matbulbul!",
+        "zh_Hant": "不要讓灰塵揚播，會蒙上灰塵！"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "bulbul",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/bulbul2_{1}.mp3",
     "source": null
   },
   {
@@ -7229,20 +7229,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：植物名稱",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "falhaan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/falhaan2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：肋骨,排骨",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/falhaan1_{1}_@_1.1.mp3",
         "sentence": "amafariw yaku sa fafuy a falhaan, apintatan ina.",
@@ -7252,6 +7238,20 @@
     "frequency": "詞頻：★(1)",
     "name": "falhaan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/falhaan1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：植物名稱",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "falhaan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/falhaan2_{1}.mp3",
     "source": null
   },
   {
@@ -8245,20 +8245,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：魚膘,使魚能上下浮沈的器官",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi2_{1}_@_1.1.mp3",
-        "sentence": "rusaw a fulhashi palhbaha sa rusaw.",
-        "zh_Hant": "魚鰾使魚浮起來。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "fulhashi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：水泡,膿包",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi1_{1}_@_1.1.mp3",
         "sentence": "azazak a rima ianan fulhashi, inishwuaqan painan.",
@@ -8268,6 +8254,20 @@
     "frequency": "詞頻：★(2)",
     "name": "fulhashi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：魚膘,使魚能上下浮沈的器官",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi2_{1}_@_1.1.mp3",
+        "sentence": "rusaw a fulhashi palhbaha sa rusaw.",
+        "zh_Hant": "魚鰾使魚浮起來。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "fulhashi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/fulhashi2_{1}.mp3",
     "source": null
   },
   {
@@ -8329,20 +8329,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：綁束,縳束",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh2_{1}_@_1.1.mp3",
-        "sentence": "haya wa minabuut futulhiza.",
-        "zh_Hant": "稻稈已經綑束好了。"
-      }
-    ],
-    "frequency": "詞頻：★(6)",
-    "name": "futulh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：弓,弓板",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh1_{1}_@_1.1.mp3",
         "sentence": "ama kmathu sa atu, futulh numa lhpazishan, amutusi hudun muribush.",
@@ -8352,6 +8338,20 @@
     "frequency": "詞頻：★(6)",
     "name": "futulh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：綁束,縳束",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh2_{1}_@_1.1.mp3",
+        "sentence": "haya wa minabuut futulhiza.",
+        "zh_Hant": "稻稈已經綑束好了。"
+      }
+    ],
+    "frequency": "詞頻：★(6)",
+    "name": "futulh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/futulh2_{1}.mp3",
     "source": null
   },
   {
@@ -9556,15 +9556,21 @@
   {
     "examples": [
       {
-        "description": "解釋1：床,與laqup為同義詞",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan3_{1}_@_1.1.mp3",
-        "sentence": "naak a azazak isa ianan malhus.",
-        "zh_Hant": "我的孩子在床上睡覺。"
+        "description": "解釋1：存在,有",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan1_{1}_@_1.1.mp3",
+        "sentence": "mihu a matha ianan thau a bahi.",
+        "zh_Hant": "你的眼裡有人影。"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★★★★(246)",
     "name": "ianan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan1_{1}.mp3",
     "source": null
   },
   {
@@ -9584,21 +9590,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：存在,有",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan1_{1}_@_1.1.mp3",
-        "sentence": "mihu a matha ianan thau a bahi.",
-        "zh_Hant": "你的眼裡有人影。"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
+        "description": "解釋1：床,與laqup為同義詞",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan3_{1}_@_1.1.mp3",
+        "sentence": "naak a azazak isa ianan malhus.",
+        "zh_Hant": "我的孩子在床上睡覺。"
       }
     ],
     "frequency": "詞頻：★★★★(246)",
     "name": "ianan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/ianan3_{1}.mp3",
     "source": null
   },
   {
@@ -13129,20 +13129,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：胰臟,台語稱為腰尺,不同於腎臟",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan3_{1}_@_1.1.mp3",
-        "sentence": "fafuy a kaklishan mathuaw mara'in ya mat sisi.",
-        "zh_Hant": "豬的胰臟比羊還大。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "kaklishan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：一種長方形的磨石",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan1_{1}_@_1.1.mp3",
         "sentence": "kahiwan a thau ya matarithtith sa funush, pasain thithu kaklishan mrapath.",
@@ -13166,6 +13152,20 @@
     "frequency": "詞頻：★(3)",
     "name": "kaklishan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：胰臟,台語稱為腰尺,不同於腎臟",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan3_{1}_@_1.1.mp3",
+        "sentence": "fafuy a kaklishan mathuaw mara'in ya mat sisi.",
+        "zh_Hant": "豬的胰臟比羊還大。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "kaklishan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kaklishan3_{1}.mp3",
     "source": null
   },
   {
@@ -15409,20 +15409,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：明顯",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "kazash",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kazash2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：儀式,傳統禮儀",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kazash1_{1}_@_1.1.mp3",
         "sentence": "tanatuqash mia'awan itan kmalawa mimparhaway a kazash.",
@@ -15432,6 +15418,20 @@
     "frequency": "詞頻：★(1)",
     "name": "kazash",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kazash1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：明顯",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "kazash",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kazash2_{1}.mp3",
     "source": null
   },
   {
@@ -17187,20 +17187,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：香桂樹（樹名）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat2_{1}_@_1.1.mp3",
-        "sentence": "kizuat a kawi zain sa shpuut hiangkuy a kawi",
-        "zh_Hant": "「kizuat a kawi」平地人稱為香桂樹。"
-      }
-    ],
-    "frequency": "詞頻：★★ (14)",
-    "name": "kizuat",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：奇力魚（魚名）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat1_{1}_@_1.1.mp3",
         "sentence": "kizuat ya puqayzu'an mathuaw maqitan akanin.",
@@ -17210,6 +17196,20 @@
     "frequency": "詞頻：★★ (14)",
     "name": "kizuat",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：香桂樹（樹名）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat2_{1}_@_1.1.mp3",
+        "sentence": "kizuat a kawi zain sa shpuut hiangkuy a kawi",
+        "zh_Hant": "「kizuat a kawi」平地人稱為香桂樹。"
+      }
+    ],
+    "frequency": "詞頻：★★ (14)",
+    "name": "kizuat",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/kizuat2_{1}.mp3",
     "source": null
   },
   {
@@ -21131,20 +21131,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：芝麻,昔時邵族人種芝麻自製麻油,取芝麻蒸熟搗爛即可擠壓出濃稠的麻油,平常用來拌飯煮菜",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz2_{1}_@_1.1.mp3",
-        "sentence": "ahiwan sa thau mashtay finshiq sa lhanaz.",
-        "zh_Hant": "從前邵族人家家都播種芝麻。 "
-      }
-    ],
-    "frequency": "詞頻：★★ (19)",
-    "name": "lhanaz",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：名字",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz1_{1}_@_1.1.mp3",
         "sentence": "zain naak a lhanaz Tian.",
@@ -21154,6 +21140,20 @@
     "frequency": "詞頻：★★ (19)",
     "name": "lhanaz",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：芝麻,昔時邵族人種芝麻自製麻油,取芝麻蒸熟搗爛即可擠壓出濃稠的麻油,平常用來拌飯煮菜",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz2_{1}_@_1.1.mp3",
+        "sentence": "ahiwan sa thau mashtay finshiq sa lhanaz.",
+        "zh_Hant": "從前邵族人家家都播種芝麻。 "
+      }
+    ],
+    "frequency": "詞頻：★★ (19)",
+    "name": "lhanaz",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhanaz2_{1}.mp3",
     "source": null
   },
   {
@@ -22339,20 +22339,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：船舵",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "lhizash",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhizash2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：羽翮（禽鳥賴以飛行的、長在雙翅和尾部的硬羽）",
         "pronounce": null,
         "sentence": null,
@@ -22362,6 +22348,20 @@
     "frequency": "詞頻：★(0)",
     "name": "lhizash",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhizash1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：船舵",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "lhizash",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhizash2_{1}.mp3",
     "source": null
   },
   {
@@ -22577,20 +22577,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：挑逗,逗弄,挑起事端（進行貌）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza2_{1}_@_1.1.mp3",
-        "sentence": "焦點：主事",
-        "zh_Hant": "他先逗弄我，所以我才生氣。"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "lhmaza",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza2_{1}.mp3",
-    "source": "lhaza"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：開始,首先,動工",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza1_{1}_@_1.1.mp3",
         "sentence": "焦點：主事",
@@ -22600,6 +22586,20 @@
     "frequency": "詞頻：★(10)",
     "name": "lhmaza",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza1_{1}.mp3",
+    "source": "lhaza"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：挑逗,逗弄,挑起事端（進行貌）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza2_{1}_@_1.1.mp3",
+        "sentence": "焦點：主事",
+        "zh_Hant": "他先逗弄我，所以我才生氣。"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "lhmaza",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lhmaza2_{1}.mp3",
     "source": "lhaza"
   },
   {
@@ -23569,20 +23569,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：樹木的材格,樹幹靠近中央部位,質地堅硬、不易腐朽的心材",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina2_{1}_@_1.1.mp3",
-        "sentence": "kawi ya itiza sa lina niza tu kbzawin sa kukulay kmaan.",
-        "zh_Hant": "樹幹如果有柴格時，就不會被蛀蟲吃光光了（蛀朽）。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(36)",
-    "name": "lina",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：項鍊（特別指「珠鍊」）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina1_{1}_@_1.1.mp3",
         "sentence": "shizuqin lina amaqa atauduu riqazan.",
@@ -23610,6 +23596,20 @@
     "frequency": "詞頻：★★★★(36)",
     "name": "lina",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：樹木的材格,樹幹靠近中央部位,質地堅硬、不易腐朽的心材",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina2_{1}_@_1.1.mp3",
+        "sentence": "kawi ya itiza sa lina niza tu kbzawin sa kukulay kmaan.",
+        "zh_Hant": "樹幹如果有柴格時，就不會被蛀蟲吃光光了（蛀朽）。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(36)",
+    "name": "lina",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/lina2_{1}.mp3",
     "source": null
   },
   {
@@ -29917,20 +29917,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：酒很醇厚",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin2_{1}_@_1.1.mp3",
-        "sentence": "haya wa qilha mathuaw maqmin.",
-        "zh_Hant": "這酒很醇厚."
-      }
-    ],
-    "frequency": "詞頻：★★ (19)",
-    "name": "maqmin",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：梅子",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin1_{1}_@_1.1.mp3",
         "sentence": "thithu shmishi sa maqmin a bangqir mathuaw sa maqmin matalinthakthak.",
@@ -29940,6 +29926,20 @@
     "frequency": "詞頻：★★ (19)",
     "name": "maqmin",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：酒很醇厚",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin2_{1}_@_1.1.mp3",
+        "sentence": "haya wa qilha mathuaw maqmin.",
+        "zh_Hant": "這酒很醇厚."
+      }
+    ],
+    "frequency": "詞頻：★★ (19)",
+    "name": "maqmin",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/maqmin2_{1}.mp3",
     "source": null
   },
   {
@@ -32058,6 +32058,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：清潔,清澈,乾淨（狀態）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw1_{1}_@_1.1.mp3",
+        "sentence": "mathuaw matilaw haya sazum, shduiza iqilhan.",
+        "zh_Hant": "這水很乾淨，可以喝。"
+      }
+    ],
+    "frequency": "詞頻：★★ (17)",
+    "name": "matilaw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：千,數詞,借自台語",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw2_{1}_@_1.1.mp3",
         "sentence": "naak a qnuan minturu a matilaw fariwin thithu.",
@@ -32073,20 +32087,6 @@
     "frequency": "詞頻：★★ (17)",
     "name": "matilaw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：清潔,清澈,乾淨（狀態）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw1_{1}_@_1.1.mp3",
-        "sentence": "mathuaw matilaw haya sazum, shduiza iqilhan.",
-        "zh_Hant": "這水很乾淨，可以喝。"
-      }
-    ],
-    "frequency": "詞頻：★★ (17)",
-    "name": "matilaw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/matilaw1_{1}.mp3",
     "source": null
   },
   {
@@ -57717,7 +57717,7 @@
     "examples": [],
     "frequency": "詞頻：★(0)",
     "name": "qtu-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/qtu-2_{1}.mp3",
+    "pronounce": null,
     "source": null
   },
   {
@@ -57731,7 +57731,7 @@
     "examples": [],
     "frequency": "詞頻：★(0)",
     "name": "qtu-",
-    "pronounce": null,
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/qtu-2_{1}.mp3",
     "source": null
   },
   {
@@ -61508,20 +61508,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：臉,面",
-        "pronounce": null,
-        "sentence": "haya wa thau a shaqish maqa mapuzipuzi, panshizan painan.",
-        "zh_Hant": "那個人的臉白白的，可能有病。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(81)",
-    "name": "shaqish",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/shaqish1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：縫（命令）",
         "pronounce": null,
         "sentence": "shaqish ihu naak sasuakun!",
@@ -61531,6 +61517,20 @@
     "frequency": "詞頻：★★★★(81)",
     "name": "shaqish",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：臉,面",
+        "pronounce": null,
+        "sentence": "haya wa thau a shaqish maqa mapuzipuzi, panshizan painan.",
+        "zh_Hant": "那個人的臉白白的，可能有病。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(81)",
+    "name": "shaqish",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ssf/shaqish1_{1}.mp3",
     "source": null
   },
   {

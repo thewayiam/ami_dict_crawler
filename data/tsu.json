@@ -9241,20 +9241,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：打破",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "eh'ʉtʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eh'xtx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：說開;說破",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eh'xtx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：言談",
@@ -9269,15 +9255,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：說",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eha'o2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：言談",
-        "zh_Hant": "你說話時溫和一點"
+        "description": "解釋1：打破",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★(2)",
-    "name": "eha'o",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eha'o2_{1}.mp3",
+    "name": "eh'ʉtʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eh'xtx2_{1}.mp3",
     "source": null
   },
   {
@@ -9292,6 +9278,20 @@
     "frequency": "詞頻：★(2)",
     "name": "eha'o",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eha'o1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：說",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eha'o2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：言談",
+        "zh_Hant": "你說話時溫和一點"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "eha'o",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/eha'o2_{1}.mp3",
     "source": null
   },
   {
@@ -9697,6 +9697,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：找到",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我已找到正確的路"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "elʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：聞到",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx2_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：感知動詞",
@@ -9713,20 +9727,6 @@
     "frequency": "詞頻：★(4)",
     "name": "elʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：找到",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我已找到正確的路"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "elʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/elx1_{1}.mp3",
     "source": null
   },
   {
@@ -10424,20 +10424,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：抽很久",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我抽煙抽很久了"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "ena'o",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：講話久長",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -10447,6 +10433,20 @@
     "frequency": "詞頻：★(2)",
     "name": "ena'o",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：抽很久",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我抽煙抽很久了"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "ena'o",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ena'o2_{1}.mp3",
     "source": null
   },
   {
@@ -10515,20 +10515,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：相當",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "tanivu她相當漂亮"
-      }
-    ],
-    "frequency": "詞頻：★★★(28)",
-    "name": "engha",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：讀;唸",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：受事",
@@ -10538,6 +10524,20 @@
     "frequency": "詞頻：★★★(28)",
     "name": "engha",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：相當",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "tanivu她相當漂亮"
+      }
+    ],
+    "frequency": "詞頻：★★★(28)",
+    "name": "engha",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engha2_{1}.mp3",
     "source": null
   },
   {
@@ -10667,20 +10667,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：拿得少",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我拿一些我要煮的菜"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "engzotʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：話說得少",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -10690,6 +10676,20 @@
     "frequency": "詞頻：★(2)",
     "name": "engzotʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：拿得少",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我拿一些我要煮的菜"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "engzotʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/engzotx2_{1}.mp3",
     "source": null
   },
   {
@@ -15216,6 +15216,20 @@
     "examples": [
       {
         "description": "解釋1：各自",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "他們各自抓到山豬."
+      }
+    ],
+    "frequency": "詞頻：★(6)",
+    "name": "ianan'ou",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：各自",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou2_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
         "zh_Hant": "咱們各做各的"
@@ -15231,20 +15245,6 @@
     "frequency": "詞頻：★(6)",
     "name": "ianan'ou",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：各自",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "他們各自抓到山豬."
-      }
-    ],
-    "frequency": "詞頻：★(6)",
-    "name": "ianan'ou",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/ianan'ou1_{1}.mp3",
     "source": null
   },
   {
@@ -16192,20 +16192,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：尊敬",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "koe'i",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/koe'i2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：害羞, 慚愧",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/koe'i1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -16215,6 +16201,20 @@
     "frequency": "詞頻：★(2)",
     "name": "koe'i",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/koe'i1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：尊敬",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "koe'i",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/koe'i2_{1}.mp3",
     "source": null
   },
   {
@@ -20588,20 +20588,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：打九次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
-        "zh_Hant": "他竟然打狗打了九次"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "mahsiohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：說,喊,叫唱九節或唱九次",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -20625,6 +20611,20 @@
     "frequency": "詞頻：★(5)",
     "name": "mahsiohʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：打九次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
+        "zh_Hant": "他竟然打狗打了九次"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "mahsiohʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsiohx3_{1}.mp3",
     "source": null
   },
   {
@@ -20672,20 +20672,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：射殺四次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "開槍的人對山豬射了四次"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "mahsospotʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：說,喊,叫,唱四次,唱四節",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -20695,6 +20681,20 @@
     "frequency": "詞頻：★(3)",
     "name": "mahsospotʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：射殺四次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "開槍的人對山豬射了四次"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "mahsospotʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahsospotx2_{1}.mp3",
     "source": null
   },
   {
@@ -20798,20 +20798,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：射殺三次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": " 'avai對著飛鼠射了三次"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "mahtoteuhu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：說,喊,唱,叫三次或三節",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -20821,6 +20807,20 @@
     "frequency": "詞頻：★(4)",
     "name": "mahtoteuhu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：射殺三次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": " 'avai對著飛鼠射了三次"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "mahtoteuhu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mahtoteuhu2_{1}.mp3",
     "source": null
   },
   {
@@ -21709,20 +21709,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：竟然想要",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我竟然想到要看爺爺"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "maololʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：竟然會想到",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：情緒",
@@ -21732,6 +21718,20 @@
     "frequency": "詞頻：★(4)",
     "name": "maololʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：竟然想要",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我竟然想到要看爺爺"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "maololʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/maololx2_{1}.mp3",
     "source": null
   },
   {
@@ -22394,15 +22394,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：打五次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "他打了小孩五次"
+        "description": "解釋1：唱五節,唱五次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
+        "zh_Hant": "Lalingi我們來唱五節"
       }
     ],
     "frequency": "詞頻：★(4)",
     "name": "mateoemohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx1_{1}.mp3",
     "source": null
   },
   {
@@ -22422,15 +22422,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：唱五節,唱五次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
-        "zh_Hant": "Lalingi我們來唱五節"
+        "description": "解釋1：打五次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "他打了小孩五次"
       }
     ],
     "frequency": "詞頻：★(4)",
     "name": "mateoemohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateoemohx3_{1}.mp3",
     "source": null
   },
   {
@@ -22506,15 +22506,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：打六次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "他打那隻狗打六次"
+        "description": "解釋1：穿六層;唱六節;唱六次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
+        "zh_Hant": "我們來唱六節戰歌"
       }
     ],
     "frequency": "詞頻：★(3)",
     "name": "mateononmʉhʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx1_{1}.mp3",
     "source": null
   },
   {
@@ -22534,15 +22534,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：穿六層;唱六節;唱六次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
-        "zh_Hant": "我們來唱六節戰歌"
+        "description": "解釋1：打六次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "他打那隻狗打六次"
       }
     ],
     "frequency": "詞頻：★(3)",
     "name": "mateononmʉhʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateononmxhx3_{1}.mp3",
     "source": null
   },
   {
@@ -22576,20 +22576,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：打七次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "他打那隻狗打七次"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "mateopoptuhu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：唱七節,唱七次",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -22613,6 +22599,20 @@
     "frequency": "詞頻：★(3)",
     "name": "mateopoptuhu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：打七次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "他打那隻狗打七次"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "mateopoptuhu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/mateopoptuhu3_{1}.mp3",
     "source": null
   },
   {
@@ -22646,20 +22646,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：射十次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我帶了可以射十次的子彈."
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "matmaskʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：唱十節,唱十次",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -22669,6 +22655,20 @@
     "frequency": "詞頻：★(2)",
     "name": "matmaskʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：射十次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我帶了可以射十次的子彈."
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "matmaskʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matmaskx2_{1}.mp3",
     "source": null
   },
   {
@@ -22714,15 +22714,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：打兩次",
-        "pronounce": null,
+        "description": "解釋1：唱兩次,唱兩節",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": null
+        "zh_Hant": "miome請唱兩次"
       }
     ],
     "frequency": "詞頻：★(3)",
     "name": "matpopsohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx1_{1}.mp3",
     "source": null
   },
   {
@@ -22742,29 +22742,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：唱兩次,唱兩節",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "miome請唱兩次"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "matpopsohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：再打",
+        "description": "解釋1：打兩次",
         "pronounce": null,
         "sentence": "詞類：動詞　焦點：主事",
         "zh_Hant": null
       }
     ],
-    "frequency": "詞頻：★(5)",
-    "name": "matvaho",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaho4_{1}.mp3",
+    "frequency": "詞頻：★(3)",
+    "name": "matpopsohʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matpopsohx3_{1}.mp3",
     "source": null
   },
   {
@@ -22812,29 +22798,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：重複地打",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei3_{1}_@_1.1.mp3",
+        "description": "解釋1：再打",
+        "pronounce": null,
         "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "Pasuya重複地打"
+        "zh_Hant": null
       }
     ],
-    "frequency": "詞頻：★(4)",
-    "name": "matvaveivei",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：重複地射擊",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "那些人為什麼射那麼多次?"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "matvaveivei",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei2_{1}.mp3",
+    "frequency": "詞頻：★(5)",
+    "name": "matvaho",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaho4_{1}.mp3",
     "source": null
   },
   {
@@ -22860,6 +22832,34 @@
   {
     "examples": [
       {
+        "description": "解釋1：重複地射擊",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "那些人為什麼射那麼多次?"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "matvaveivei",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：重複地打",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "Pasuya重複地打"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "matvaveivei",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveivei3_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：唱八次,唱八節",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveohx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：數字",
@@ -22869,20 +22869,6 @@
     "frequency": "詞頻：★(2)",
     "name": "matvaveohʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvaveohx1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：打八次",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvoveohx3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "打要打八次"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "matvoveohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvoveohx3_{1}.mp3",
     "source": null
   },
   {
@@ -22911,6 +22897,20 @@
     "frequency": "詞頻：★(3)",
     "name": "matvoveohʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvoveohx2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：打八次",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvoveohx3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "打要打八次"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "matvoveohʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/matvoveohx3_{1}.mp3",
     "source": null
   },
   {
@@ -23650,20 +23650,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：吹奏",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "我們鄒以前會吹鼻笛"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "meepeucu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：吹",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -23673,6 +23659,20 @@
     "frequency": "詞頻：★(5)",
     "name": "meepeucu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：吹奏",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "我們鄒以前會吹鼻笛"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "meepeucu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/meepeucu2_{1}.mp3",
     "source": null
   },
   {
@@ -31356,20 +31356,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：索取一半",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受事",
-        "zh_Hant": "我的香煙已經被年輕人要一半了"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "p'eatiska",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：造到一半",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：受事",
@@ -31379,6 +31365,20 @@
     "frequency": "詞頻：★(3)",
     "name": "p'eatiska",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：索取一半",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受事",
+        "zh_Hant": "我的香煙已經被年輕人要一半了"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "p'eatiska",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/p'eatiska2_{1}.mp3",
     "source": null
   },
   {
@@ -35811,13 +35811,6 @@
     "source": null
   },
   {
-    "examples": [],
-    "frequency": "詞頻：★(3)",
-    "name": "peesi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peesi_{1}.mp3",
-    "source": null
-  },
-  {
     "examples": [
       {
         "description": "解釋1：忌諱",
@@ -35829,6 +35822,13 @@
     "frequency": "詞頻：★(3)",
     "name": "peesi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peesi2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [],
+    "frequency": "詞頻：★(3)",
+    "name": "peesi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peesi_{1}.mp3",
     "source": null
   },
   {
@@ -36301,20 +36301,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：最後的掙扎",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peisnonx'x2_{1}_@_1.1.mp3",
-        "sentence": "micu c'o peisnonʉ'ʉ si fuzu.",
-        "zh_Hant": "那山豬已經在做最後的掙扎"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "peisnonʉ'ʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peisnonx'x2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鞠躬盡瘁",
         "pronounce": null,
         "sentence": "詞類：動詞　焦點：主事",
@@ -36324,6 +36310,20 @@
     "frequency": "詞頻：★(1)",
     "name": "peisnonʉ'ʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peisnonx'x1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：最後的掙扎",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peisnonx'x2_{1}_@_1.1.mp3",
+        "sentence": "micu c'o peisnonʉ'ʉ si fuzu.",
+        "zh_Hant": "那山豬已經在做最後的掙扎"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "peisnonʉ'ʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/peisnonx'x2_{1}.mp3",
     "source": null
   },
   {
@@ -42386,20 +42386,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：間歇性地下雨",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　範疇分類：天文自然(動)",
-        "zh_Hant": "昨天只是間歇性的下雨"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "smuasvʉtʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：雨有時下",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -42409,6 +42395,20 @@
     "frequency": "詞頻：★(2)",
     "name": "smuasvʉtʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：間歇性地下雨",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　範疇分類：天文自然(動)",
+        "zh_Hant": "昨天只是間歇性的下雨"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "smuasvʉtʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/smuasvxtx2_{1}.mp3",
     "source": null
   },
   {
@@ -43567,20 +43567,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：看來很大",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "擋在路上的那顆石頭看起來好大"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "someoisa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：最大",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -43590,6 +43576,20 @@
     "frequency": "詞頻：★(2)",
     "name": "someoisa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：看來很大",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "擋在路上的那顆石頭看起來好大"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "someoisa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/someoisa2_{1}.mp3",
     "source": null
   },
   {
@@ -46019,20 +46019,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：聽到何時",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "一直吵鬧要聽到何時?"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "taa'a'vi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：砍到何時",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -46042,6 +46028,20 @@
     "frequency": "詞頻：★(1)",
     "name": "taa'a'vi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：聽到何時",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "一直吵鬧要聽到何時?"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "taa'a'vi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taa'a'vi2_{1}.mp3",
     "source": null
   },
   {
@@ -47091,20 +47091,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：圓石",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "據說特富野Kuba的圓石是從天上來的"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "taucunu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：圓的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -47114,6 +47100,20 @@
     "frequency": "詞頻：★(5)",
     "name": "taucunu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：圓石",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "據說特富野Kuba的圓石是從天上來的"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "taucunu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/taucunu2_{1}.mp3",
     "source": null
   },
   {
@@ -49649,20 +49649,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：聽到了(聽人家說)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "我聽到不太好的事情(可能是喪事)"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "tmac'ʉhʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：砍至",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -49686,6 +49672,20 @@
     "frequency": "詞頻：★(3)",
     "name": "tmac'ʉhʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：聽到了(聽人家說)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "我聽到不太好的事情(可能是喪事)"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "tmac'ʉhʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmac'xhx3_{1}.mp3",
     "source": null
   },
   {
@@ -50174,20 +50174,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：就讀",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "Voyu還是讀書的學生"
-      }
-    ],
-    "frequency": "詞頻：★★★★(36)",
-    "name": "tmopsʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：唸書;寫字",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -50197,6 +50183,20 @@
     "frequency": "詞頻：★★★★(36)",
     "name": "tmopsʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：就讀",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "Voyu還是讀書的學生"
+      }
+    ],
+    "frequency": "詞頻：★★★★(36)",
+    "name": "tmopsʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tmopsx2_{1}.mp3",
     "source": null
   },
   {
@@ -51132,20 +51132,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：煮很久",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "煮飯煮得很久"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "toena'o",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：跑很久; 長跑",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -51155,6 +51141,20 @@
     "frequency": "詞頻：★(2)",
     "name": "toena'o",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：煮很久",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "煮飯煮得很久"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "toena'o",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/toena'o2_{1}.mp3",
     "source": null
   },
   {
@@ -52545,20 +52545,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：祈禱",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "鄒族人有事的時候都會先祈禱"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "topeohʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：向神祝禱",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -52568,6 +52554,20 @@
     "frequency": "詞頻：★(2)",
     "name": "topeohʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：祈禱",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "鄒族人有事的時候都會先祈禱"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "topeohʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/topeohx2_{1}.mp3",
     "source": null
   },
   {
@@ -52699,20 +52699,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：越過; 跨過",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我以後一定要跳得比他遠"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tosa'o",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：超越",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -52722,6 +52708,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tosa'o",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：越過; 跨過",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我以後一定要跳得比他遠"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tosa'o",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/tosa'o2_{1}.mp3",
     "source": null
   },
   {
@@ -55521,20 +55521,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：白茅",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：植物",
-        "zh_Hant": "以前大都用白茅蓋屋頂"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "veio",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：土蜂",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞　範疇分類：動物",
@@ -55544,6 +55530,20 @@
     "frequency": "詞頻：★(4)",
     "name": "veio",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：白茅",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：植物",
+        "zh_Hant": "以前大都用白茅蓋屋頂"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "veio",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/veio2_{1}.mp3",
     "source": null
   },
   {
@@ -57227,6 +57227,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：蟲",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi1_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "我種的菜快被蟲吃完了"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "yoi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：網子",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi2_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞　範疇分類：器具",
@@ -57242,20 +57256,6 @@
     "frequency": "詞頻：★(10)",
     "name": "yoi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：蟲",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi1_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "我種的菜快被蟲吃完了"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "yoi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yoi1_{1}.mp3",
     "source": null
   },
   {
@@ -58905,20 +58905,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：推翻",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "他生氣時翻桌"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "yufei'i",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：仰式游泳",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -58934,6 +58920,20 @@
     "frequency": "詞頻：★(3)",
     "name": "yufei'i",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：推翻",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "他生氣時翻桌"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "yufei'i",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yufei'i2_{1}.mp3",
     "source": null
   },
   {
@@ -60805,20 +60805,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：借到",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "我到商店借不少錢"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "yʉlʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：遇見",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -60828,6 +60814,20 @@
     "frequency": "詞頻：★(2)",
     "name": "yʉlʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：借到",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "我到商店借不少錢"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "yʉlʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/tsu/yxlx2_{1}.mp3",
     "source": null
   },
   {

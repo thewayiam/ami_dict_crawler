@@ -3346,20 +3346,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：本來就是",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca2_{1}_@_1.1.mp3",
-        "sentence": "maliyuh aca ci Bunuk aci Benel misalami'.",
-        "zh_Hant": "Bunuk 和 Benel 本來就不會煮菜。"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "aca",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：價錢",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca1_{1}_@_1.1.mp3",
         "sentence": "paaca kaku tu nialaan nu maku tu walay.",
@@ -3369,6 +3355,20 @@
     "frequency": "詞頻：★(10)",
     "name": "aca",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：本來就是",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca2_{1}_@_1.1.mp3",
+        "sentence": "maliyuh aca ci Bunuk aci Benel misalami'.",
+        "zh_Hant": "Bunuk 和 Benel 本來就不會煮菜。"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "aca",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/aca2_{1}.mp3",
     "source": null
   },
   {
@@ -3990,20 +3990,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：便宜",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'2_{1}_@_1.1.mp3",
-        "sentence": "ahemi' ku aca nu buting.",
-        "zh_Hant": "魚價很便宜。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "ahemi'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：軟；軟弱",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'1_{1}_@_1.1.mp3",
         "sentence": "ahemi' kina lala'.",
@@ -4013,6 +3999,20 @@
     "frequency": "詞頻：★(4)",
     "name": "ahemi'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：便宜",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'2_{1}_@_1.1.mp3",
+        "sentence": "ahemi' ku aca nu buting.",
+        "zh_Hant": "魚價很便宜。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "ahemi'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ahemi'2_{1}.mp3",
     "source": null
   },
   {
@@ -4500,20 +4500,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：戒掉",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "ales-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ales-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：放棄",
         "pronounce": null,
         "sentence": null,
@@ -4523,6 +4509,20 @@
     "frequency": "詞頻：★(0)",
     "name": "ales-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ales-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：戒掉",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "ales-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/ales-2_{1}.mp3",
     "source": null
   },
   {
@@ -6126,20 +6126,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：唸",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "asip-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asip-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：算",
         "pronounce": null,
         "sentence": null,
@@ -6149,6 +6135,20 @@
     "frequency": "詞頻：★(0)",
     "name": "asip-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asip-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：唸",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "asip-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asip-2_{1}.mp3",
     "source": null
   },
   {
@@ -6182,20 +6182,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：營養的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay2_{1}_@_1.1.mp3",
-        "sentence": "matumes nu asu'ay.",
-        "zh_Hant": "營養豐富。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "asu'ay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay2_{1}.mp3",
-    "source": "asu'"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：好吃的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay1_{1}_@_1.1.mp3",
         "sentence": "u asu'ay ku paza' a kanen.",
@@ -6205,6 +6191,20 @@
     "frequency": "詞頻：★(5)",
     "name": "asu'ay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay1_{1}.mp3",
+    "source": "asu'"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：營養的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay2_{1}_@_1.1.mp3",
+        "sentence": "matumes nu asu'ay.",
+        "zh_Hant": "營養豐富。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "asu'ay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/asu'ay2_{1}.mp3",
     "source": "asu'"
   },
   {
@@ -7721,20 +7721,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：空氣",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bali1_{1}_@_1.1.mp3",
-        "sentence": "u sakauzip ita ku bali.",
-        "zh_Hant": "我們靠空氣生存。"
-      }
-    ],
-    "frequency": "詞頻：★(10)",
-    "name": "bali",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bali1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：風",
         "pronounce": null,
         "sentence": "u bali han ku pasaungayay tu pahpah nu kilang.",
@@ -7744,6 +7730,20 @@
     "frequency": "詞頻：★(10)",
     "name": "bali",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：空氣",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bali1_{1}_@_1.1.mp3",
+        "sentence": "u sakauzip ita ku bali.",
+        "zh_Hant": "我們靠空氣生存。"
+      }
+    ],
+    "frequency": "詞頻：★(10)",
+    "name": "bali",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bali1_{1}.mp3",
     "source": null
   },
   {
@@ -8357,20 +8357,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：泛稱各種蛇",
-        "pronounce": null,
-        "sentence": "u sasiledekay ku kakuhkuh a bawu.",
-        "zh_Hant": "眼鏡蛇是最毒的蛇。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "bawu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bawu1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：泛稱各種蟲",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bawu2_{1}_@_1.1.mp3",
         "sentence": "kakayiyan nu maku a bawu nu luma' sa mingahulay tu cuked u aayad atu engid.",
@@ -8380,6 +8366,20 @@
     "frequency": "詞頻：★(7)",
     "name": "bawu",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：泛稱各種蛇",
+        "pronounce": null,
+        "sentence": "u sasiledekay ku kakuhkuh a bawu.",
+        "zh_Hant": "眼鏡蛇是最毒的蛇。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "bawu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/bawu1_{1}.mp3",
     "source": null
   },
   {
@@ -10207,20 +10207,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：一致",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★★ (16)",
-    "name": "cacay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cacay2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：一個",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cacay1_{1}_@_1.1.mp3",
         "sentence": "cacay ku luma' i buyu' ni Panay.",
@@ -10230,6 +10216,20 @@
     "frequency": "詞頻：★★ (16)",
     "name": "cacay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cacay1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：一致",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★★ (16)",
+    "name": "cacay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cacay2_{1}.mp3",
     "source": null
   },
   {
@@ -10843,20 +10843,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：在盤中挑菜",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "cawcaw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cawcaw2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：玩水的動作",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cawcaw1_{1}_@_1.1.mp3",
         "sentence": "hina cawcaw kina wawa anu mililuc.",
@@ -10866,6 +10852,20 @@
     "frequency": "詞頻：★(1)",
     "name": "cawcaw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cawcaw1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：在盤中挑菜",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "cawcaw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/cawcaw2_{1}.mp3",
     "source": null
   },
   {
@@ -13199,20 +13199,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：傳統古屋，無鐵釘",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika2_{1}_@_1.1.mp3",
-        "sentence": "nayay ku pacek a luma' dika han nu babalaki.",
-        "zh_Hant": "沒有鐵釘的房子叫做 dika。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "dika",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：野桐",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika1_{1}_@_1.1.mp3",
         "sentence": "kalukasuy ku dika.",
@@ -13222,6 +13208,20 @@
     "frequency": "詞頻：★(1)",
     "name": "dika",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：傳統古屋，無鐵釘",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika2_{1}_@_1.1.mp3",
+        "sentence": "nayay ku pacek a luma' dika han nu babalaki.",
+        "zh_Hant": "沒有鐵釘的房子叫做 dika。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "dika",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/dika2_{1}.mp3",
     "source": null
   },
   {
@@ -15261,20 +15261,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：脫",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "helung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/helung2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：山谷",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/helung1_{1}_@_1.1.mp3",
         "sentence": "kiyu miawaw kita tu helung sa mahiza tu uni piawaw nu helung i titanan.",
@@ -15284,6 +15270,20 @@
     "frequency": "詞頻：★(2)",
     "name": "helung",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/helung1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：脫",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "helung",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/helung2_{1}.mp3",
     "source": null
   },
   {
@@ -15359,20 +15359,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：要悶蓋（命令）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen2_{1}_@_1.1.mp3",
-        "sentence": "hemhemen ku hemay amana henay buhati!",
-        "zh_Hant": "飯剛煮熟不要開蓋先悶蓋！"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "hemhemen",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen2_{1}.mp3",
-    "source": "hemhem"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：要忍耐（命令）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen1_{1}_@_1.1.mp3",
         "sentence": "hemhemen ku pilikab nu tau!",
@@ -15382,6 +15368,20 @@
     "frequency": "詞頻：★(2)",
     "name": "hemhemen",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen1_{1}.mp3",
+    "source": "hemhem"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：要悶蓋（命令）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen2_{1}_@_1.1.mp3",
+        "sentence": "hemhemen ku hemay amana henay buhati!",
+        "zh_Hant": "飯剛煮熟不要開蓋先悶蓋！"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "hemhemen",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/hemhemen2_{1}.mp3",
     "source": "hemhem"
   },
   {
@@ -18779,20 +18779,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：說",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kamu2_{1}_@_1.1.mp3",
-        "sentence": "matulin musakamu tu kamu nu mita tawya caay ka pawan.",
-        "zh_Hant": "要常說我們的族語，才不會忘記。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(41)",
-    "name": "kamu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kamu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：你們（第二人稱複數主格）",
         "pronounce": null,
         "sentence": null,
@@ -18802,6 +18788,20 @@
     "frequency": "詞頻：★★★★(41)",
     "name": "kamu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kamu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：說",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kamu2_{1}_@_1.1.mp3",
+        "sentence": "matulin musakamu tu kamu nu mita tawya caay ka pawan.",
+        "zh_Hant": "要常說我們的族語，才不會忘記。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(41)",
+    "name": "kamu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kamu2_{1}.mp3",
     "source": null
   },
   {
@@ -20067,20 +20067,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：做媒",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay2_{1}_@_1.1.mp3",
-        "sentence": "u kayakay ni Taymu ci Amu.",
-        "zh_Hant": "Amu 是 Taymu 的媒人。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "kayakay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：爬（坡、樓梯等）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay1_{1}_@_1.1.mp3",
         "sentence": "kayakay tu buyu' a midungec.",
@@ -20090,6 +20076,20 @@
     "frequency": "詞頻：★(2)",
     "name": "kayakay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：做媒",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay2_{1}_@_1.1.mp3",
+        "sentence": "u kayakay ni Taymu ci Amu.",
+        "zh_Hant": "Amu 是 Taymu 的媒人。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "kayakay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/kayakay2_{1}.mp3",
     "source": null
   },
   {
@@ -24738,20 +24738,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：洗禮",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "liluc-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/liluc-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：洗澡",
         "pronounce": null,
         "sentence": null,
@@ -24761,6 +24747,20 @@
     "frequency": "詞頻：★(0)",
     "name": "liluc-",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：洗禮",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "liluc-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/liluc-2_{1}.mp3",
     "source": null
   },
   {
@@ -31167,20 +31167,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：連續的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday2_{1}_@_1.1.mp3",
-        "sentence": "malaliday ku udad nu benelan.",
-        "zh_Hant": "梅雨季節的時候雨下個不停。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "malaliday",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday2_{1}.mp3",
-    "source": "lalid "
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：被傳染的；會傳染",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday1_{1}_@_1.1.mp3",
         "sentence": "u malaliday nu libung ci Benel.",
@@ -31190,6 +31176,20 @@
     "frequency": "詞頻：★(2)",
     "name": "malaliday",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday1_{1}.mp3",
+    "source": "lalid "
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：連續的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday2_{1}_@_1.1.mp3",
+        "sentence": "malaliday ku udad nu benelan.",
+        "zh_Hant": "梅雨季節的時候雨下個不停。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "malaliday",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/malaliday2_{1}.mp3",
     "source": "lalid "
   },
   {
@@ -37828,20 +37828,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：辭去",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales2_{1}_@_1.1.mp3",
-        "sentence": "焦點：主事",
-        "zh_Hant": "我辭掉了護理的工作。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "miales",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales2_{1}.mp3",
-    "source": "ales-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：戒掉",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales1_{1}_@_1.1.mp3",
         "sentence": "焦點：主事",
@@ -37851,6 +37837,20 @@
     "frequency": "詞頻：★(2)",
     "name": "miales",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales1_{1}.mp3",
+    "source": "ales-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：辭去",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales2_{1}_@_1.1.mp3",
+        "sentence": "焦點：主事",
+        "zh_Hant": "我辭掉了護理的工作。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "miales",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miales2_{1}.mp3",
     "source": "ales-"
   },
   {
@@ -38066,20 +38066,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：在讀；在念",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip2_{1}_@_1.1.mp3",
-        "sentence": "miasip kaku tu cudad.",
-        "zh_Hant": "我在念書。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "miasip",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip2_{1}.mp3",
-    "source": "asip-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：正在算",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip1_{1}_@_1.1.mp3",
         "sentence": "焦點：主事",
@@ -38089,6 +38075,20 @@
     "frequency": "詞頻：★(2)",
     "name": "miasip",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip1_{1}.mp3",
+    "source": "asip-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：在讀；在念",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip2_{1}_@_1.1.mp3",
+        "sentence": "miasip kaku tu cudad.",
+        "zh_Hant": "我在念書。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "miasip",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/miasip2_{1}.mp3",
     "source": "asip-"
   },
   {
@@ -39284,20 +39284,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：在盤中挑菜",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "micawcaw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micawcaw2_{1}.mp3",
-    "source": "cawcaw"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：在玩水",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micawcaw1_{1}_@_1.1.mp3",
         "sentence": "焦點：主事",
@@ -39307,6 +39293,20 @@
     "frequency": "詞頻：★(1)",
     "name": "micawcaw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micawcaw1_{1}.mp3",
+    "source": "cawcaw"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：在盤中挑菜",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "micawcaw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micawcaw2_{1}.mp3",
     "source": "cawcaw"
   },
   {
@@ -39452,20 +39452,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：吸取",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micepcep2_{1}_@_1.1.mp3",
-        "sentence": "焦點：主事",
-        "zh_Hant": "水蛭在他的腳上吸血。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "micepcep",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micepcep2_{1}.mp3",
-    "source": "cepcep"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：親吻",
         "pronounce": null,
         "sentence": "amana paceba micepcep tu lutungay.",
@@ -39475,6 +39461,20 @@
     "frequency": "詞頻：★(2)",
     "name": "micepcep",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micepcep1_{1}.mp3",
+    "source": "cepcep"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：吸取",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micepcep2_{1}_@_1.1.mp3",
+        "sentence": "焦點：主事",
+        "zh_Hant": "水蛭在他的腳上吸血。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "micepcep",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/micepcep2_{1}.mp3",
     "source": "cepcep"
   },
   {
@@ -42448,20 +42448,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：在搬運的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday2_{1}_@_1.1.mp3",
-        "sentence": "u mililiday ci Hani tu takenip.",
-        "zh_Hant": "Hani是抬棺木的人。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "mililiday",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday2_{1}.mp3",
-    "source": "lilid-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：在引領的；領導者",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday1_{1}_@_1.1.mp3",
         "sentence": "u mililiday ci Hani tu niyazu'.",
@@ -42471,6 +42457,20 @@
     "frequency": "詞頻：★(3)",
     "name": "mililiday",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday1_{1}.mp3",
+    "source": "lilid-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：在搬運的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday2_{1}_@_1.1.mp3",
+        "sentence": "u mililiday ci Hani tu takenip.",
+        "zh_Hant": "Hani是抬棺木的人。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "mililiday",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mililiday2_{1}.mp3",
     "source": "lilid-"
   },
   {
@@ -42798,20 +42798,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：因為心裡害怕或者感覺很冷而發抖",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/milmil1_{1}_@_1.1.mp3",
-        "sentence": "milmil sa ciniza tu sienaw.",
-        "zh_Hant": "他因為冷而發抖。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "milmil",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/milmil1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：在成堆的東西中挑選的動作",
         "pronounce": null,
         "sentence": "milmil sa ciniza mipili' tu cacakayen a zikuc.",
@@ -42821,6 +42807,20 @@
     "frequency": "詞頻：★(3)",
     "name": "milmil",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：因為心裡害怕或者感覺很冷而發抖",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/milmil1_{1}_@_1.1.mp3",
+        "sentence": "milmil sa ciniza tu sienaw.",
+        "zh_Hant": "他因為冷而發抖。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "milmil",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/milmil1_{1}.mp3",
     "source": null
   },
   {
@@ -43188,20 +43188,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：治療",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay2_{1}_@_1.1.mp3",
-        "sentence": "tayza i padekuwan mingaay tu imelang.",
-        "zh_Hant": "去醫院治療疾病。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "mingaay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay2_{1}.mp3",
-    "source": "ngaay-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：在煮",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay1_{1}_@_1.1.mp3",
         "sentence": "mingaay ku wasulu tu lami'.",
@@ -43211,6 +43197,20 @@
     "frequency": "詞頻：★(3)",
     "name": "mingaay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay1_{1}.mp3",
+    "source": "ngaay-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：治療",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay2_{1}_@_1.1.mp3",
+        "sentence": "tayza i padekuwan mingaay tu imelang.",
+        "zh_Hant": "去醫院治療疾病。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "mingaay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/mingaay2_{1}.mp3",
     "source": "ngaay-"
   },
   {
@@ -44116,20 +44116,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：潛水",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem2_{1}_@_1.1.mp3",
-        "sentence": "misacelecelem ci Putal i nanum miazih tu buting.",
-        "zh_Hant": "Putal 潛進水裡去看魚。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "misacelecelem",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem2_{1}.mp3",
-    "source": "celem-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：太陽西沉",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem1_{1}_@_1.1.mp3",
         "sentence": "misacelecelem tu ku demiad a duut tu a taluma' tu.",
@@ -44139,6 +44125,20 @@
     "frequency": "詞頻：★(3)",
     "name": "misacelecelem",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem1_{1}.mp3",
+    "source": "celem-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：潛水",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem2_{1}_@_1.1.mp3",
+        "sentence": "misacelecelem ci Putal i nanum miazih tu buting.",
+        "zh_Hant": "Putal 潛進水裡去看魚。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "misacelecelem",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/misacelecelem2_{1}.mp3",
     "source": "celem-"
   },
   {
@@ -51621,20 +51621,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：表面功夫",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan2_{1}_@_1.1.mp3",
-        "sentence": "amana kau nuhekalan dada' ku pisakakawaw.",
-        "zh_Hant": "作任何事，別只作表面功夫。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "nuhekalan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan2_{1}.mp3",
-    "source": "hekal"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：外面用的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan1_{1}_@_1.1.mp3",
         "sentence": "nuhekalan ku kebutulay a zikuc i kasienawan.",
@@ -51644,6 +51630,20 @@
     "frequency": "詞頻：★(2)",
     "name": "nuhekalan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan1_{1}.mp3",
+    "source": "hekal"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：表面功夫",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan2_{1}_@_1.1.mp3",
+        "sentence": "amana kau nuhekalan dada' ku pisakakawaw.",
+        "zh_Hant": "作任何事，別只作表面功夫。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "nuhekalan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/nuhekalan2_{1}.mp3",
     "source": "hekal"
   },
   {
@@ -55639,20 +55639,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：去幫忙搬",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden2_{1}_@_1.1.mp3",
-        "sentence": "paliliden ci Benel a mihuwad tu ciyak!",
-        "zh_Hant": "去幫Benel搬西瓜！"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "paliliden",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden2_{1}.mp3",
-    "source": "lilid-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：要同意",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden1_{1}_@_1.1.mp3",
         "sentence": "paliliden ku nu katuuday a kakawaw!",
@@ -55662,6 +55648,20 @@
     "frequency": "詞頻：★(2)",
     "name": "paliliden",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden1_{1}.mp3",
+    "source": "lilid-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：去幫忙搬",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden2_{1}_@_1.1.mp3",
+        "sentence": "paliliden ci Benel a mihuwad tu ciyak!",
+        "zh_Hant": "去幫Benel搬西瓜！"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "paliliden",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/paliliden2_{1}.mp3",
     "source": "lilid-"
   },
   {
@@ -55695,20 +55695,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：受洗過的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan2_{1}_@_1.1.mp3",
-        "sentence": "ni palilucan tu kaku i Cihabayan a kiwkay.",
-        "zh_Hant": "我已在中興部落教會受洗過。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "palilucan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan2_{1}.mp3",
-    "source": "liluc-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：在幫（某人）洗澡",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan1_{1}_@_1.1.mp3",
         "sentence": "palilucan ni Panay ku imelangay a ina.",
@@ -55724,6 +55710,20 @@
     "frequency": "詞頻：★(3)",
     "name": "palilucan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan1_{1}.mp3",
+    "source": "liluc-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：受洗過的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan2_{1}_@_1.1.mp3",
+        "sentence": "ni palilucan tu kaku i Cihabayan a kiwkay.",
+        "zh_Hant": "我已在中興部落教會受洗過。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "palilucan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/palilucan2_{1}.mp3",
     "source": "liluc-"
   },
   {
@@ -56323,20 +56323,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：預備用來受洗的地方",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan2_{1}_@_1.1.mp3",
-        "sentence": "papalilucan tu salikaka nu kiwkay kina alangahay.",
-        "zh_Hant": "這條河流是教會讓信徒受洗的地方。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "papalilucan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan2_{1}.mp3",
-    "source": "liluc-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：預備用來洗澡的地方",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan1_{1}_@_1.1.mp3",
         "sentence": "papalilucan tu katalalan kina taku.",
@@ -56346,6 +56332,20 @@
     "frequency": "詞頻：★(2)",
     "name": "papalilucan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan1_{1}.mp3",
+    "source": "liluc-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：預備用來受洗的地方",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan2_{1}_@_1.1.mp3",
+        "sentence": "papalilucan tu salikaka nu kiwkay kina alangahay.",
+        "zh_Hant": "這條河流是教會讓信徒受洗的地方。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "papalilucan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/papalilucan2_{1}.mp3",
     "source": "liluc-"
   },
   {
@@ -67697,20 +67697,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：有意願",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'2_{1}_@_1.1.mp3",
-        "sentence": "sibalucu' kaku a micakay tiya zikuc.",
-        "zh_Hant": "我想要買那件衣服。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "sibalucu'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：有情有義",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'1_{1}_@_1.1.mp3",
         "sentence": "sibalucu' ci Tubah tu sakicabay a kakawaw.",
@@ -67720,6 +67706,20 @@
     "frequency": "詞頻：★(3)",
     "name": "sibalucu'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：有意願",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'2_{1}_@_1.1.mp3",
+        "sentence": "sibalucu' kaku a micakay tiya zikuc.",
+        "zh_Hant": "我想要買那件衣服。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "sibalucu'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/sibalucu'2_{1}.mp3",
     "source": null
   },
   {
@@ -73403,20 +73403,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：試驗",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/taneng2_{1}_@_1.1.mp3",
-        "sentence": "taneng sa kaku a sicukap sa adidi'.",
-        "zh_Hant": "我心血來潮去試穿鞋子結果太小了。"
-      }
-    ],
-    "frequency": "詞頻：★★ (13)",
-    "name": "taneng",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/taneng2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：足以",
         "pronounce": null,
         "sentence": "caay ka taneng.",
@@ -73426,6 +73412,20 @@
     "frequency": "詞頻：★★ (13)",
     "name": "taneng",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：試驗",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/taneng2_{1}_@_1.1.mp3",
+        "sentence": "taneng sa kaku a sicukap sa adidi'.",
+        "zh_Hant": "我心血來潮去試穿鞋子結果太小了。"
+      }
+    ],
+    "frequency": "詞頻：★★ (13)",
+    "name": "taneng",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/taneng2_{1}.mp3",
     "source": null
   },
   {
@@ -74527,20 +74527,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：權力",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus2_{1}_@_1.1.mp3",
-        "sentence": "ci Putal ku ci tatungus tu kawaw nu niyazu'.",
-        "zh_Hant": "Putal對部落的事務掌有權力。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "tatungus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus2_{1}.mp3",
-    "source": "tungus  "
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：剛剛好",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus1_{1}_@_1.1.mp3",
         "sentence": "tatungus sa ku nisanga'an nu maku tu tabi.",
@@ -74550,6 +74536,20 @@
     "frequency": "詞頻：★(3)",
     "name": "tatungus",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus1_{1}.mp3",
+    "source": "tungus  "
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：權力",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus2_{1}_@_1.1.mp3",
+        "sentence": "ci Putal ku ci tatungus tu kawaw nu niyazu'.",
+        "zh_Hant": "Putal對部落的事務掌有權力。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "tatungus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tatungus2_{1}.mp3",
     "source": "tungus  "
   },
   {
@@ -76807,20 +76807,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：回應；回答",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli2_{1}_@_1.1.mp3",
-        "sentence": "tubeli han tu ku kamu nu kayakay.",
-        "zh_Hant": "回答媒人的話。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tubeli",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：同意",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli1_{1}_@_1.1.mp3",
         "sentence": "tubeli han tu ita.",
@@ -76830,6 +76816,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tubeli",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：回應；回答",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli2_{1}_@_1.1.mp3",
+        "sentence": "tubeli han tu ku kamu nu kayakay.",
+        "zh_Hant": "回答媒人的話。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tubeli",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/tubeli2_{1}.mp3",
     "source": null
   },
   {
@@ -78759,20 +78759,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：安排",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "wanan-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/wanan-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：右",
         "pronounce": null,
         "sentence": null,
@@ -78782,6 +78768,20 @@
     "frequency": "詞頻：★(0)",
     "name": "wanan-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/wanan-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：安排",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "wanan-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ais/wanan-2_{1}.mp3",
     "source": null
   },
   {
