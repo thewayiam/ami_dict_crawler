@@ -3388,20 +3388,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：椿象",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw_{1}_@_1.1.mp3",
-        "sentence": "'awngaw 'aewhay sazeken So: pon'a:iSin homboe' pa'iyatobha'.",
-        "zh_Hant": "椿象不好聞，被椿象尿到會起水泡。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "'awngaw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：芫荽;香菜",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw1_{1}_@_1.1.mp3",
         "sentence": "Sa'ila mari' ka 'awngaw ray tatimae'an!",
@@ -3411,6 +3397,20 @@
     "frequency": "詞頻：★(4)",
     "name": "'awngaw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：椿象",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw_{1}_@_1.1.mp3",
+        "sentence": "'awngaw 'aewhay sazeken So: pon'a:iSin homboe' pa'iyatobha'.",
+        "zh_Hant": "椿象不好聞，被椿象尿到會起水泡。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "'awngaw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'awngaw_{1}.mp3",
     "source": null
   },
   {
@@ -4168,20 +4168,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：腫瘤",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh_{1}_@_1.1.mp3",
-        "sentence": "ni 'oemaw ray to'owis sem'el ka 'i'iyaeh.",
-        "zh_Hant": "'oemaw的後腦杓長腫瘤。"
-      }
-    ],
-    "frequency": "詞頻：★(8)",
-    "name": "'i'iyaeh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh_{1}.mp3",
-    "source": "'iyaeh"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：活著",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh2_{1}_@_1.1.mp3",
         "sentence": "hini 'aelaw 'i'iyaeh naehan.",
@@ -4192,6 +4178,20 @@
     "name": "'i'iyaeh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh2_{1}.mp3",
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：腫瘤",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh_{1}_@_1.1.mp3",
+        "sentence": "ni 'oemaw ray to'owis sem'el ka 'i'iyaeh.",
+        "zh_Hant": "'oemaw的後腦杓長腫瘤。"
+      }
+    ],
+    "frequency": "詞頻：★(8)",
+    "name": "'i'iyaeh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'i'iyaeh_{1}.mp3",
+    "source": "'iyaeh"
   },
   {
     "examples": [
@@ -5813,20 +5813,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：保留",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 2_{1}_@_1.1.mp3",
-        "sentence": "hini walo' 'ino:ol ma'an no korkoring.",
-        "zh_Hant": "這些糖是我給小孩的。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "'ino:ol ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 2_{1}.mp3",
-    "source": "'o:ol"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：女子名",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 1_{1}_@_1.1.mp3",
         "sentence": "noka minkoringan raro:o' 'ino:ol.",
@@ -5837,6 +5823,20 @@
     "name": "'ino:ol ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 1_{1}.mp3",
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：保留",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 2_{1}_@_1.1.mp3",
+        "sentence": "hini walo' 'ino:ol ma'an no korkoring.",
+        "zh_Hant": "這些糖是我給小孩的。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "'ino:ol ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'ino=ol 2_{1}.mp3",
+    "source": "'o:ol"
   },
   {
     "examples": [
@@ -7783,6 +7783,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：女子名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay1_{1}_@_1.1.mp3",
+        "sentence": "'okay 'inmana'a minatini'.",
+        "zh_Hant": "'okay是我姊姊。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(309)",
+    "name": "'okay",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：沒有",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay_{1}_@_1.1.mp3",
         "sentence": "taro' kiSka:at 'okay pakakreng.",
@@ -7798,20 +7812,6 @@
     "frequency": "詞頻：★★★★(309)",
     "name": "'okay",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：女子名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay1_{1}_@_1.1.mp3",
-        "sentence": "'okay 'inmana'a minatini'.",
-        "zh_Hant": "'okay是我姊姊。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(309)",
-    "name": "'okay",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/'okay1_{1}.mp3",
     "source": null
   },
   {
@@ -10407,20 +10407,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：真的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang_{1}_@_1.1.mp3",
-        "sentence": "yako Sapang kamatortoroe' ray kakiSta:atan tomortoroe'.",
-        "zh_Hant": "我是真正的老師在學校教書。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "Sapang",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：山苧麻",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang1_{1}_@_1.1.mp3",
         "sentence": "Sapang 'ima 'aewhay pa:wa:ayen.",
@@ -10436,6 +10422,20 @@
     "frequency": "詞頻：★(7)",
     "name": "Sapang",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：真的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang_{1}_@_1.1.mp3",
+        "sentence": "yako Sapang kamatortoroe' ray kakiSta:atan tomortoroe'.",
+        "zh_Hant": "我是真正的老師在學校教書。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "Sapang",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Sapang_{1}.mp3",
     "source": null
   },
   {
@@ -11731,20 +11731,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：蛇（總稱）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'_{1}_@_1.1.mp3",
-        "sentence": "haba:an Siba:i' 'akoey.",
-        "zh_Hant": "夏天蛇很多。"
-      }
-    ],
-    "frequency": "詞頻：★★ (17)",
-    "name": "Siba:i'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：（吃）分享",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'1_{1}_@_1.1.mp3",
         "sentence": "hini 'ayam ni mama' bino:ay, Siba:i' sowiti'!",
@@ -11754,6 +11740,20 @@
     "frequency": "詞頻：★★ (17)",
     "name": "Siba:i'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：蛇（總稱）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'_{1}_@_1.1.mp3",
+        "sentence": "haba:an Siba:i' 'akoey.",
+        "zh_Hant": "夏天蛇很多。"
+      }
+    ],
+    "frequency": "詞頻：★★ (17)",
+    "name": "Siba:i'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/Siba=i'_{1}.mp3",
     "source": null
   },
   {
@@ -18155,20 +18155,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：棒刀;打緯棒",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'_{1}_@_1.1.mp3",
-        "sentence": "So: tomnon bayza' nom pak'es'es ka tinon.",
-        "zh_Hant": "棒刀是織布時用來打緊緯線。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "bayza'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鯰魚",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'1_{1}_@_1.1.mp3",
         "sentence": "bayza' 'i'iyaeh ray ba:la' 'oki kaSiki ray wasal.",
@@ -18178,6 +18164,20 @@
     "frequency": "詞頻：★(2)",
     "name": "bayza'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：棒刀;打緯棒",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'_{1}_@_1.1.mp3",
+        "sentence": "So: tomnon bayza' nom pak'es'es ka tinon.",
+        "zh_Hant": "棒刀是織布時用來打緊緯線。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "bayza'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bayza'_{1}.mp3",
     "source": null
   },
   {
@@ -18377,20 +18377,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：甲狀腺腫",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=2_{1}_@_1.1.mp3",
-        "sentence": "kakhayza'an bi'i: 'oka' ka 'iyo' karae'oe:en.",
-        "zh_Hant": "以前甲狀腺腫大沒有藥吃。"
-      }
-    ],
-    "frequency": "詞頻：★★★(23)",
-    "name": "bi'i:",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：生氣",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=1_{1}_@_1.1.mp3",
         "sentence": "siya mam bi'i: 'iniman.",
@@ -18400,6 +18386,20 @@
     "frequency": "詞頻：★★★(23)",
     "name": "bi'i:",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：甲狀腺腫",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=2_{1}_@_1.1.mp3",
+        "sentence": "kakhayza'an bi'i: 'oka' ka 'iyo' karae'oe:en.",
+        "zh_Hant": "以前甲狀腺腫大沒有藥吃。"
+      }
+    ],
+    "frequency": "詞頻：★★★(23)",
+    "name": "bi'i:",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/bi'i=2_{1}.mp3",
     "source": null
   },
   {
@@ -20889,6 +20889,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：山羌",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'2_{1}_@_1.1.mp3",
+        "sentence": "ray 'oes'oeso'an 'akoey ka hako'.",
+        "zh_Hant": "山上很多山羌。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "hako'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：紙盒（日本借詞）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'3_{1}_@_1.1.mp3",
         "sentence": "hini hako' sobae:oeh a tomal.",
@@ -20904,20 +20918,6 @@
     "frequency": "詞頻：★(7)",
     "name": "hako'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：山羌",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'2_{1}_@_1.1.mp3",
-        "sentence": "ray 'oes'oeso'an 'akoey ka hako'.",
-        "zh_Hant": "山上很多山羌。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "hako'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hako'2_{1}.mp3",
     "source": null
   },
   {
@@ -21027,20 +21027,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：濕滑",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh_{1}_@_1.1.mp3",
-        "sentence": "hiza kabih haloeh a tomalan, payrini!",
-        "zh_Hant": "那一邊太濕滑了，走這邊！"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "haloeh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：月桃",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh1_{1}_@_1.1.mp3",
         "sentence": "haloeh kayzaeh paskayzaehen ka babotoe', boway 'okik kasi'aelen.",
@@ -21056,6 +21042,20 @@
     "frequency": "詞頻：★(2)",
     "name": "haloeh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：濕滑",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh_{1}_@_1.1.mp3",
+        "sentence": "hiza kabih haloeh a tomalan, payrini!",
+        "zh_Hant": "那一邊太濕滑了，走這邊！"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "haloeh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/haloeh_{1}.mp3",
     "source": null
   },
   {
@@ -22363,6 +22363,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：柱拐杖",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor1_{1}_@_1.1.mp3",
+        "sentence": "ray paSta'ay kapa:tol komoSa', \"ka hikor ka 'oeway.",
+        "zh_Hant": "在巴斯達隘的祭歌裡說，「柱黃藤做的拐杖。」"
+      }
+    ],
+    "frequency": "詞頻：★★ (18)",
+    "name": "hikor",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：背",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor_{1}_@_1.1.mp3",
         "sentence": "niSo' hikor hayza' ka maro'.",
@@ -22378,20 +22392,6 @@
     "frequency": "詞頻：★★ (18)",
     "name": "hikor",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：柱拐杖",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor1_{1}_@_1.1.mp3",
-        "sentence": "ray paSta'ay kapa:tol komoSa', \"ka hikor ka 'oeway.",
-        "zh_Hant": "在巴斯達隘的祭歌裡說，「柱黃藤做的拐杖。」"
-      }
-    ],
-    "frequency": "詞頻：★★ (18)",
-    "name": "hikor",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hikor1_{1}.mp3",
     "source": null
   },
   {
@@ -22621,20 +22621,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：扣（完成）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh_{1}_@_1.1.mp3",
-        "sentence": "noka korkoring hinabaeh SaSolot.",
-        "zh_Hant": "孩子扣的沒對稱不整齊。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "hinabaeh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh_{1}.mp3",
-    "source": "habaeh"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：剪枝（完成）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh1_{1}_@_1.1.mp3",
         "sentence": "ma'an pinamowa' kaehoy hinabaeh ila.",
@@ -22644,6 +22630,20 @@
     "frequency": "詞頻：★(3)",
     "name": "hinabaeh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh1_{1}.mp3",
+    "source": "habaeh"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：扣（完成）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh_{1}_@_1.1.mp3",
+        "sentence": "noka korkoring hinabaeh SaSolot.",
+        "zh_Hant": "孩子扣的沒對稱不整齊。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "hinabaeh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hinabaeh_{1}.mp3",
     "source": "habaeh"
   },
   {
@@ -23961,6 +23961,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：驚嚇",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS1_{1}_@_1.1.mp3",
+        "sentence": "'izi' hoSoS o hini Siba:i' masay ila.",
+        "zh_Hant": "不要嚇到喔這條蛇已經死了。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "hoSoS",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：箭",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS_{1}_@_1.1.mp3",
         "sentence": "ni yaba' pinaskayzaeh hoSoS nom manae' ka 'aelaw.",
@@ -23976,20 +23990,6 @@
     "frequency": "詞頻：★(2)",
     "name": "hoSoS",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：驚嚇",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS1_{1}_@_1.1.mp3",
-        "sentence": "'izi' hoSoS o hini Siba:i' masay ila.",
-        "zh_Hant": "不要嚇到喔這條蛇已經死了。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "hoSoS",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/hoSoS1_{1}.mp3",
     "source": null
   },
   {
@@ -24405,20 +24405,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：扣（主事）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh_{1}_@_1.1.mp3",
-        "sentence": "ta:in homabaeh ka kayba:en nonak.",
-        "zh_Hant": "ta:in自己扣衣服。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "homabaeh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh_{1}.mp3",
-    "source": "habaeh"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：剪枝（主事）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh1_{1}_@_1.1.mp3",
         "sentence": "yaba' 'am homabaeh ka papoSi'.",
@@ -24428,6 +24414,20 @@
     "frequency": "詞頻：★(2)",
     "name": "homabaeh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh1_{1}.mp3",
+    "source": "habaeh"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：扣（主事）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh_{1}_@_1.1.mp3",
+        "sentence": "ta:in homabaeh ka kayba:en nonak.",
+        "zh_Hant": "ta:in自己扣衣服。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "homabaeh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/homabaeh_{1}.mp3",
     "source": "habaeh"
   },
   {
@@ -25825,20 +25825,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：已故;過去的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka2_{1}_@_1.1.mp3",
-        "sentence": "yako 'am rima' patabil hi kayaba' ma'an.",
-        "zh_Hant": "我要去祭拜我的已故父親。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(2678)",
-    "name": "ka",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：沿著",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka1_{1}_@_1.1.mp3",
         "sentence": "hini kabkabaehae: hinayap 'insa'an kababaw 'insa'an kara:ra:i'.",
@@ -25848,6 +25834,20 @@
     "frequency": "詞頻：★★★★(2678)",
     "name": "ka",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：已故;過去的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka2_{1}_@_1.1.mp3",
+        "sentence": "yako 'am rima' patabil hi kayaba' ma'an.",
+        "zh_Hant": "我要去祭拜我的已故父親。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(2678)",
+    "name": "ka",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ka2_{1}.mp3",
     "source": null
   },
   {
@@ -59290,20 +59290,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：台灣馬口魚",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'2_{1}_@_1.1.mp3",
-        "sentence": "ro:o' kakawkinSa:o' noka ta'ay.",
-        "zh_Hant": "台灣馬口魚當做給ta'ay的晚餐。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "ro:o'",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：取名字;命名",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'1_{1}_@_1.1.mp3",
         "sentence": "ro:o' ka 'ima kayzaeh ka raro:o' pakayzaeh ka kin'i'iyaeh.",
@@ -59313,6 +59299,20 @@
     "frequency": "詞頻：★(2)",
     "name": "ro:o'",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：台灣馬口魚",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'2_{1}_@_1.1.mp3",
+        "sentence": "ro:o' kakawkinSa:o' noka ta'ay.",
+        "zh_Hant": "台灣馬口魚當做給ta'ay的晚餐。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "ro:o'",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/ro=o'2_{1}.mp3",
     "source": null
   },
   {
@@ -69116,20 +69116,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：手錶（日語借詞）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/toki=2_{1}_@_1.1.mp3",
-        "sentence": "hini toki: ni 'oya' binoway, 'izi' pawka' o!",
-        "zh_Hant": "這個手錶是媽媽給的，不要弄丟喔！"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "toki:",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/toki=2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：（點火）",
         "pronounce": null,
         "sentence": null,
@@ -69139,6 +69125,20 @@
     "frequency": "詞頻：★(1)",
     "name": "toki:",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/toki=1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：手錶（日語借詞）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/toki=2_{1}_@_1.1.mp3",
+        "sentence": "hini toki: ni 'oya' binoway, 'izi' pawka' o!",
+        "zh_Hant": "這個手錶是媽媽給的，不要弄丟喔！"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "toki:",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/xsy/toki=2_{1}.mp3",
     "source": null
   },
   {

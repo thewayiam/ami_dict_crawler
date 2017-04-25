@@ -246,20 +246,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：鏡子；玻璃",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlingu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "把鏡子掛在牆上。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "'ahlingu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlingu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：電視；影子",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlingu1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -274,15 +260,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：山頂",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlipapu2_{1}_@_1.1.mp3",
+        "description": "解釋1：鏡子；玻璃",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlingu2_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
-        "zh_Hant": "海拔低的山頭還不算山頂。"
+        "zh_Hant": "把鏡子掛在牆上。"
       }
     ],
-    "frequency": "詞頻：★(1)",
-    "name": "'ahlipapu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlipapu2_{1}.mp3",
+    "frequency": "詞頻：★(3)",
+    "name": "'ahlingu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlingu2_{1}.mp3",
     "source": null
   },
   {
@@ -297,6 +283,20 @@
     "frequency": "詞頻：★(1)",
     "name": "'ahlipapu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlipapu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：山頂",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlipapu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "海拔低的山頭還不算山頂。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "'ahlipapu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ahlipapu2_{1}.mp3",
     "source": null
   },
   {
@@ -846,6 +846,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：鬼針草（止血草藥）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi1_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "鬼針草的葉子打碎後，黏在傷口上就不會流血。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "'aratingi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：筷子",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi2_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -869,20 +883,6 @@
     "frequency": "詞頻：★(0)",
     "name": "'aratingi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：鬼針草（止血草藥）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi1_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "鬼針草的葉子打碎後，黏在傷口上就不會流血。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "'aratingi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'aratingi1_{1}.mp3",
     "source": null
   },
   {
@@ -1056,20 +1056,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：電話",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "那個電話是誰的？"
-      }
-    ],
-    "frequency": "詞頻：★(6)",
-    "name": "'arivungua",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鐵絲",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -1079,6 +1065,20 @@
     "frequency": "詞頻：★(6)",
     "name": "'arivungua",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：電話",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "那個電話是誰的？"
+      }
+    ],
+    "frequency": "詞頻：★(6)",
+    "name": "'arivungua",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'arivungua2_{1}.mp3",
     "source": null
   },
   {
@@ -1266,20 +1266,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：槳",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "小船就是用槳划的船。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "'asuru",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：長飯把",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -1289,6 +1275,20 @@
     "frequency": "詞頻：★(1)",
     "name": "'asuru",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：槳",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "小船就是用槳划的船。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "'asuru",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'asuru2_{1}.mp3",
     "source": null
   },
   {
@@ -2446,20 +2446,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）高中美蘭段的一個地名",
-        "pronounce": null,
-        "sentence": "詞類：名詞",
-        "zh_Hant": "'uvungu地區是山頂大凹地，以前會積水。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "'ʉvʉngʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ʉvʉngʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：陷阱（挖洞讓山豬掉下去的陷阱）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ʉvʉngʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -2469,6 +2455,20 @@
     "frequency": "詞頻：★(0)",
     "name": "'ʉvʉngʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ʉvʉngʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）高中美蘭段的一個地名",
+        "pronounce": null,
+        "sentence": "詞類：名詞",
+        "zh_Hant": "'uvungu地區是山頂大凹地，以前會積水。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "'ʉvʉngʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/'ʉvʉngʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -7394,20 +7394,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：流產",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "那女孩子懷孕卻跌倒而流產。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "apusala",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：寄送",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -7418,6 +7404,20 @@
     "name": "apusala",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala1_{1}.mp3",
     "source": "sala'a"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：流產",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "那女孩子懷孕卻跌倒而流產。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "apusala",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/apusala2_{1}.mp3",
+    "source": null
   },
   {
     "examples": [
@@ -9872,20 +9872,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：東西",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "我要買東西。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "caacalaisa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：隨便",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa1_{1}_@_1.1.mp3",
         "sentence": "詞類：副詞",
@@ -9895,6 +9881,20 @@
     "frequency": "詞頻：★(4)",
     "name": "caacalaisa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：東西",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "我要買東西。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "caacalaisa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caacalaisa2_{1}.mp3",
     "source": null
   },
   {
@@ -10124,20 +10124,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：歲",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "請問你幾歲？"
-      }
-    ],
-    "frequency": "詞頻：★★ (12)",
-    "name": "caihli",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：年",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -10147,6 +10133,20 @@
     "frequency": "詞頻：★★ (12)",
     "name": "caihli",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：歲",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "請問你幾歲？"
+      }
+    ],
+    "frequency": "詞頻：★★ (12)",
+    "name": "caihli",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/caihli2_{1}.mp3",
     "source": null
   },
   {
@@ -11298,20 +11298,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：臉頰",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "小狗用舌頭舔我的臉頰。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "cumi'i",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：熊",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -11321,6 +11307,20 @@
     "frequency": "詞頻：★(4)",
     "name": "cumi'i",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：臉頰",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "小狗用舌頭舔我的臉頰。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "cumi'i",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/cumi'i2_{1}.mp3",
     "source": null
   },
   {
@@ -11800,15 +11800,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：又",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla3_{1}_@_1.1.mp3",
+        "description": "解釋1：和",
+        "pronounce": null,
         "sentence": "詞類：連接詞",
-        "zh_Hant": "那個男孩子又聾又瞎。"
+        "zh_Hant": "hla'u和inguru和好了。"
       }
     ],
     "frequency": "詞頻：★★★★(152)",
     "name": "hla",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla1_{1}.mp3",
     "source": null
   },
   {
@@ -11828,15 +11828,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：和",
-        "pronounce": null,
+        "description": "解釋1：又",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla3_{1}_@_1.1.mp3",
         "sentence": "詞類：連接詞",
-        "zh_Hant": "hla'u和inguru和好了。"
+        "zh_Hant": "那個男孩子又聾又瞎。"
       }
     ],
     "frequency": "詞頻：★★★★(152)",
     "name": "hla",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hla3_{1}.mp3",
     "source": null
   },
   {
@@ -11926,20 +11926,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：老人；長者",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "老人在挖山薯。"
-      }
-    ],
-    "frequency": "詞頻：★★ (15)",
-    "name": "hlaamaama",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：父母",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -11949,6 +11935,20 @@
     "frequency": "詞頻：★★ (15)",
     "name": "hlaamaama",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：老人；長者",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "老人在挖山薯。"
+      }
+    ],
+    "frequency": "詞頻：★★ (15)",
+    "name": "hlaamaama",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlaamaama2_{1}.mp3",
     "source": null
   },
   {
@@ -12136,20 +12136,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）桃源的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "一位先人帶著拐杖由此經過，就在這裡休息，把枴杖插在旁邊，要出發時忘了拿，後來那拐杖長大了，就是現在所稱的荷蘭樹。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "hlakahlisi",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：荷蘭樹",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -12159,6 +12145,20 @@
     "frequency": "詞頻：★(1)",
     "name": "hlakahlisi",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）桃源的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "一位先人帶著拐杖由此經過，就在這裡休息，把枴杖插在旁邊，要出發時忘了拿，後來那拐杖長大了，就是現在所稱的荷蘭樹。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "hlakahlisi",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakahlisi2_{1}.mp3",
     "source": null
   },
   {
@@ -12290,20 +12290,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：一種藥草",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "hlakusaiiana是藥材，可以止血。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "hlakʉsaiiana",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：外省人",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -12313,6 +12299,20 @@
     "frequency": "詞頻：★(1)",
     "name": "hlakʉsaiiana",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：一種藥草",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "hlakusaiiana是藥材，可以止血。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "hlakʉsaiiana",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/hlakʉsaiiana2_{1}.mp3",
     "source": null
   },
   {
@@ -17710,20 +17710,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：挖",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "挖芋頭。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "kia-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：請",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-1_{1}_@_1.1.mp3",
         "sentence": "詞類：助詞",
@@ -17733,6 +17719,20 @@
     "frequency": "詞頻：★(0)",
     "name": "kia-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：挖",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "挖芋頭。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "kia-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kia-2_{1}.mp3",
     "source": null
   },
   {
@@ -18578,20 +18578,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）竹林地區的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "最頂端的山稜線，是老鷹經常築巢傳宗接代的地方。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "kirihli",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：老鷹（大型）；鵰",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -18601,6 +18587,20 @@
     "frequency": "詞頻：★(3)",
     "name": "kirihli",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）竹林地區的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "最頂端的山稜線，是老鷹經常築巢傳宗接代的地方。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "kirihli",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kirihli2_{1}.mp3",
     "source": null
   },
   {
@@ -19964,20 +19964,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：刷子",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "媽媽用刷子刷鍋子。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "kunutu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：絲瓜",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -19987,6 +19973,20 @@
     "frequency": "詞頻：★(4)",
     "name": "kunutu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：刷子",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "媽媽用刷子刷鍋子。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "kunutu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/kunutu2_{1}.mp3",
     "source": null
   },
   {
@@ -20748,20 +20748,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：上面",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "在樹上有一隻畫眉鳥。"
-      }
-    ],
-    "frequency": "詞頻：★★★(28)",
-    "name": "langica",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：高",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -20771,6 +20757,20 @@
     "frequency": "詞頻：★★★(28)",
     "name": "langica",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：上面",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "在樹上有一隻畫眉鳥。"
+      }
+    ],
+    "frequency": "詞頻：★★★(28)",
+    "name": "langica",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langica2_{1}.mp3",
     "source": null
   },
   {
@@ -20804,20 +20804,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：辛苦",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞後綴",
-        "zh_Hant": "今年的生活比較辛苦。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "langʉlangʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：貴",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞後綴",
@@ -20827,6 +20813,20 @@
     "frequency": "詞頻：★(3)",
     "name": "langʉlangʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：辛苦",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞後綴",
+        "zh_Hant": "今年的生活比較辛苦。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "langʉlangʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/langʉlangʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -23848,20 +23848,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：重要",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：副詞",
-        "zh_Hant": "小米是我們以前重要的食物。"
-      }
-    ],
-    "frequency": "詞頻：★★ (13)",
-    "name": "mairahlu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：應該；原本",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu1_{1}_@_1.1.mp3",
         "sentence": "詞類：副詞",
@@ -23871,6 +23857,20 @@
     "frequency": "詞頻：★★ (13)",
     "name": "mairahlu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：重要",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：副詞",
+        "zh_Hant": "小米是我們以前重要的食物。"
+      }
+    ],
+    "frequency": "詞頻：★★ (13)",
+    "name": "mairahlu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mairahlu2_{1}.mp3",
     "source": null
   },
   {
@@ -32062,20 +32062,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）高中美蘭段的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "muakai老人在此地開墾種植農作物，就定居在這裡，就因此命名。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "muakai",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：男名",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -32085,6 +32071,20 @@
     "frequency": "詞頻：★(2)",
     "name": "muakai",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）高中美蘭段的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "muakai老人在此地開墾種植農作物，就定居在這裡，就因此命名。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "muakai",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/muakai2_{1}.mp3",
     "source": null
   },
   {
@@ -34918,20 +34918,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：順從",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "我的太太很好，很順從先生。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "mʉlʉvʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：跟隨",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -34941,6 +34927,20 @@
     "frequency": "詞頻：★(0)",
     "name": "mʉlʉvʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：順從",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "我的太太很好，很順從先生。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "mʉlʉvʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/mʉlʉvʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -36934,20 +36934,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：地方",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "我兩塊園地都種樟樹。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "pahlu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：味道",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -36957,6 +36943,20 @@
     "frequency": "詞頻：★(7)",
     "name": "pahlu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：地方",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "我兩塊園地都種樟樹。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "pahlu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pahlu2_{1}.mp3",
     "source": null
   },
   {
@@ -40014,20 +40014,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：把握",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pasamia2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞",
-        "zh_Hant": "要把握機會。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "pasamia",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pasamia2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：時間；空閒",
         "pronounce": null,
         "sentence": "詞類：名詞",
@@ -40037,6 +40023,20 @@
     "frequency": "詞頻：★(3)",
     "name": "pasamia",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pasamia1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：把握",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pasamia2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞",
+        "zh_Hant": "要把握機會。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "pasamia",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pasamia2_{1}.mp3",
     "source": null
   },
   {
@@ -41890,20 +41890,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：分喝禮酒儀式",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "這儀式分給壯丁男士們喝禮酒。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "pialangahlʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：酙酒",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -41913,6 +41899,20 @@
     "frequency": "詞頻：★(1)",
     "name": "pialangahlʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：分喝禮酒儀式",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "這儀式分給壯丁男士們喝禮酒。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "pialangahlʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/pialangahlʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -49680,20 +49680,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：山脈",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "這是玉山山脈的脊椎。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "suluru",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：脊椎",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -49703,6 +49689,20 @@
     "frequency": "詞頻：★(1)",
     "name": "suluru",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：山脈",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "這是玉山山脈的脊椎。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "suluru",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/suluru2_{1}.mp3",
     "source": null
   },
   {
@@ -50316,20 +50316,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：事情",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "讓他們知道我們所發生的一切事情。"
-      }
-    ],
-    "frequency": "詞頻：★★ (12)",
-    "name": "ta'iara",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：工作",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -50339,6 +50325,20 @@
     "frequency": "詞頻：★★ (12)",
     "name": "ta'iara",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：事情",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "讓他們知道我們所發生的一切事情。"
+      }
+    ],
+    "frequency": "詞頻：★★ (12)",
+    "name": "ta'iara",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/ta'iara2_{1}.mp3",
     "source": null
   },
   {
@@ -50862,20 +50862,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）高中美蘭段的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "據說以前這個地方很多動物，所以叫花色多的意思。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "taatapaa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：彩色",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -50885,6 +50871,20 @@
     "frequency": "詞頻：★(0)",
     "name": "taatapaa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）高中美蘭段的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "據說以前這個地方很多動物，所以叫花色多的意思。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "taatapaa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/taatapaa2_{1}.mp3",
     "source": null
   },
   {
@@ -51142,20 +51142,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：暫宿",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "暫宿是只能在那裡工作不能住宿的意思。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tahlaa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：舊社（地名）",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -51165,6 +51151,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tahlaa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：暫宿",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "暫宿是只能在那裡工作不能住宿的意思。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tahlaa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tahlaa2_{1}.mp3",
     "source": null
   },
   {
@@ -53402,20 +53402,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：伯父；長輩",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "爸爸的弟弟和媽媽的妹妹都叫tamalungalu或tamaruai。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "tam-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：很",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-1_{1}_@_1.1.mp3",
         "sentence": "詞類：副詞",
@@ -53425,6 +53411,20 @@
     "frequency": "詞頻：★(0)",
     "name": "tam-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：伯父；長輩",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "爸爸的弟弟和媽媽的妹妹都叫tamalungalu或tamaruai。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "tam-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tam-2_{1}.mp3",
     "source": null
   },
   {
@@ -54290,20 +54290,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：達邦部落",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "請問，怎麼去達邦部落？"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "tapangʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：阿里山鄒",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -54313,6 +54299,20 @@
     "frequency": "詞頻：★(0)",
     "name": "tapangʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：達邦部落",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "請問，怎麼去達邦部落？"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "tapangʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapangʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -54402,6 +54402,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：竹葉；月桃葉",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ1_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "月桃葉用來包粽子。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "tapaʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：畫",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ2_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -54425,20 +54439,6 @@
     "frequency": "詞頻：★(7)",
     "name": "tapaʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：竹葉；月桃葉",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ1_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "月桃葉用來包粽子。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "tapaʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tapaʉ1_{1}.mp3",
     "source": null
   },
   {
@@ -55144,20 +55144,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）高中的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "tarahlai山區經常會有赤腹鷹在這裡做窩傳代。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "tarahlai",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：赤腹鷹",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -55167,6 +55153,20 @@
     "frequency": "詞頻：★(1)",
     "name": "tarahlai",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）高中的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "tarahlai山區經常會有赤腹鷹在這裡做窩傳代。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "tarahlai",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarahlai2_{1}.mp3",
     "source": null
   },
   {
@@ -56012,20 +56012,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）高中的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "此山區老鷹經常在這山座築巢。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tarʉkʉpʉhlʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：黑鷹",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -56035,6 +56021,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tarʉkʉpʉhlʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）高中的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "此山區老鷹經常在這山座築巢。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tarʉkʉpʉhlʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tarʉkʉpʉhlʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -56838,15 +56838,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：溪名（高中美蘭段）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali3_{1}_@_1.1.mp3",
+        "description": "解釋1：金線蓮",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
-        "zh_Hant": "這個溪長很多金線蓮。"
+        "zh_Hant": "金線蓮可以賣錢。"
       }
     ],
     "frequency": "詞頻：★(1)",
     "name": "tavali",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali1_{1}.mp3",
     "source": null
   },
   {
@@ -56866,15 +56866,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：金線蓮",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali1_{1}_@_1.1.mp3",
+        "description": "解釋1：溪名（高中美蘭段）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali3_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
-        "zh_Hant": "金線蓮可以賣錢。"
+        "zh_Hant": "這個溪長很多金線蓮。"
       }
     ],
     "frequency": "詞頻：★(1)",
     "name": "tavali",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tavali3_{1}.mp3",
     "source": null
   },
   {
@@ -58446,20 +58446,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：水管",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "以前的水管是把竹子劈成兩半，去除竹節再接起來。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "tukusu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：橋",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -58469,6 +58455,20 @@
     "frequency": "詞頻：★(4)",
     "name": "tukusu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：水管",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "以前的水管是把竹子劈成兩半，去除竹節再接起來。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "tukusu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tukusu2_{1}.mp3",
     "source": null
   },
   {
@@ -59958,20 +59958,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：禮觀（地名）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "祖先住這裡的時候，此地區形狀像桌子一樣，所以取此名。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tuu'u",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：桌子",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -59981,6 +59967,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tuu'u",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：禮觀（地名）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "祖先住這裡的時候，此地區形狀像桌子一樣，所以取此名。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tuu'u",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tuu'u2_{1}.mp3",
     "source": null
   },
   {
@@ -60154,20 +60154,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：鑰匙",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "弟弟忘記帶鑰匙出門。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "tʉkʉrʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鈕扣",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -60177,6 +60163,20 @@
     "frequency": "詞頻：★(2)",
     "name": "tʉkʉrʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：鑰匙",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "弟弟忘記帶鑰匙出門。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "tʉkʉrʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/tʉkʉrʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -61350,20 +61350,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：學生",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ3_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "我是一個好學生。 "
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "umaiiapʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：上課；上學",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事",
@@ -61387,6 +61373,20 @@
     "frequency": "詞頻：★(4)",
     "name": "umaiiapʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：學生",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ3_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "我是一個好學生。 "
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "umaiiapʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/umaiiapʉ3_{1}.mp3",
     "source": null
   },
   {
@@ -63834,20 +63834,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：（地名）桃源的一個地名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "日據時代一位平地人不願受日本人管制自己跑到深山居住，以他的名字為地名。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "vicanʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：男名",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -63857,6 +63843,20 @@
     "frequency": "詞頻：★(0)",
     "name": "vicanʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：（地名）桃源的一個地名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "日據時代一位平地人不願受日本人管制自己跑到深山居住，以他的名字為地名。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "vicanʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vicanʉ2_{1}.mp3",
     "source": null
   },
   {
@@ -64120,20 +64120,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：月份",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞",
-        "zh_Hant": "每個月。"
-      }
-    ],
-    "frequency": "詞頻：★★ (12)",
-    "name": "vulahlʉ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：月亮",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞",
@@ -64143,6 +64129,20 @@
     "frequency": "詞頻：★★ (12)",
     "name": "vulahlʉ",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：月份",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞",
+        "zh_Hant": "每個月。"
+      }
+    ],
+    "frequency": "詞頻：★★ (12)",
+    "name": "vulahlʉ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/sxr/vulahlʉ2_{1}.mp3",
     "source": null
   },
   {

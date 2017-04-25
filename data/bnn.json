@@ -2,6 +2,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：那個;那些",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a1_{1}_@_1.1.mp3",
+        "sentence": "詞類：限定詞　範疇分類：指示詞",
+        "zh_Hant": "那個/那些學生應該努力讀書。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-a",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：祈使式後綴 (用於主事焦點,一般語體)",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a2_{1}_@_1.1.mp3",
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -23,20 +37,6 @@
     "frequency": "詞頻：★(0)",
     "name": "-a",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：那個;那些",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a1_{1}_@_1.1.mp3",
-        "sentence": "詞類：限定詞　範疇分類：指示詞",
-        "zh_Hant": "那個/那些學生應該努力讀書。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-a",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-a1_{1}.mp3",
     "source": null
   },
   {
@@ -68,34 +68,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：處所焦點後綴 = 受事焦點後綴",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an4_{1}_@_1.1.mp3",
-        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
-        "zh_Hant": "我小時候學日語。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-an",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an4_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：處所焦點後綴",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an2_{1}_@_1.1.mp3",
-        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
-        "zh_Hant": "腐爛的雞長滿蛆。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-an",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：這個;這些",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an1_{1}_@_1.1.mp3",
         "sentence": "詞類：指示詞　範疇分類：指示詞",
@@ -122,6 +94,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：處所焦點後綴",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an2_{1}_@_1.1.mp3",
+        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
+        "zh_Hant": "腐爛的雞長滿蛆。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-an",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：時間焦點後綴",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an3_{1}_@_1.1.mp3",
         "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
@@ -136,27 +122,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：祈使式後綴 (用於主事焦點,禮貌語體)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-ang2_{1}_@_1.1.mp3",
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": "你好！(祝你好好活著！)"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "Mihumisang!",
-        "zh_Hant": null
-      },
-      {
-        "description": "相關詞",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
+        "description": "解釋1：處所焦點後綴 = 受事焦點後綴",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an4_{1}_@_1.1.mp3",
+        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
+        "zh_Hant": "我小時候學日語。"
       }
     ],
     "frequency": "詞頻：★(0)",
-    "name": "-ang",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-ang2_{1}.mp3",
+    "name": "-an",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-an4_{1}.mp3",
     "source": null
   },
   {
@@ -183,6 +157,32 @@
     "frequency": "詞頻：★(0)",
     "name": "-ang",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-ang1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：祈使式後綴 (用於主事焦點,禮貌語體)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-ang2_{1}_@_1.1.mp3",
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": "你好！(祝你好好活著！)"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "Mihumisang!",
+        "zh_Hant": null
+      },
+      {
+        "description": "相關詞",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-ang",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-ang2_{1}.mp3",
     "source": null
   },
   {
@@ -308,20 +308,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：修飾標記: 的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia2_{1}_@_1.1.mp3",
-        "sentence": "詞類：標記　範疇分類：主題、主語、格位標記及其他標記",
-        "zh_Hant": "祖父的田地很大。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-cia",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：那個;那些;那邊",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia1_{1}_@_1.1.mp3",
         "sentence": "詞類：指示詞　範疇分類：指示詞",
@@ -337,6 +323,20 @@
     "frequency": "詞頻：★(0)",
     "name": "-cia",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：修飾標記: 的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia2_{1}_@_1.1.mp3",
+        "sentence": "詞類：標記　範疇分類：主題、主語、格位標記及其他標記",
+        "zh_Hant": "祖父的田地很大。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-cia",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-cia2_{1}.mp3",
     "source": null
   },
   {
@@ -594,20 +594,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：這裡",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan2_{1}_@_1.1.mp3",
-        "sentence": "範疇分類：指示詞",
-        "zh_Hant": "我要留在你家這裡過夜。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "-tan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：這個;這些",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan1_{1}_@_1.1.mp3",
         "sentence": "範疇分類：指示詞",
@@ -617,6 +603,20 @@
     "frequency": "詞頻：★(0)",
     "name": "-tan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：這裡",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan2_{1}_@_1.1.mp3",
+        "sentence": "範疇分類：指示詞",
+        "zh_Hant": "我要留在你家這裡過夜。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "-tan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/-tan2_{1}.mp3",
     "source": null
   },
   {
@@ -3170,20 +3170,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：修飾標記,的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a2_{1}_@_1.1.mp3",
-        "sentence": "範疇分類：主題、主語、格位標記及其他標記",
-        "zh_Hant": "我的房子竟然變成這樣。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(1835)",
-    "name": "a",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：主語標記",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a1_{1}_@_1.1.mp3",
         "sentence": "詞類：標記　範疇分類：主題、主語、格位標記及其他標記",
@@ -3193,6 +3179,20 @@
     "frequency": "詞頻：★★★★(1835)",
     "name": "a",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：修飾標記,的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a2_{1}_@_1.1.mp3",
+        "sentence": "範疇分類：主題、主語、格位標記及其他標記",
+        "zh_Hant": "我的房子竟然變成這樣。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(1835)",
+    "name": "a",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/a2_{1}.mp3",
     "source": null
   },
   {
@@ -5308,20 +5308,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：都;也",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　範疇分類：情狀動詞",
-        "zh_Hant": "我的丈夫連一隻鳥也沒能獵到過。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(201)",
-    "name": "amin",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：全部",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin1_{1}_@_1.1.mp3",
         "sentence": "詞類：代名詞，動詞　焦點：主事　範疇分類：數量動詞",
@@ -5331,6 +5317,20 @@
     "frequency": "詞頻：★★★★(201)",
     "name": "amin",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：都;也",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　範疇分類：情狀動詞",
+        "zh_Hant": "我的丈夫連一隻鳥也沒能獵到過。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(201)",
+    "name": "amin",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/amin2_{1}.mp3",
     "source": null
   },
   {
@@ -5596,6 +5596,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：自己的",
+        "pronounce": null,
+        "sentence": "詞類：動詞",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "anak",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/anak1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：痛打",
         "pronounce": null,
         "sentence": "詞類：動詞",
@@ -5612,20 +5626,6 @@
     "frequency": "詞頻：★(0)",
     "name": "anak",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/anak_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：自己的",
-        "pronounce": null,
-        "sentence": "詞類：動詞",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "anak",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/anak1_{1}.mp3",
     "source": null
   },
   {
@@ -7809,20 +7809,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：死亡的時間",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：時間　範疇分類：身體部位動詞",
-        "zh_Hant": "今天是祖父的忌日。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "atazan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan2_{1}.mp3",
-    "source": "ataz"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：死亡的地方",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：處所　範疇分類：身體部位動詞",
@@ -7838,6 +7824,20 @@
     "frequency": "詞頻：★(2)",
     "name": "atazan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan1_{1}.mp3",
+    "source": "ataz"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：死亡的時間",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：時間　範疇分類：身體部位動詞",
+        "zh_Hant": "今天是祖父的忌日。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "atazan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/atazan2_{1}.mp3",
     "source": "ataz"
   },
   {
@@ -8931,20 +8931,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：回報; 報復",
-        "pronounce": null,
-        "sentence": "詞類：動詞",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "baas",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/baas2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：毒",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/baas1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞，動詞",
@@ -8954,6 +8940,20 @@
     "frequency": "詞頻：★(2)",
     "name": "baas",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/baas1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：回報; 報復",
+        "pronounce": null,
+        "sentence": "詞類：動詞",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "baas",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/baas2_{1}.mp3",
     "source": null
   },
   {
@@ -12637,34 +12637,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：取得",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "cin-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cin-3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：點鐘",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "cin-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cin-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：突然;無預期",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -12686,6 +12658,34 @@
     "frequency": "詞頻：★(0)",
     "name": "cin-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cin-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：點鐘",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "cin-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cin-2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：取得",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "cin-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cin-3_{1}.mp3",
     "source": null
   },
   {
@@ -14114,6 +14114,26 @@
   {
     "examples": [
       {
+        "description": "解釋1：玉米",
+        "pronounce": null,
+        "sentence": "詞類：名詞　範疇分類：農業文化",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "cipul",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cipul1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：摺(衣物、紙)",
         "pronounce": null,
         "sentence": "詞類：動詞　範疇分類：身體部位動詞",
@@ -14140,26 +14160,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：玉米",
-        "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：農業文化",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "cipul",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cipul1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：因為",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cis-1_{1}_@_1.1.mp3",
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -14169,20 +14169,6 @@
     "frequency": "詞頻：★(0)",
     "name": "cis-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cis-1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：背",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "cis-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cis-3_{1}.mp3",
     "source": null
   },
   {
@@ -14203,6 +14189,20 @@
     "frequency": "詞頻：★(0)",
     "name": "cis-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cis-2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：背",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "cis-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/cis-3_{1}.mp3",
     "source": null
   },
   {
@@ -15192,20 +15192,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：潮濕的地方;溫泉",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：自然環境",
-        "zh_Hant": "我的家鄉有溫泉。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "dahdah",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：舔",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：身體部位動詞",
@@ -15221,6 +15207,20 @@
     "frequency": "詞頻：★(4)",
     "name": "dahdah",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：潮濕的地方;溫泉",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：自然環境",
+        "zh_Hant": "我的家鄉有溫泉。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "dahdah",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dahdah2_{1}.mp3",
     "source": null
   },
   {
@@ -16366,6 +16366,26 @@
   {
     "examples": [
       {
+        "description": "解釋1：長頸鹿",
+        "pronounce": null,
+        "sentence": "詞類：名詞　範疇分類：動物/野生",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "dauluhudhud",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dauluhudhud1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：鵝",
         "pronounce": null,
         "sentence": "詞類：名詞　範疇分類：動物/馴養",
@@ -16387,26 +16407,6 @@
     "frequency": "詞頻：★(0)",
     "name": "dauluhudhud",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dauluhudhud2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：長頸鹿",
-        "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：動物/野生",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "dauluhudhud",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/dauluhudhud1_{1}.mp3",
     "source": null
   },
   {
@@ -23208,20 +23208,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：五（個東西）",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：基數/非數人數字",
-        "zh_Hant": "我有五隻筆。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(55)",
-    "name": "ima",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：手",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞　範疇分類：身體部位",
@@ -23231,6 +23217,20 @@
     "frequency": "詞頻：★★★★(55)",
     "name": "ima",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：五（個東西）",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：基數/非數人數字",
+        "zh_Hant": "我有五隻筆。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(55)",
+    "name": "ima",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ima2_{1}.mp3",
     "source": null
   },
   {
@@ -24753,21 +24753,7 @@
   {
     "examples": [
       {
-        "description": "解釋1：突然;無預期",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "is-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-5_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：原因焦點前綴",
+        "description": "解釋1：工具焦點前綴",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
         "zh_Hant": null
@@ -24787,53 +24773,7 @@
     ],
     "frequency": "詞頻：★(0)",
     "name": "is-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-4_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：受益焦點前綴",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      },
-      {
-        "description": "相關詞",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "is-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：屬於(某人某物)的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-6_{1}_@_1.1.mp3",
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": "這本書屬於那位達琥。"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "IsDahucia sain tu patasan.",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "is-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-6_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-1_{1}.mp3",
     "source": null
   },
   {
@@ -24865,7 +24805,7 @@
   {
     "examples": [
       {
-        "description": "解釋1：工具焦點前綴",
+        "description": "解釋1：受益焦點前綴",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
         "zh_Hant": null
@@ -24885,7 +24825,67 @@
     ],
     "frequency": "詞頻：★(0)",
     "name": "is-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-3_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：原因焦點前綴",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      },
+      {
+        "description": "相關詞",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "is-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-4_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：突然;無預期",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "is-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-5_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：屬於(某人某物)的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-6_{1}_@_1.1.mp3",
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": "這本書屬於那位達琥。"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "IsDahucia sain tu patasan.",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "is-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-6_{1}.mp3",
     "source": null
   },
   {
@@ -24979,20 +24979,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為/幫(某人)背",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：身體部位動詞",
-        "zh_Hant": "他幫爸爸背柴。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "is-ama",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama2_{1}.mp3",
-    "source": "ama"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來背",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：身體部位動詞",
@@ -25002,6 +24988,20 @@
     "frequency": "詞頻：★(2)",
     "name": "is-ama",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama1_{1}.mp3",
+    "source": "ama"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為/幫(某人)背",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：身體部位動詞",
+        "zh_Hant": "他幫爸爸背柴。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "is-ama",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/is-ama2_{1}.mp3",
     "source": "ama"
   },
   {
@@ -25691,21 +25691,21 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)買",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isbaliv3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：交易動詞",
-        "zh_Hant": "爸爸買腳踏車給我用來上學。"
+        "description": "解釋1：所交易;  所賣",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：成果　範疇分類：交易動詞",
+        "zh_Hant": "我賣玉米以換取食米。"
       },
       {
         "description": "相關詞",
         "pronounce": null,
-        "sentence": "Isbaliv saikin tama mas tauntaun, na-iskusia kusia pasnanavaan.",
+        "sentence": "Isbalivku a cipul, na-is-uvaiv mas cilas.",
         "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★★ (13)",
     "name": "isbaliv",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isbaliv3_{1}.mp3",
+    "pronounce": null,
     "source": "baliv"
   },
   {
@@ -25731,21 +25731,21 @@
   {
     "examples": [
       {
-        "description": "解釋1：所交易;  所賣",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：成果　範疇分類：交易動詞",
-        "zh_Hant": "我賣玉米以換取食米。"
+        "description": "解釋1：為(某人)買",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isbaliv3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：交易動詞",
+        "zh_Hant": "爸爸買腳踏車給我用來上學。"
       },
       {
         "description": "相關詞",
         "pronounce": null,
-        "sentence": "Isbalivku a cipul, na-is-uvaiv mas cilas.",
+        "sentence": "Isbaliv saikin tama mas tauntaun, na-iskusia kusia pasnanavaan.",
         "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★★ (13)",
     "name": "isbaliv",
-    "pronounce": null,
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isbaliv3_{1}.mp3",
     "source": "baliv"
   },
   {
@@ -25891,20 +25891,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)編織",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：家居動詞",
-        "zh_Hant": "媽媽為那孩子織衣服。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "iscindun",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun2_{1}.mp3",
-    "source": "cindun"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來編織",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：家居動詞",
@@ -25914,6 +25900,20 @@
     "frequency": "詞頻：★(4)",
     "name": "iscindun",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun1_{1}.mp3",
+    "source": "cindun"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為(某人)編織",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：家居動詞",
+        "zh_Hant": "媽媽為那孩子織衣服。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "iscindun",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iscindun2_{1}.mp3",
     "source": "cindun"
   },
   {
@@ -25975,20 +25975,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)用水調和",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：受益",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "isdaivuh",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isdaivuh2_{1}.mp3",
-    "source": "daivuh"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來調水",
         "pronounce": null,
         "sentence": "詞類：動詞　焦點：工具",
@@ -25998,6 +25984,20 @@
     "frequency": "詞頻：★(0)",
     "name": "isdaivuh",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isdaivuh1_{1}.mp3",
+    "source": "daivuh"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為(某人)用水調和",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：受益",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "isdaivuh",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isdaivuh2_{1}.mp3",
     "source": "daivuh"
   },
   {
@@ -26749,20 +26749,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)炒;為(某人)煎",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：烹飪動詞",
-        "zh_Hant": " 媽媽炒青菜給我吃。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "iskal-ing",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing2_{1}.mp3",
-    "source": "kal-ing"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來炒;用來煎",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：烹飪動詞",
@@ -26772,6 +26758,20 @@
     "frequency": "詞頻：★(5)",
     "name": "iskal-ing",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing1_{1}.mp3",
+    "source": "kal-ing"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為(某人)炒;為(某人)煎",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：烹飪動詞",
+        "zh_Hant": " 媽媽炒青菜給我吃。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "iskal-ing",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/iskal-ing2_{1}.mp3",
     "source": "kal-ing"
   },
   {
@@ -27859,20 +27859,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：所教的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava3_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：成果",
-        "zh_Hant": "當他學會了那首歌，就教其他人。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "isnava",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava3_{1}.mp3",
-    "source": "isnava"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：教導",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -27896,6 +27882,20 @@
     "frequency": "詞頻：★(1)",
     "name": "isnava",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava2_{1}.mp3",
+    "source": "isnava"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：所教的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava3_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：成果",
+        "zh_Hant": "當他學會了那首歌，就教其他人。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "isnava",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isnava3_{1}.mp3",
     "source": "isnava"
   },
   {
@@ -28191,20 +28191,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為某人在火上烤(食物)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：烹飪動詞",
-        "zh_Hant": "為我烤那隻雞腿。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "ispaklang",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang2_{1}.mp3",
-    "source": "paklang"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來在火上烤(食物)",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：烹飪動詞",
@@ -28214,6 +28200,20 @@
     "frequency": "詞頻：★(2)",
     "name": "ispaklang",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang1_{1}.mp3",
+    "source": "paklang"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為某人在火上烤(食物)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：烹飪動詞",
+        "zh_Hant": "為我烤那隻雞腿。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "ispaklang",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispaklang2_{1}.mp3",
     "source": "paklang"
   },
   {
@@ -28510,20 +28510,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)演奏",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispatu-ia2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益　範疇分類：樂器",
-        "zh_Hant": "我為媽媽演奏那支弓琴給她聽。 "
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "ispatu-ia",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispatu-ia2_{1}.mp3",
-    "source": "patu-ia"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來演奏",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispatu-ia1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：樂器",
@@ -28538,16 +28524,16 @@
   {
     "examples": [
       {
-        "description": "解釋1：所曬的東西",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispavali2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：成果　範疇分類：家居動詞",
-        "zh_Hant": "將獸皮綁在方形木框上(張緊)並曬乾。"
+        "description": "解釋1：為(某人)演奏",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispatu-ia2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益　範疇分類：樂器",
+        "zh_Hant": "我為媽媽演奏那支弓琴給她聽。 "
       }
     ],
-    "frequency": "詞頻：★(5)",
-    "name": "ispavali",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispavali2_{1}.mp3",
-    "source": "pavali"
+    "frequency": "詞頻：★(0)",
+    "name": "ispatu-ia",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispatu-ia2_{1}.mp3",
+    "source": "patu-ia"
   },
   {
     "examples": [
@@ -28561,6 +28547,20 @@
     "frequency": "詞頻：★(5)",
     "name": "ispavali",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispavali1_{1}.mp3",
+    "source": "pavali"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：所曬的東西",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispavali2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：成果　範疇分類：家居動詞",
+        "zh_Hant": "將獸皮綁在方形木框上(張緊)並曬乾。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "ispavali",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispavali2_{1}.mp3",
     "source": "pavali"
   },
   {
@@ -28636,20 +28636,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：為(某人)弄乾",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：受益",
-        "zh_Hant": "我為你弄乾魚。"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "ispihaliv",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv2_{1}.mp3",
-    "source": "pihaliv"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來弄乾",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具",
@@ -28659,6 +28645,20 @@
     "frequency": "詞頻：★(0)",
     "name": "ispihaliv",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv1_{1}.mp3",
+    "source": "pihaliv"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：為(某人)弄乾",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：受益",
+        "zh_Hant": "我為你弄乾魚。"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "ispihaliv",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/ispihaliv2_{1}.mp3",
     "source": "pihaliv"
   },
   {
@@ -29851,20 +29851,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：所丟棄的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：成果　範疇分類：表達破壞之動詞",
-        "zh_Hant": "他扔髒東西。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "isvail",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail2_{1}.mp3",
-    "source": "vail"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：用來丟棄",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：工具　範疇分類：家居動詞",
@@ -29874,6 +29860,20 @@
     "frequency": "詞頻：★(2)",
     "name": "isvail",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail1_{1}.mp3",
+    "source": "vail"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：所丟棄的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：成果　範疇分類：表達破壞之動詞",
+        "zh_Hant": "他扔髒東西。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "isvail",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/isvail2_{1}.mp3",
     "source": "vail"
   },
   {
@@ -30951,26 +30951,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：只;僅",
-        "pronounce": null,
-        "sentence": "詞類：動詞",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★★★★(143)",
-    "name": "kaa",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kaa2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：不要;不可",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kaa1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：說話行動動詞",
@@ -30986,6 +30966,26 @@
     "frequency": "詞頻：★★★★(143)",
     "name": "kaa",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kaa1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：只;僅",
+        "pronounce": null,
+        "sentence": "詞類：動詞",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★★★★(143)",
+    "name": "kaa",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kaa2_{1}.mp3",
     "source": null
   },
   {
@@ -38223,20 +38223,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：果凍",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kulkul2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：食物",
-        "zh_Hant": "愛玉的果凍很好吃。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "kulkul",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kulkul2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：抖動;發抖",
         "pronounce": null,
         "sentence": "詞類：動詞　範疇分類：身體部位動詞",
@@ -38246,6 +38232,20 @@
     "frequency": "詞頻：★(2)",
     "name": "kulkul",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kulkul1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：果凍",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kulkul2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：食物",
+        "zh_Hant": "愛玉的果凍很好吃。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "kulkul",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kulkul2_{1}.mp3",
     "source": null
   },
   {
@@ -38879,20 +38879,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：使用",
-        "pronounce": null,
-        "sentence": "詞類：動詞　範疇分類：身體部位動詞",
-        "zh_Hant": "受事焦點："
-      }
-    ],
-    "frequency": "詞頻：★★★★(156)",
-    "name": "kusia",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kusia2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：到;去;來(較近處)",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kusia1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：空間位移動詞",
@@ -38914,6 +38900,20 @@
     "frequency": "詞頻：★★★★(156)",
     "name": "kusia",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kusia1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：使用",
+        "pronounce": null,
+        "sentence": "詞類：動詞　範疇分類：身體部位動詞",
+        "zh_Hant": "受事焦點："
+      }
+    ],
+    "frequency": "詞頻：★★★★(156)",
+    "name": "kusia",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/kusia2_{1}.mp3",
     "source": null
   },
   {
@@ -39601,20 +39601,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：油漆;柏油",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "lacing",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lacing2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：七里香;月橘",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lacing1_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞　範疇分類：非食用植物",
@@ -39624,6 +39610,20 @@
     "frequency": "詞頻：★(4)",
     "name": "lacing",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lacing1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：油漆;柏油",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "lacing",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lacing2_{1}.mp3",
     "source": null
   },
   {
@@ -42596,26 +42596,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：傷口",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lulu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：疾病及醫藥",
-        "zh_Hant": "那隻狗全身都有傷口。"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "Maza asu-a hai, aizaan tastulutbu tu lu'lu.",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "lulu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lulu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：顴骨",
         "pronounce": null,
         "sentence": "詞類：名詞　範疇分類：身體部位動詞",
@@ -42631,6 +42611,26 @@
     "frequency": "詞頻：★(4)",
     "name": "lulu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lulu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：傷口",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lulu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：疾病及醫藥",
+        "zh_Hant": "那隻狗全身都有傷口。"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "Maza asu-a hai, aizaan tastulutbu tu lu'lu.",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "lulu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lulu2_{1}.mp3",
     "source": null
   },
   {
@@ -42844,20 +42844,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：慶祝的時節;祭祀的時節",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：時間　範疇分類：時間動詞",
-        "zh_Hant": "慶祝耶穌生日的月份是十二月。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "lus-anan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan2_{1}.mp3",
-    "source": "lus-an"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：被慶祝",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：受事　範疇分類：宗教信仰相關動詞",
@@ -42867,6 +42853,20 @@
     "frequency": "詞頻：★(4)",
     "name": "lus-anan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan1_{1}.mp3",
+    "source": "lus-an"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：慶祝的時節;祭祀的時節",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：時間　範疇分類：時間動詞",
+        "zh_Hant": "慶祝耶穌生日的月份是十二月。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "lus-anan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/lus-anan2_{1}.mp3",
     "source": "lus-an"
   },
   {
@@ -42976,6 +42976,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：雲",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum1_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：氣象",
+        "zh_Hant": "雲變黑的時候，雷聲作響。 "
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "luum",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：包圍;囚禁",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum2_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞",
@@ -42991,20 +43005,6 @@
     "frequency": "詞頻：★(7)",
     "name": "luum",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：雲",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum1_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：氣象",
-        "zh_Hant": "雲變黑的時候，雷聲作響。 "
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "luum",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/luum1_{1}.mp3",
     "source": null
   },
   {
@@ -49772,20 +49772,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：接近某種顏色",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "malas-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/malas-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：說; 報告",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -49795,6 +49781,20 @@
     "frequency": "詞頻：★(0)",
     "name": "malas-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/malas-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：接近某種顏色",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "malas-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/malas-2_{1}.mp3",
     "source": null
   },
   {
@@ -51573,20 +51573,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：背;載",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mama2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：身體部位動詞",
-        "zh_Hant": "以前布農族的男人也背孩子。"
-      }
-    ],
-    "frequency": "詞頻：★★ (17)",
-    "name": "mama",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mama2_{1}.mp3",
-    "source": "ama"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：舌頭",
         "pronounce": null,
         "sentence": "詞類：名詞　範疇分類：身體部位",
@@ -51603,6 +51589,20 @@
     "name": "mama",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mama1_{1}.mp3",
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：背;載",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mama2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：身體部位動詞",
+        "zh_Hant": "以前布農族的男人也背孩子。"
+      }
+    ],
+    "frequency": "詞頻：★★ (17)",
+    "name": "mama",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mama2_{1}.mp3",
+    "source": "ama"
   },
   {
     "examples": [
@@ -52905,6 +52905,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：互相前綴",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：時式、時態詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "mapa-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mapa-2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：使役前綴",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -52920,20 +52934,6 @@
     "frequency": "詞頻：★(0)",
     "name": "mapa-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mapa-_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：互相前綴",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：時式、時態詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "mapa-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mapa-2_{1}.mp3",
     "source": null
   },
   {
@@ -55807,20 +55807,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：屬格標記: 屬於(某人/某物)的",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas3_{1}_@_1.1.mp3",
-        "sentence": "詞類：嘆詞　範疇分類：主題、主語、格位標記及其他標記",
-        "zh_Hant": "火車經過的的路徑(鐵道)"
-      }
-    ],
-    "frequency": "詞頻：★★★★(2732)",
-    "name": "mas",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：賓語標記",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas1_{1}_@_1.1.mp3",
         "sentence": "詞類：標記　範疇分類：主題、主語、格位標記及其他標記",
@@ -55850,6 +55836,20 @@
     "frequency": "詞頻：★★★★(2732)",
     "name": "mas",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：屬格標記: 屬於(某人/某物)的",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas3_{1}_@_1.1.mp3",
+        "sentence": "詞類：嘆詞　範疇分類：主題、主語、格位標記及其他標記",
+        "zh_Hant": "火車經過的的路徑(鐵道)"
+      }
+    ],
+    "frequency": "詞頻：★★★★(2732)",
+    "name": "mas",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mas3_{1}.mp3",
     "source": null
   },
   {
@@ -58067,20 +58067,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：發出聲音的動作",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "mat-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mat-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：漁獵",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -58090,6 +58076,20 @@
     "frequency": "詞頻：★(0)",
     "name": "mat-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mat-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：發出聲音的動作",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "mat-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mat-2_{1}.mp3",
     "source": null
   },
   {
@@ -62608,20 +62608,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：醉",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "mis-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mis-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：燒",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -62631,6 +62617,20 @@
     "frequency": "詞頻：★(0)",
     "name": "mis-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mis-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：醉",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "mis-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mis-2_{1}.mp3",
     "source": null
   },
   {
@@ -62972,13 +62972,13 @@
   {
     "examples": [
       {
-        "description": "解釋1：去",
+        "description": "解釋1：不及物動詞主事焦點前綴",
         "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：時式、時態詞綴",
+        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
         "zh_Hant": null
       },
       {
-        "description": "備註",
+        "description": "相關詞",
         "pronounce": null,
         "sentence": null,
         "zh_Hant": null
@@ -62986,7 +62986,7 @@
     ],
     "frequency": "詞頻：★(0)",
     "name": "mu-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mu-3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mu-1_{1}.mp3",
     "source": null
   },
   {
@@ -63012,13 +63012,13 @@
   {
     "examples": [
       {
-        "description": "解釋1：不及物動詞主事焦點前綴",
+        "description": "解釋1：去",
         "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：焦點詞綴",
+        "sentence": "詞類：詞綴　範疇分類：時式、時態詞綴",
         "zh_Hant": null
       },
       {
-        "description": "相關詞",
+        "description": "備註",
         "pronounce": null,
         "sentence": null,
         "zh_Hant": null
@@ -63026,7 +63026,7 @@
     ],
     "frequency": "詞頻：★(0)",
     "name": "mu-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mu-1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/mu-3_{1}.mp3",
     "source": null
   },
   {
@@ -64688,6 +64688,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：搓揉",
+        "pronounce": null,
+        "sentence": "詞類：動詞　範疇分類：家居動詞",
+        "zh_Hant": "受事焦點："
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "musmus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/musmus1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：電話",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/musmus2_{1}_@_1.1.mp3",
         "sentence": "詞類：名詞　範疇分類：家居用品",
@@ -64709,20 +64723,6 @@
     "frequency": "詞頻：★(2)",
     "name": "musmus",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/musmus2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：搓揉",
-        "pronounce": null,
-        "sentence": "詞類：動詞　範疇分類：家居動詞",
-        "zh_Hant": "受事焦點："
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "musmus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/musmus1_{1}.mp3",
     "source": null
   },
   {
@@ -66749,20 +66749,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：互相前綴",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "pa-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pa-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使役前綴",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pa-1_{1}_@_1.1.mp3",
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -66772,6 +66758,20 @@
     "frequency": "詞頻：★(0)",
     "name": "pa-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pa-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：互相前綴",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "pa-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pa-2_{1}.mp3",
     "source": null
   },
   {
@@ -68079,26 +68079,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：結婚的時間;結婚的日期",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：時間",
-        "zh_Hant": "今天是我們結婚的日子。"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "Aip hai, imita padangian tu hanian.",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★★ (11)",
-    "name": "padangian",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian2_{1}.mp3",
-    "source": "padangi"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使擺放的地方",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：處所",
@@ -68120,6 +68100,26 @@
     "frequency": "詞頻：★★ (11)",
     "name": "padangian",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian1_{1}.mp3",
+    "source": "padangi"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：結婚的時間;結婚的日期",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：時間",
+        "zh_Hant": "今天是我們結婚的日子。"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "Aip hai, imita padangian tu hanian.",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★★ (11)",
+    "name": "padangian",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/padangian2_{1}.mp3",
     "source": "padangi"
   },
   {
@@ -68173,6 +68173,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：使…玩/被取笑",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainan1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：使役　範疇分類：身體部位動詞",
+        "zh_Hant": "取笑他！"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "pahainan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainan1_{1}.mp3",
+    "source": "hainan"
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：玩耍;說笑",
         "pronounce": null,
         "sentence": "詞類：動詞　焦點：互相　範疇分類：休閒活動相關動詞",
@@ -68193,16 +68207,16 @@
   {
     "examples": [
       {
-        "description": "解釋1：使…玩/被取笑",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainan1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：使役　範疇分類：身體部位動詞",
-        "zh_Hant": "取笑他！"
+        "description": "解釋1：被譏笑",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainanan1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：處所",
+        "zh_Hant": "他被人譏笑。"
       }
     ],
-    "frequency": "詞頻：★(1)",
-    "name": "pahainan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainan1_{1}.mp3",
-    "source": "hainan"
+    "frequency": "詞頻：★(4)",
+    "name": "pahainanan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainanan1_{1}.mp3",
+    "source": "pahainan"
   },
   {
     "examples": [
@@ -68221,16 +68235,16 @@
   {
     "examples": [
       {
-        "description": "解釋1：被譏笑",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainanan1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：處所",
-        "zh_Hant": "他被人譏笑。"
+        "description": "解釋1：劃界線;(障礙物)擋住",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：使役　範疇分類：農牧相關動詞",
+        "zh_Hant": null
       }
     ],
-    "frequency": "詞頻：★(4)",
-    "name": "pahainanan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahainanan1_{1}.mp3",
-    "source": "pahainan"
+    "frequency": "詞頻：★(0)",
+    "name": "pahais",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahais1_{1}.mp3",
+    "source": "hais"
   },
   {
     "examples": [
@@ -68250,20 +68264,6 @@
     "frequency": "詞頻：★(0)",
     "name": "pahais",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahais2_{1}.mp3",
-    "source": "hais"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：劃界線;(障礙物)擋住",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：使役　範疇分類：農牧相關動詞",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "pahais",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pahais1_{1}.mp3",
     "source": "hais"
   },
   {
@@ -68833,20 +68833,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：敵人",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pais2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：親屬稱謂和年齡",
-        "zh_Hant": "敵人要攻擊我們。"
-      }
-    ],
-    "frequency": "詞頻：★★★(28)",
-    "name": "pais",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pais2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：苦",
         "pronounce": null,
         "sentence": "詞類：名詞　範疇分類：感官動詞",
@@ -68856,6 +68842,20 @@
     "frequency": "詞頻：★★★(28)",
     "name": "pais",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pais1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：敵人",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pais2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：親屬稱謂和年齡",
+        "zh_Hant": "敵人要攻擊我們。"
+      }
+    ],
+    "frequency": "詞頻：★★★(28)",
+    "name": "pais",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pais2_{1}.mp3",
     "source": null
   },
   {
@@ -69561,20 +69561,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：桑樹",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun2_{1}_@_1.1.mp3",
-        "sentence": "詞類：名詞　範疇分類：非食用植物",
-        "zh_Hant": "桑樹是蠶的食物。"
-      }
-    ],
-    "frequency": "詞頻：★(7)",
-    "name": "pakaun",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使…進食;提供食物",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：使役　範疇分類：新陳代謝動詞",
@@ -69585,6 +69571,20 @@
     "name": "pakaun",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun1_{1}.mp3",
     "source": "kaun"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：桑樹",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun2_{1}_@_1.1.mp3",
+        "sentence": "詞類：名詞　範疇分類：非食用植物",
+        "zh_Hant": "桑樹是蠶的食物。"
+      }
+    ],
+    "frequency": "詞頻：★(7)",
+    "name": "pakaun",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pakaun2_{1}.mp3",
+    "source": null
   },
   {
     "examples": [
@@ -70626,6 +70626,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：使抱",
+        "pronounce": null,
+        "sentence": "詞類：動詞　焦點：使役　範疇分類：身體部位動詞",
+        "zh_Hant": "成果焦點："
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "paliba",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/paliba1_{1}.mp3",
+    "source": "aliba"
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：互相擁抱",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/paliba2_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：互相　範疇分類：身體部位動詞",
@@ -70641,20 +70655,6 @@
     "frequency": "詞頻：★(1)",
     "name": "paliba",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/paliba2_{1}.mp3",
-    "source": "aliba"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：使抱",
-        "pronounce": null,
-        "sentence": "詞類：動詞　焦點：使役　範疇分類：身體部位動詞",
-        "zh_Hant": "成果焦點："
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "paliba",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/paliba1_{1}.mp3",
     "source": "aliba"
   },
   {
@@ -72548,20 +72548,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：互相看;見面",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pasadu2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：互相　範疇分類：感官動詞",
-        "zh_Hant": "我看見以前的朋友（如今已無交情）。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "pasadu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pasadu2_{1}.mp3",
-    "source": "sadu"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使…看",
         "pronounce": null,
         "sentence": "詞類：動詞　焦點：主事,使役　範疇分類：感官動詞",
@@ -72578,6 +72564,20 @@
     "name": "pasadu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pasadu1_{1}.mp3",
     "source": "pa-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：互相看;見面",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pasadu2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：互相　範疇分類：感官動詞",
+        "zh_Hant": "我看見以前的朋友（如今已無交情）。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "pasadu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pasadu2_{1}.mp3",
+    "source": "sadu"
   },
   {
     "examples": [
@@ -73935,20 +73935,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：寫字的地方",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：處所　範疇分類：家居動詞",
-        "zh_Hant": "那個房間是我寫我的書的地方。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(52)",
-    "name": "patasan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan2_{1}.mp3",
-    "source": "patas"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：被寫",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：受事　範疇分類：家居動詞",
@@ -73982,6 +73968,20 @@
     "frequency": "詞頻：★★★★(52)",
     "name": "patasan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan1_{1}.mp3",
+    "source": "patas"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：寫字的地方",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：處所　範疇分類：家居動詞",
+        "zh_Hant": "那個房間是我寫我的書的地方。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(52)",
+    "name": "patasan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/patasan2_{1}.mp3",
     "source": "patas"
   },
   {
@@ -76634,26 +76634,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：使變成;使出現(使役前綴)",
-        "pronounce": null,
-        "sentence": "範疇分類：其他詞綴",
-        "zh_Hant": null
-      },
-      {
-        "description": "相關詞",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "pis-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pis-3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：種植;產生",
         "pronounce": null,
         "sentence": "範疇分類：其他詞綴",
@@ -76683,6 +76663,26 @@
     "frequency": "詞頻：★(0)",
     "name": "pis-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pis-2_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：使變成;使出現(使役前綴)",
+        "pronounce": null,
+        "sentence": "範疇分類：其他詞綴",
+        "zh_Hant": null
+      },
+      {
+        "description": "相關詞",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "pis-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pis-3_{1}.mp3",
     "source": null
   },
   {
@@ -77904,20 +77904,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：殺 (前綴)",
-        "pronounce": null,
-        "sentence": "範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "pit-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pit-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：煮 (前綴)",
         "pronounce": null,
         "sentence": "範疇分類：其他詞綴",
@@ -77927,6 +77913,20 @@
     "frequency": "詞頻：★(0)",
     "name": "pit-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pit-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：殺 (前綴)",
+        "pronounce": null,
+        "sentence": "範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "pit-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pit-2_{1}.mp3",
     "source": null
   },
   {
@@ -78828,20 +78828,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：歷時(年)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pun-2_{1}_@_1.1.mp3",
-        "sentence": "詞類：指示詞　範疇分類：其他詞綴",
-        "zh_Hant": "你在這裡教書多少年了？"
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "pun-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pun-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：使位於;使出現",
         "pronounce": null,
         "sentence": "範疇分類：其他詞綴",
@@ -78857,6 +78843,20 @@
     "frequency": "詞頻：★(0)",
     "name": "pun-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pun-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：歷時(年)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pun-2_{1}_@_1.1.mp3",
+        "sentence": "詞類：指示詞　範疇分類：其他詞綴",
+        "zh_Hant": "你在這裡教書多少年了？"
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "pun-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pun-2_{1}.mp3",
     "source": null
   },
   {
@@ -79250,6 +79250,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：塵土飛揚",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pupunu1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　範疇分類：自然環境",
+        "zh_Hant": "乾涸的河流在起風時塵土飛揚。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "pupunu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pupunu1_{1}.mp3",
+    "source": "punu"
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：昭和草",
         "pronounce": null,
         "sentence": "詞類：名詞　範疇分類：非食用植物",
@@ -79266,20 +79280,6 @@
     "name": "pupunu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pupunu2_{1}.mp3",
     "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：塵土飛揚",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pupunu1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　範疇分類：自然環境",
-        "zh_Hant": "乾涸的河流在起風時塵土飛揚。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "pupunu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/pupunu1_{1}.mp3",
-    "source": "punu"
   },
   {
     "examples": [
@@ -80864,6 +80864,26 @@
   {
     "examples": [
       {
+        "description": "解釋1：橄欖",
+        "pronounce": null,
+        "sentence": "詞類：名詞　範疇分類：食用植物",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "salangka",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salangka1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：站立",
         "pronounce": null,
         "sentence": "詞類：動詞　範疇分類：身體部位動詞",
@@ -80885,26 +80905,6 @@
     "frequency": "詞頻：★(3)",
     "name": "salangka",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salangka2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：橄欖",
-        "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：食用植物",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "salangka",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salangka1_{1}.mp3",
     "source": null
   },
   {
@@ -80966,6 +80966,26 @@
   {
     "examples": [
       {
+        "description": "解釋1：馬上;立刻",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz1_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事",
+        "zh_Hant": "敵人來了，他立刻跑去躲起來。 "
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "Minsuma pais aat, salaz sa-ia cisdadaan tunhabin.",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "salaz",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：雖然;即使",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz2_{1}_@_1.1.mp3",
         "sentence": "詞類：連接詞　範疇分類：連接詞",
@@ -80987,26 +81007,6 @@
     "frequency": "詞頻：★(5)",
     "name": "salaz",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：馬上;立刻",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz1_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事",
-        "zh_Hant": "敵人來了，他立刻跑去躲起來。 "
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "Minsuma pais aat, salaz sa-ia cisdadaan tunhabin.",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "salaz",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/salaz1_{1}.mp3",
     "source": null
   },
   {
@@ -84323,6 +84323,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：肥皂",
+        "pronounce": null,
+        "sentence": "詞類：名詞　範疇分類：家居用品",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "siking",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/siking1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：測驗;考試",
         "pronounce": null,
         "sentence": "詞類：名詞",
@@ -84338,20 +84352,6 @@
     "frequency": "詞頻：★(4)",
     "name": "siking",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/siking2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：肥皂",
-        "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：家居用品",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "siking",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/siking1_{1}.mp3",
     "source": null
   },
   {
@@ -88061,26 +88061,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：許多",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：時間",
-        "zh_Hant": "古代有許多水鹿。"
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": "Habas hai, supahan mas hanvang.",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★★★★(78)",
-    "name": "supahan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan2_{1}.mp3",
-    "source": "supah"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：多",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：處所",
@@ -88096,6 +88076,26 @@
     "frequency": "詞頻：★★★★(78)",
     "name": "supahan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan1_{1}.mp3",
+    "source": "supah"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：許多",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：時間",
+        "zh_Hant": "古代有許多水鹿。"
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": "Habas hai, supahan mas hanvang.",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★★★★(78)",
+    "name": "supahan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/supahan2_{1}.mp3",
     "source": "supah"
   },
   {
@@ -90204,20 +90204,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：洗(身體部位)",
-        "pronounce": null,
-        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "tal-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-3_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：生長",
         "pronounce": null,
         "sentence": "詞類：詞綴　範疇分類：其他詞綴",
@@ -90246,6 +90232,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：洗(身體部位)",
+        "pronounce": null,
+        "sentence": "詞類：詞綴　範疇分類：其他詞綴",
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "tal-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-3_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：(植物)成長",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ia_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：植物動作動詞",
@@ -90260,20 +90260,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：長達五天",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima2_{1}_@_1.1.mp3",
-        "sentence": "詞類：動詞　焦點：主事　範疇分類：時間動詞",
-        "zh_Hant": "他父親去打獵，要五天(才回來)。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "tal-ima",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima2_{1}.mp3",
-    "source": "ima"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：洗手",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima1_{1}_@_1.1.mp3",
         "sentence": "詞類：動詞　焦點：主事　範疇分類：家居動詞",
@@ -90283,6 +90269,20 @@
     "frequency": "詞頻：★(3)",
     "name": "tal-ima",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima1_{1}.mp3",
+    "source": "ima"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：長達五天",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima2_{1}_@_1.1.mp3",
+        "sentence": "詞類：動詞　焦點：主事　範疇分類：時間動詞",
+        "zh_Hant": "他父親去打獵，要五天(才回來)。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "tal-ima",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tal-ima2_{1}.mp3",
     "source": "ima"
   },
   {
@@ -94995,20 +94995,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：補語標記",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu2_{1}_@_1.1.mp3",
-        "sentence": "範疇分類：主題、主語、格位標記及其他標記",
-        "zh_Hant": "有一天將再相見。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(3514)",
-    "name": "tu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：修飾標記: 的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu1_{1}_@_1.1.mp3",
         "sentence": "範疇分類：主題、主語、格位標記及其他標記",
@@ -95018,6 +95004,20 @@
     "frequency": "詞頻：★★★★(3514)",
     "name": "tu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：補語標記",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu2_{1}_@_1.1.mp3",
+        "sentence": "範疇分類：主題、主語、格位標記及其他標記",
+        "zh_Hant": "有一天將再相見。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(3514)",
+    "name": "tu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/tu2_{1}.mp3",
     "source": null
   },
   {
@@ -100266,25 +100266,13 @@
       {
         "description": "解釋1：八（個東西）",
         "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：基數",
-        "zh_Hant": null
-      },
-      {
-        "description": "解釋2：肩",
-        "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：身體部位",
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
+        "sentence": "詞類：名詞　範疇分類：基數/非數人數字",
         "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★(2)",
     "name": "vau",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/vau_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/vau1_{1}.mp3",
     "source": null
   },
   {
@@ -100306,13 +100294,25 @@
       {
         "description": "解釋1：八（個東西）",
         "pronounce": null,
-        "sentence": "詞類：名詞　範疇分類：基數/非數人數字",
+        "sentence": "詞類：名詞　範疇分類：基數",
+        "zh_Hant": null
+      },
+      {
+        "description": "解釋2：肩",
+        "pronounce": null,
+        "sentence": "詞類：名詞　範疇分類：身體部位",
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
         "zh_Hant": null
       }
     ],
     "frequency": "詞頻：★(2)",
     "name": "vau",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/vau1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/bnn/vau_{1}.mp3",
     "source": null
   },
   {

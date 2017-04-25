@@ -6174,26 +6174,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：芋莖乾",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      },
-      {
-        "description": "備註",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "cahid",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cahid2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：雲",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cahid1_{1}_@_1.1.mp3",
         "sentence": "O maan ko cengel no cahid i kakarayan?",
@@ -6209,6 +6189,26 @@
     "frequency": "詞頻：★(2)",
     "name": "cahid",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cahid1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：芋莖乾",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      },
+      {
+        "description": "備註",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "cahid",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cahid2_{1}.mp3",
     "source": null
   },
   {
@@ -9084,20 +9084,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：船",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar2_{1}_@_1.1.mp3",
-        "sentence": "O cifar ko pidakawan no sofitay talaKimmong.",
-        "zh_Hant": "軍隊搭船赴金門。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "cifar",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：葉子做成的船型盤",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar1_{1}_@_1.1.mp3",
         "sentence": "O cifar ko pitenesan naira to sinafel.",
@@ -9107,6 +9093,20 @@
     "frequency": "詞頻：★(3)",
     "name": "cifar",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：船",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar2_{1}_@_1.1.mp3",
+        "sentence": "O cifar ko pidakawan no sofitay talaKimmong.",
+        "zh_Hant": "軍隊搭船赴金門。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "cifar",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/cifar2_{1}.mp3",
     "source": null
   },
   {
@@ -16356,20 +16356,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：捆綁",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "feded",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/feded2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鼻塞；燻趕蚊子",
         "pronounce": null,
         "sentence": null,
@@ -16379,6 +16365,20 @@
     "frequency": "詞頻：★(0)",
     "name": "feded",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/feded1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：捆綁",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "feded",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/feded2_{1}.mp3",
     "source": null
   },
   {
@@ -33856,20 +33856,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：流汗",
-        "pronounce": null,
-        "sentence": "Macahiw ko mimaliay.",
-        "zh_Hant": "打球的人滿身大汗。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "macahiw",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/macahiw2_{1}.mp3",
-    "source": "cahiw"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：餓",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/macahiw1_{1}_@_1.1.mp3",
         "sentence": "Macahiw kako.",
@@ -33879,6 +33865,20 @@
     "frequency": "詞頻：★(2)",
     "name": "macahiw",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/macahiw1_{1}.mp3",
+    "source": "cahiw"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：流汗",
+        "pronounce": null,
+        "sentence": "Macahiw ko mimaliay.",
+        "zh_Hant": "打球的人滿身大汗。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "macahiw",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/ami/macahiw2_{1}.mp3",
     "source": "cahiw"
   },
   {

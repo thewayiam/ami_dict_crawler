@@ -2970,20 +2970,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：出去(責備)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu2_{1}_@_1.1.mp3",
-        "sentence": "casavu! maya qivu a penaqetelengan i maza.",
-        "zh_Hant": "請你出去，不要在這裡胡言亂語。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "casavu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu2_{1}.mp3",
-    "source": "casav"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：到外面",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu1_{1}_@_1.1.mp3",
         "sentence": "casavu a tjemamaku paqaljaitjen tua qaljaqalja.",
@@ -2993,6 +2979,20 @@
     "frequency": "詞頻：★(1)",
     "name": "casavu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu1_{1}.mp3",
+    "source": "casav"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：出去(責備)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu2_{1}_@_1.1.mp3",
+        "sentence": "casavu! maya qivu a penaqetelengan i maza.",
+        "zh_Hant": "請你出去，不要在這裡胡言亂語。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "casavu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/casavu2_{1}.mp3",
     "source": "casav"
   },
   {
@@ -3822,15 +3822,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：包(紅白)錢",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu3_{1}_@_1.1.mp3",
-        "sentence": "nu masudju nu maqipel masan kakudananga cemavu itjen tua paisu.",
-        "zh_Hant": "包錢已成為婚喪喜慶的禮俗。"
+        "description": "解釋1：包食物",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu1_{1}_@_1.1.mp3",
+        "sentence": "uri cemavu tua vutjulj ti vuvu kati kina.",
+        "zh_Hant": "祖母和母親要包肉粽。"
       }
     ],
     "frequency": "詞頻：★(7)",
     "name": "cemavu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu3_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu1_{1}.mp3",
     "source": "cavu"
   },
   {
@@ -3850,15 +3850,15 @@
   {
     "examples": [
       {
-        "description": "解釋1：包食物",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu1_{1}_@_1.1.mp3",
-        "sentence": "uri cemavu tua vutjulj ti vuvu kati kina.",
-        "zh_Hant": "祖母和母親要包肉粽。"
+        "description": "解釋1：包(紅白)錢",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu3_{1}_@_1.1.mp3",
+        "sentence": "nu masudju nu maqipel masan kakudananga cemavu itjen tua paisu.",
+        "zh_Hant": "包錢已成為婚喪喜慶的禮俗。"
       }
     ],
     "frequency": "詞頻：★(7)",
     "name": "cemavu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu1_{1}.mp3",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemavu3_{1}.mp3",
     "source": "cavu"
   },
   {
@@ -3920,20 +3920,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：日出",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemedas_{1}_@_1.1.mp3",
-        "sentence": "cemedas anga qadaw.",
-        "zh_Hant": "太陽昇出來了。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "cemedas",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemedas_{1}.mp3",
-    "source": "cedas"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：女子名",
         "pronounce": null,
         "sentence": "a ti cemedas ngadan nua mamazangiljan a vavayan.",
@@ -3944,6 +3930,20 @@
     "name": "cemedas",
     "pronounce": null,
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：日出",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemedas_{1}_@_1.1.mp3",
+        "sentence": "cemedas anga qadaw.",
+        "zh_Hant": "太陽昇出來了。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "cemedas",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cemedas_{1}.mp3",
+    "source": "cedas"
   },
   {
     "examples": [
@@ -6138,20 +6138,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：男子名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cunuq 2_{1}_@_1.1.mp3",
-        "sentence": "azua ku qali a ti cunuq liav aravac a kinljakeljang a patjara tja kakudanan a payuan.",
-        "zh_Hant": "我的朋友cunuq 對我們排灣族的傳統文化瞭解很多。"
-      }
-    ],
-    "frequency": "詞頻：★(5)",
-    "name": "cunuq ",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cunuq 2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：土石流；崩坍；塌陷",
         "pronounce": null,
         "sentence": "nareminkutj a cunuq i pasa kavulungan.",
@@ -6161,6 +6147,20 @@
     "frequency": "詞頻：★(5)",
     "name": "cunuq ",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：男子名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cunuq 2_{1}_@_1.1.mp3",
+        "sentence": "azua ku qali a ti cunuq liav aravac a kinljakeljang a patjara tja kakudanan a payuan.",
+        "zh_Hant": "我的朋友cunuq 對我們排灣族的傳統文化瞭解很多。"
+      }
+    ],
+    "frequency": "詞頻：★(5)",
+    "name": "cunuq ",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/cunuq 2_{1}.mp3",
     "source": null
   },
   {
@@ -8872,20 +8872,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：山",
-        "pronounce": null,
-        "sentence": "naseminamalji a gadu i kavulungan.",
-        "zh_Hant": "大武山脈很壯觀。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(38)",
-    "name": "gadu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/gadu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：家名",
         "pronounce": null,
         "sentence": "lja gadu ania umaq.",
@@ -8895,6 +8881,20 @@
     "frequency": "詞頻：★★★★(38)",
     "name": "gadu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/gadu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：山",
+        "pronounce": null,
+        "sentence": "naseminamalji a gadu i kavulungan.",
+        "zh_Hant": "大武山脈很壯觀。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(38)",
+    "name": "gadu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/gadu2_{1}.mp3",
     "source": null
   },
   {
@@ -15296,20 +15296,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：具有｢自己表現｣之意",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(0)",
-    "name": "ki-",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ki-2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：具有｢獲得…｣之意",
         "pronounce": null,
         "sentence": null,
@@ -15319,6 +15305,20 @@
     "frequency": "詞頻：★(0)",
     "name": "ki-",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ki-1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：具有｢自己表現｣之意",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(0)",
+    "name": "ki-",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ki-2_{1}.mp3",
     "source": null
   },
   {
@@ -23288,20 +23288,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：陰涼處",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung2_{1}_@_1.1.mp3",
-        "sentence": "sarunguaq sa ljaung naicu a kasiv.",
-        "zh_Hant": "這棵樹的遮蔭很涼爽。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "ljaung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung2_{1}.mp3",
-    "source": "ljaung-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：雨具",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung1_{1}_@_1.1.mp3",
         "sentence": "padjeleu anga tua ljaung mananga nu qemudjalj.",
@@ -23311,6 +23297,20 @@
     "frequency": "詞頻：★(2)",
     "name": "ljaung",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung1_{1}.mp3",
+    "source": "ljaung-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：陰涼處",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung2_{1}_@_1.1.mp3",
+        "sentence": "sarunguaq sa ljaung naicu a kasiv.",
+        "zh_Hant": "這棵樹的遮蔭很涼爽。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "ljaung",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljaung2_{1}.mp3",
     "source": "ljaung-"
   },
   {
@@ -24631,20 +24631,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：電話",
-        "pronounce": null,
-        "sentence": null,
-        "zh_Hant": null
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "ljingas",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljingas2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：鐵絲",
         "pronounce": null,
         "sentence": "alapu a ku ljingas ita haia.",
@@ -24654,6 +24640,20 @@
     "frequency": "詞頻：★(4)",
     "name": "ljingas",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：電話",
+        "pronounce": null,
+        "sentence": null,
+        "zh_Hant": null
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "ljingas",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/ljingas2_{1}.mp3",
     "source": null
   },
   {
@@ -26013,20 +26013,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：炎熱",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju2_{1}_@_1.1.mp3",
-        "sentence": "maculju sa qadaw a vuaq.",
-        "zh_Hant": "今天的天氣很炎熱。"
-      }
-    ],
-    "frequency": "詞頻：★(8)",
-    "name": "maculju",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju2_{1}.mp3",
-    "source": "culju-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：燙傷",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju1_{1}_@_1.1.mp3",
         "sentence": "na maculju tua linalja aicu aku kula.",
@@ -26036,6 +26022,20 @@
     "frequency": "詞頻：★(8)",
     "name": "maculju",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju1_{1}.mp3",
+    "source": "culju-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：炎熱",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju2_{1}_@_1.1.mp3",
+        "sentence": "maculju sa qadaw a vuaq.",
+        "zh_Hant": "今天的天氣很炎熱。"
+      }
+    ],
+    "frequency": "詞頻：★(8)",
+    "name": "maculju",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/maculju2_{1}.mp3",
     "source": "culju-"
   },
   {
@@ -35661,20 +35661,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：門當戶對",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng2_{1}_@_1.1.mp3",
-        "sentence": "kapucekelj ti ljaucu kati eleng pacengceng a siniucevungan.",
-        "zh_Hant": "ljaucu(男子名)跟eleng(女子名)的婚姻是門當戶對的。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "pacengceng",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng2_{1}.mp3",
-    "source": "cengceng"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：剛剛好",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng1_{1}_@_1.1.mp3",
         "sentence": "pacengceng a pinakciuan ta kava .",
@@ -35684,6 +35670,20 @@
     "frequency": "詞頻：★(4)",
     "name": "pacengceng",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng1_{1}.mp3",
+    "source": "cengceng"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：門當戶對",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng2_{1}_@_1.1.mp3",
+        "sentence": "kapucekelj ti ljaucu kati eleng pacengceng a siniucevungan.",
+        "zh_Hant": "ljaucu(男子名)跟eleng(女子名)的婚姻是門當戶對的。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "pacengceng",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pacengceng2_{1}.mp3",
     "source": "cengceng"
   },
   {
@@ -37247,6 +37247,20 @@
   {
     "examples": [
       {
+        "description": "解釋1：貝珠帶",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak1_{1}_@_1.1.mp3",
+        "sentence": "aicu a ravaravain nua payuanzuku namasan pazangal a paljavak.",
+        "zh_Hant": "排灣族的傳統服飾中貝珠帶是很重要。"
+      }
+    ],
+    "frequency": "詞頻：★(4)",
+    "name": "paljavak",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
         "description": "解釋1：具有｢含跨、領域、勢力範圍｣之意",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak2_{1}_@_1.1.mp3",
         "sentence": "kasicuayan aicu a mamazangiljan na paljavak tua pana, cemecemel, qinaljan katua taqaljaqaljan.",
@@ -37271,20 +37285,6 @@
     "name": "paljavak",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak_{1}.mp3",
     "source": "ljavak-"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：貝珠帶",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak1_{1}_@_1.1.mp3",
-        "sentence": "aicu a ravaravain nua payuanzuku namasan pazangal a paljavak.",
-        "zh_Hant": "排灣族的傳統服飾中貝珠帶是很重要。"
-      }
-    ],
-    "frequency": "詞頻：★(4)",
-    "name": "paljavak",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/paljavak1_{1}.mp3",
-    "source": null
   },
   {
     "examples": [
@@ -39055,20 +39055,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：除喪",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pasacasav2_{1}_@_1.1.mp3",
-        "sentence": "aicu a pasacasav namasan palisian uta nua paiwan.",
-        "zh_Hant": "除喪是排灣族的生命禮俗之一。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "pasacasav",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pasacasav2_{1}.mp3",
-    "source": "casav"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：向屋外",
         "pronounce": null,
         "sentence": "pasacasav aken a pacun .",
@@ -39078,6 +39064,20 @@
     "frequency": "詞頻：★(3)",
     "name": "pasacasav",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pasacasav1_{1}.mp3",
+    "source": "casav"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：除喪",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pasacasav2_{1}_@_1.1.mp3",
+        "sentence": "aicu a pasacasav namasan palisian uta nua paiwan.",
+        "zh_Hant": "除喪是排灣族的生命禮俗之一。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "pasacasav",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pasacasav2_{1}.mp3",
     "source": "casav"
   },
   {
@@ -43761,20 +43761,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：送靈祭",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pusau2_{1}_@_1.1.mp3",
-        "sentence": "nu sika unem a cavilj pusau itjen tua tjasevlitan.",
-        "zh_Hant": "每六年會辦一次送靈祭。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "pusau",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pusau2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：送客人",
         "pronounce": null,
         "sentence": "vaikamen a pusau tua qaljaqalja.",
@@ -43784,6 +43770,20 @@
     "frequency": "詞頻：★(2)",
     "name": "pusau",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：送靈祭",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pusau2_{1}_@_1.1.mp3",
+        "sentence": "nu sika unem a cavilj pusau itjen tua tjasevlitan.",
+        "zh_Hant": "每六年會辦一次送靈祭。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "pusau",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/pusau2_{1}.mp3",
     "source": null
   },
   {
@@ -50271,20 +50271,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：濕地；水源地",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj2_{1}_@_1.1.mp3",
-        "sentence": "izua i quvulj a nia puvasan.",
-        "zh_Hant": "我們的芋頭園位在水源地。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "quvulj",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：地名",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj1_{1}_@_1.1.mp3",
         "sentence": "na kemasi quvulj aicu a nia kini ciqaw.",
@@ -50294,6 +50280,20 @@
     "frequency": "詞頻：★(2)",
     "name": "quvulj",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：濕地；水源地",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj2_{1}_@_1.1.mp3",
+        "sentence": "izua i quvulj a nia puvasan.",
+        "zh_Hant": "我們的芋頭園位在水源地。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "quvulj",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/quvulj2_{1}.mp3",
     "source": null
   },
   {
@@ -53435,20 +53435,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：典雅的女孩",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/samiling2_{1}_@_1.1.mp3",
-        "sentence": "samiling a ravac a kina vavayanan ni muakai.",
-        "zh_Hant": "muakai是一位很典雅的女孩。"
-      }
-    ],
-    "frequency": "詞頻：★(3)",
-    "name": "samiling",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/samiling2_{1}.mp3",
-    "source": "miling-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：莊重",
         "pronounce": null,
         "sentence": "samiling aravac a su kinavan",
@@ -53458,6 +53444,20 @@
     "frequency": "詞頻：★(3)",
     "name": "samiling",
     "pronounce": null,
+    "source": "miling-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：典雅的女孩",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/samiling2_{1}_@_1.1.mp3",
+        "sentence": "samiling a ravac a kina vavayanan ni muakai.",
+        "zh_Hant": "muakai是一位很典雅的女孩。"
+      }
+    ],
+    "frequency": "詞頻：★(3)",
+    "name": "samiling",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/samiling2_{1}.mp3",
     "source": "miling-"
   },
   {
@@ -54745,20 +54745,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：突然生病(遭鬼附身)",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung2_{1}_@_1.1.mp3",
-        "sentence": "na secevung ayaitjen tua nasaqetju idjalan.",
-        "zh_Hant": "在旅途中突然生病因遭鬼附身。"
-      }
-    ],
-    "frequency": "詞頻：★(9)",
-    "name": "secevung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung2_{1}.mp3",
-    "source": "cevung-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：遇到",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung1_{1}_@_1.1.mp3",
         "sentence": "neka nu inika secevng tua siselapai tai kacauan.",
@@ -54768,6 +54754,20 @@
     "frequency": "詞頻：★(9)",
     "name": "secevung",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung1_{1}.mp3",
+    "source": "cevung-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：突然生病(遭鬼附身)",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung2_{1}_@_1.1.mp3",
+        "sentence": "na secevung ayaitjen tua nasaqetju idjalan.",
+        "zh_Hant": "在旅途中突然生病因遭鬼附身。"
+      }
+    ],
+    "frequency": "詞頻：★(9)",
+    "name": "secevung",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/secevung2_{1}.mp3",
     "source": "cevung-"
   },
   {
@@ -63571,20 +63571,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：男性神人名",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjagaraus1_{1}_@_1.1.mp3",
-        "sentence": "pinu ngadanan ta tisa tjagarauw a gadu i kavulungan.",
-        "zh_Hant": "大武山的名稱是用神人tjagadraus (男神)的名字來命名。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "tjagaraus",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjagaraus1_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：大武山",
         "pronounce": null,
         "sentence": "aicu ai kavulungan pinapu ngadan tua i tjagaraus uta.",
@@ -63594,6 +63580,20 @@
     "frequency": "詞頻：★(1)",
     "name": "tjagaraus",
     "pronounce": null,
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：男性神人名",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjagaraus1_{1}_@_1.1.mp3",
+        "sentence": "pinu ngadanan ta tisa tjagarauw a gadu i kavulungan.",
+        "zh_Hant": "大武山的名稱是用神人tjagadraus (男神)的名字來命名。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "tjagaraus",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjagaraus1_{1}.mp3",
     "source": null
   },
   {
@@ -65060,20 +65060,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：走錯路",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai2_{1}_@_1.1.mp3",
-        "sentence": "tjelivai timadju tua siki tuvadavadai a djalan.",
-        "zh_Hant": "他在分叉處走錯了路。"
-      }
-    ],
-    "frequency": "詞頻：★(1)",
-    "name": "tjelivai",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai2_{1}.mp3",
-    "source": "livai-"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：小解",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai1_{1}_@_1.1.mp3",
         "sentence": "tjelivaiananaken ariari vaiku a kitjausangas.",
@@ -65083,6 +65069,20 @@
     "frequency": "詞頻：★(1)",
     "name": "tjelivai",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai1_{1}.mp3",
+    "source": "livai-"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：走錯路",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai2_{1}_@_1.1.mp3",
+        "sentence": "tjelivai timadju tua siki tuvadavadai a djalan.",
+        "zh_Hant": "他在分叉處走錯了路。"
+      }
+    ],
+    "frequency": "詞頻：★(1)",
+    "name": "tjelivai",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/tjelivai2_{1}.mp3",
     "source": "livai-"
   },
   {
@@ -67487,20 +67487,6 @@
     "examples": [
       {
         "description": "解釋1：稅的總稱",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vadis_{1}_@_1.1.mp3",
-        "sentence": "izua namasan lialiav a vadis na payuan.",
-        "zh_Hant": "排灣族有很多種不同的稅。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "vadis",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vadis_{1}.mp3",
-    "source": "vadis"
-  },
-  {
-    "examples": [
-      {
-        "description": "解釋1：稅的總稱",
         "pronounce": null,
         "sentence": null,
         "zh_Hant": null
@@ -67510,6 +67496,20 @@
     "name": "vadis",
     "pronounce": null,
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：稅的總稱",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vadis_{1}_@_1.1.mp3",
+        "sentence": "izua namasan lialiav a vadis na payuan.",
+        "zh_Hant": "排灣族有很多種不同的稅。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "vadis",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vadis_{1}.mp3",
+    "source": "vadis"
   },
   {
     "examples": [
@@ -70192,20 +70192,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：刺繡",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan2_{1}_@_1.1.mp3",
-        "sentence": "nguanguaq a ravac a vinecikan tua su itung a kinacalisianan.",
-        "zh_Hant": "你的傳統服上的刺繡很美。"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "vinecikan",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan2_{1}.mp3",
-    "source": "vecik"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：寫了字的；作了符號的",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan1_{1}_@_1.1.mp3",
         "sentence": "nguanguaq aravac a vinecikan nazua qunuqunu.",
@@ -70215,6 +70201,20 @@
     "frequency": "詞頻：★(2)",
     "name": "vinecikan",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan1_{1}.mp3",
+    "source": "vecik"
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：刺繡",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan2_{1}_@_1.1.mp3",
+        "sentence": "nguanguaq a ravac a vinecikan tua su itung a kinacalisianan.",
+        "zh_Hant": "你的傳統服上的刺繡很美。"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "vinecikan",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vinecikan2_{1}.mp3",
     "source": "vecik"
   },
   {
@@ -70840,20 +70840,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：百步蛇",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vulung_{1}_@_1.1.mp3",
-        "sentence": "liav a patarevan nua vulung i ta kacalisian.",
-        "zh_Hant": "百步蛇在原住民是很多重要的意義"
-      }
-    ],
-    "frequency": "詞頻：★(2)",
-    "name": "vulung",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vulung_{1}.mp3",
-    "source": "vulung"
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：(kamavanan)百步蛇；大武山。",
         "pronounce": null,
         "sentence": null,
@@ -70864,6 +70850,20 @@
     "name": "vulung",
     "pronounce": null,
     "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：百步蛇",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vulung_{1}_@_1.1.mp3",
+        "sentence": "liav a patarevan nua vulung i ta kacalisian.",
+        "zh_Hant": "百步蛇在原住民是很多重要的意義"
+      }
+    ],
+    "frequency": "詞頻：★(2)",
+    "name": "vulung",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vulung_{1}.mp3",
+    "source": "vulung"
   },
   {
     "examples": [
@@ -71050,20 +71050,6 @@
   {
     "examples": [
       {
-        "description": "解釋1：孫兒孫女",
-        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu2_{1}_@_1.1.mp3",
-        "sentence": "aminanan ti ljegean naku vuvu tucu.",
-        "zh_Hant": "目前我只有一位孫女叫做 ljegean。"
-      }
-    ],
-    "frequency": "詞頻：★★★★(145)",
-    "name": "vuvu",
-    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu2_{1}.mp3",
-    "source": null
-  },
-  {
-    "examples": [
-      {
         "description": "解釋1：祖父母輩",
         "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu1_{1}_@_1.1.mp3",
         "sentence": "taidai saka lima cavilj ti vuvu i vedaljam, laruq a ravac a nasi nimadju.",
@@ -71073,6 +71059,20 @@
     "frequency": "詞頻：★★★★(145)",
     "name": "vuvu",
     "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu1_{1}.mp3",
+    "source": null
+  },
+  {
+    "examples": [
+      {
+        "description": "解釋1：孫兒孫女",
+        "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu2_{1}_@_1.1.mp3",
+        "sentence": "aminanan ti ljegean naku vuvu tucu.",
+        "zh_Hant": "目前我只有一位孫女叫做 ljegean。"
+      }
+    ],
+    "frequency": "詞頻：★★★★(145)",
+    "name": "vuvu",
+    "pronounce": "http://e-dictionary.apc.gov.tw/MultiMedia/Audio/pwn/vuvu2_{1}.mp3",
     "source": null
   },
   {
