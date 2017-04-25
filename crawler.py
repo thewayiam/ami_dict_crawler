@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-from time import sleep
-from random import randint
-import re
-from selenium.common.exceptions import TimeoutException
-try:
-    from urlparse import urljoin
-except:
-    from urllib.parse import urljoin
+from urllib.parse import urljoin
 import scrapy
 from scrapy.selector import Selector
 
