@@ -1,105 +1,102 @@
 # -*- coding: utf-8 -*-
-from time import sleep
-from random import randint
-import re
-try:
-    from urlparse import urljoin
-except:
-    from urllib.parse import urljoin
+from urllib.parse import urljoin
 import scrapy
 from scrapy.selector import Selector
-
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from pyvirtualdisplay import Display
 
 
 class Spider(scrapy.Spider):
     name = "ami"
     allowed_domains = ["e-dictionary.apc.gov.tw"]
     download_delay = 0
+    辭典網址 = 'http://e-dictionary.apc.gov.tw/{}/Search.htm'
+    目錄網址 = 'http://e-dictionary.apc.gov.tw/{}/TermsMenu.htm'
+    詞條網址 = 'http://e-dictionary.apc.gov.tw/{}/Term.htm'
+
+    custom_settings = {
+        'FEED_EXPORT_ENCODING': 'utf-8',
+    }
 
     def __init__(self, lang='ami', ad=None, *args, **kwargs):
         super(Spider, self).__init__(*args, **kwargs)
-        self.display = Display(visible=0, size=(800, 600))
-        self.display.start()
-        self.driver = webdriver.Chrome("/var/chromedriver/chromedriver")
-        self.start_urls = [
-            "http://e-dictionary.apc.gov.tw/%s/Search.htm" % lang
-        ]
+        self.start_urls = [self.辭典網址.format(lang)]
+        self.lang = lang
 
     def parse(self, response):
-        self.driver.get(response.url)
-        li_terms = self.driver.find_element_by_xpath('//li[@id="li_terms"]/a')
-        li_terms.click()
-        sleep(randint(1, 2))
-        start_letters = self.driver.find_elements_by_xpath('//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option')
-        previous_name = None
-        for start_letter in start_letters:
-            start_letter.click()
-            try:
-                element = WebDriverWait(self.driver, 10).until(
-                    EC.presence_of_element_located((By.ID, "oGHC_Term_Area"))
-                )
-            except:
-                print(start_letter.text)
-                sleep(randint(4, 5))
-                pass
-            self.must_stale(previous_name)
-            sleep(randint(4, 5))
-            terms = self.driver.find_elements_by_xpath('//a[@class="w_term"]')
-            for term in terms:
-                term.click()
-                try:
-                    element = WebDriverWait(self.driver, 10).until(
-                        EC.presence_of_element_located((By.XPATH, '//span[text()="%s"]' % term.text))
-                    )
-                except:
-                    print(start_letter.text)
-                    print(term.text)
-                    sleep(randint(4, 5))
-                    pass
-                self.must_stale(previous_name)
-                sleep(randint(1, 2))
-                data = {'examples': []}
-                try:
-                    previous_name = self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/span')
-                    data['name'] = previous_name.text
-                except Exception as err:
-                    # pyu 的 ' 無資料
-                    print('no name: %s' % term.text)
-                    print(err)
-                    continue
-                try:
-                    data['pronounce'] = urljoin(response.url, self.driver.find_element_by_xpath('//div[@id="oGHC_Term"]/a').get_attribute('rel'))
-                except:
-                    data['pronounce'] = None
-                data['frequency'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Freq"]').text
-                try:
-                    data['source'] = self.driver.find_element_by_xpath('//div[@id="oGHC_Source"]/a[@class="ws_term"]').text
-                except:
-                    data['source'] = None
-                descriptions = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[1]')]
-                sentences = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td')]
-                pronounces = [urljoin(response.url, x.get_attribute('rel')) for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[1]/td/a[@class="play"]')]
-                zh_Hants = [x.text for x in self.driver.find_elements_by_xpath('//div[@class="block"]/div[2]/table/tbody/tr[2]/td')]
-                for i in range(len(descriptions)):
-                    data['examples'].append({
-                        'description': descriptions[i],
-                        'sentence': sentences[i] if len(sentences) > i else None,
-                        'pronounce': pronounces[i] if len(pronounces) > i else None,
-                        'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
-                    })
-                yield data
+        for 目錄選項 in Selector(response).xpath(
+            '//select[@id="ctl00_oCPH_Tabs_ddl_char"]/option'
+        ):
+            字首 = 目錄選項.xpath('text()').extract_first()
+            編號 = 目錄選項.xpath('@value').extract_first()
+            meta = {
+                #                 'cookiejar': "%s_%d" % (self.lang, i),
+                '字首': 字首,
+                '目錄編號': 編號,
+            }
+            yield scrapy.FormRequest(
+                self.目錄網址.format(self.lang, 編號),
+                method='POST',
+                formdata={'tsid': 編號},
+                meta=meta, dont_filter=True,
+                callback=self.掠目錄,
+            )
 
-    def must_stale(self, previous_name):
-        if previous_name is not None:
-            try:
-                element = WebDriverWait(self.driver, 100).until(
-                    EC.staleness_of(previous_name)
-                )
-            except:
-                print('did not update!!')
-                sleep(randint(100, 200))
+    def 掠目錄(self, response):
+        self.logger.debug('掠 {} 的目錄'.format(response.meta['字首']))
+        for 詞條選項 in Selector(response).xpath('//a[@class="w_term"]'):
+            詞條編號 = 詞條選項.xpath('@rel').extract_first()
+            詞條名 = 詞條選項.xpath('text()').extract_first()
+            meta = {
+                #                 'cookiejar': "%s_%d" % (self.lang, i),
+                '詞條名': 詞條名,
+            }
+            yield scrapy.FormRequest(
+                self.詞條網址.format(self.lang, 詞條編號),
+                method='POST',
+                formdata={'did': 詞條編號, 'fun': ''},
+                meta=meta, dont_filter=True,
+                callback=self.掠詞條,
+            )
+
+    def 掠詞條(self, response):
+        self.logger.debug('掠 {} 詞條'.format(response.meta['詞條名']))
+        這詞條 = Selector(response)
+        data = {'examples': []}
+        data['name'] = 這詞條.xpath(
+            '//div[@id="oGHC_Term"]/span/text()'
+        ).extract_first()
+        if data['name'] is None:
+            self.logger.warning('{} 詞條無資料'.format(response.meta['詞條名']))
+            return
+        詞條音檔路徑 = 這詞條.xpath('//div[@id="oGHC_Term"]/a/@rel').extract_first()
+        if 詞條音檔路徑:
+            data['pronounce'] = urljoin(response.url, 詞條音檔路徑)
+        else:
+            data['pronounce'] = None
+        data['frequency'] = ''.join(
+            這詞條.xpath('//div[@id="oGHC_Freq"]/descendant::text()').extract()
+        )
+
+        try:
+            data['source'] = (
+                這詞條
+                .xpath('//div[@id="oGHC_Source"]/a[@class="ws_term"]/text()').
+                extract_first()
+            )
+        except:
+            data['source'] = None
+        descriptions = [''.join(x.xpath('descendant::text()').extract())
+                        for x in 這詞條.xpath('//div[@class="block"]/div[1]')]
+        sentences = [''.join(x.xpath('descendant::text()').extract()).strip()
+                     for x in 這詞條.xpath('//div[@class="block"]/div[2]/table/tr[1]/td')]
+        pronounces = [urljoin(response.url, x.extract()) for x in 這詞條.xpath(
+            '//div[@class="block"]/div[2]/table/tr[1]/td/a[@class="play"]/@rel')]
+        zh_Hants = [''.join(x.xpath('text()').extract()) for x in 這詞條.xpath(
+            '//div[@class="block"]/div[2]/table/tr[2]/td')]
+        for i in range(len(descriptions)):
+            data['examples'].append({
+                'description': descriptions[i],
+                'sentence': sentences[i] if len(sentences) > i else None,
+                'pronounce': pronounces[i] if len(pronounces) > i else None,
+                'zh_Hant': zh_Hants[i] if len(zh_Hants) > i else None
+            })
+        return data
